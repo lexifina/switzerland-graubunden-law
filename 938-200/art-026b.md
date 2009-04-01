@@ -1,0 +1,3 @@
+# Art. 26b Ausstand
+1 Mitglieder des Bankrates sowie die Mitarbeiterinnen und Mitarbeiter der Bank haben bei der Bearbeitung und Beschlussfassung über Geschäfte, an denen sie selbst, ihr Ehegatte, ihre Verwandten und Verschwägerten bis zum zweiten Grad oder Personen, mit denen sie zusammen in eingetragener Partnerschaft oder faktischer Lebensgemeinschaft leben, ein unmittelbares persönliches Interesse haben, in Ausstand zu treten.
+2 Für diese Personen gilt die Ausstandspflicht auch bei Geschäften mit der eigenen Firma oder juristischen Personen und Personengesellschaften, deren Geschäftsleitung, Verwaltung oder Revisionsstelle sie angehören.
