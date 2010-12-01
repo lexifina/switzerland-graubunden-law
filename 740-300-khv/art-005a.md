@@ -1,0 +1,3 @@
+# Art. 5a Ausserordentliche Notsituationen für das Wild
+1 Das Amt für Jagd und Fischerei kann in ausserordentlichen Notsituationen für das Wild das Betreten von Einstandsgebieten untersagen, Wegegebote erlassen, eine Leinenpflicht für Hunde und weitere zweckmässige Massnahmen zum Schutz des Wildes vor Störungen anordnen. Diese Massnahmen sind örtlich und zeitlich zu begrenzen sowie in angemessener Form der Öffentlichkeit bekannt zu geben.
+2 Der Kanton entrichtet in ausserordentlichen Notsituationen für das Wild Beiträge an die Futterkosten sowie für die weiteren in den entsprechenden Konzepten vorgesehenen Massnahmen.
