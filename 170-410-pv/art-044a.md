@@ -1,0 +1,2 @@
+# Art. 44a Sparplanausbau
+1 Der Kanton leistet für Dienststellenleitende, deren Stellvertretende, die Departementssekretärinnen und -sekretäre sowie für Personen, deren versicherter Lohn nach den Bestimmungen von Artikel 5 des Pensionskassengesetzes mehr als 124 609 Franken beträgt, einen zusätzlichen Sparbeitrag von vier Prozent des versicherten Lohnes. Der versicherte Lohn wird jeweils auf den 1. Januar um den von der Regierung beschlossenen Teuerungsausgleich und um allfällige Reallohnverbesserungen erhöht.
