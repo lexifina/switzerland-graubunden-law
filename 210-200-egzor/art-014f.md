@@ -1,0 +1,3 @@
+# Art. 14f Unlauterer Wettbewerb
+1 Die von der Regierung bezeichnete kantonale Preiskontrollstelle überwacht die vorschriftsgemässe Bekanntgabe von Detailpreisen, von Grundpreisen messbarer Waren, von Preisen bei Dienstleistungen und in der Werbung sowie die Einhaltung der Bestimmungen gegen irreführende Preisbekanntgabe. Sie ist verpflichtet, Verstösse gegen die Pflicht zur Preisbekanntgabe an Konsumentinnen und Konsumenten den Strafverfolgungsbehörden anzuzeigen.
+2 Die Gemeinden bezeichnen eine für diese Überwachung in ihrem Gebiet zuständige Stelle. Diese verzeigt Verstösse gegen die Vorschriften über die Bekanntgabe von Preisen der kantonalen Preiskontrollstelle.

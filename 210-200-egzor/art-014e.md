@@ -1,0 +1,3 @@
+# Art. 14e 5. Wiedereintragung
+1 Die Bezirksgerichtspräsidentin beziehungsweise der Bezirksgerichtspräsident entscheidet im Verfahren der freiwilligen Gerichtsbarkeit über die Wiedereintragung einer im Handelsregister gelöschten Rechtseinheit.
+2 …
