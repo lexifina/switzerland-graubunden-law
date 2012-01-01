@@ -1,0 +1,3 @@
+# Art. 15b Einfuhr von brennbaren Abfällen
+1 Die Einfuhr von mehr als 2000 Tonnen brennbaren Abfällen pro Abgeber oder Abgeberin und pro Jahr von ausserhalb des Kantons Graubünden zur Verbrennung in der Kehrichtverbrennungsanlage (KVA) Trimmis bedarf der Bewilligung durch die Fachstelle.
+2 Der Betreiber oder die Betreiberin der KVA Trimmis stellt ein Gesuch um die Bewilligung, sobald feststeht oder angenommen werden kann, dass ein Abgeber oder eine Abgeberin die Mengenschwelle von 2000 Tonnen pro Jahr erreicht. Wenn die Abfälle nicht per Bahn transportiert werden, ist im Gesuch darzulegen, weshalb der Bahntransport nicht möglich ist.
