@@ -1,0 +1,3 @@
+# Art. 40a Luft-Wasser-Wärmepumpen
+1 Für Luft-Wasser-Wärmepumpen können Beiträge ausgerichtet werden, wenn die Voraussetzungen gemäss Artikel 40 erfüllt sind und die Anlagen an einem Standort mit einer Jahresmitteltemperatur von mehr als 7,3 °C realisiert werden.
+2 Die Berechnung der Jahresmitteltemperatur gemäss Absatz 1 erfolgt gestützt auf die Norm SIA 381/3 und basierend auf den Meteodaten nach SIA Merkblatt 2028 (Ausgabe 2010). Befindet sich die Luft-Wasser-Wärmepumpe in einer im Anhang 12 aufgeführten Gemeinde, kann der Gesuchsteller von der Pflicht zum Nachweis der Jahresmitteltemperatur befreit werden.
