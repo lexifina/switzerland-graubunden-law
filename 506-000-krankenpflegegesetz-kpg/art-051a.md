@@ -1,0 +1,3 @@
+# Art. 51a Kantonsspital Graubünden
+1 …
+2 Die Regierung stellt sicher, dass bei den von ihr gewählten Stiftungsratsmitgliedern der Stiftung „Kantonsspital Graubünden“ beide Geschlechter vertreten sind.

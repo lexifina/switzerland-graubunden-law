@@ -1,0 +1,2 @@
+# Art. 49c 3. Alters- und Pflegeheime und Pflegegruppen
+1 An Bauprojekte, bei denen vor dem In-Kraft-Treten der Teilrevision ein den Vorgaben der zuständigen Dienststellen entsprechendes Gesuch eingereicht wurde, werden Investitionsbeiträge nach bisherigem Recht ausgerichtet, soweit innert sechs Jahren nach In-Kraft-Treten der Teilrevision eine Abrechnung eingereicht wird. Während eines Rechtsmittelverfahrens steht diese Frist still.

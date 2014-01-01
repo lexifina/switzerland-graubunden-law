@@ -1,0 +1,2 @@
+# Art. 10c 4. Kündigung des Leistungsauftrags
+1 Die Regierung und die Spitäler können den Leistungsauftrag unter Einhaltung einer Frist von zwölf Monaten auf das Jahresende hin künden.

@@ -1,0 +1,2 @@
+# Art. 18c Notfall- und Krankentransport
+1 Die Regierung teilt den Gesamtkredit für den Anteil des Kantons an den Beiträgen des Kantons und der Gemeinden für den Notfall- und Krankentransportdienst unter Berücksichtigung des Rettungskonzepts sowie des Kostendeckungsgrades bei wirtschaftlicher Führung und angemessener Ausgestaltung und Organisation des Rettungsdienstes auf die Spitäler und auf die Spitalregion Mesolcina-Calanca auf.
