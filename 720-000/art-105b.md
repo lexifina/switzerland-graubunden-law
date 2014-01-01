@@ -1,0 +1,3 @@
+# Art. 105b IV. Interkantonale Verhältnisse 1. Ausserkantonale Steuerpflichtige
+1 Ist der Steuerpflichtige, für den der Schuldner der steuerbaren Leistung mit Wohnsitz, Sitz oder Betriebsstätte im Kanton den Steuerabzug vorgenommen hat, nicht im Kanton steuerpflichtig, überweist die kantonale Steuerbehörde die abgelieferten Steuern der zuständigen Steuerbehörde des zur Besteuerung befugten Kantons.
+2 Verlegt eine nach Artikel 98 Absatz 1 Litera a und Absatz 2 sowie Artikel 99 und 105a steuerpflichtige natürliche Person innerhalb der Schweiz ihren Wohnsitz oder Aufenthalt, steht dem jeweiligen Wohnsitz- oder Aufenthaltskanton das Besteuerungsrecht im Verhältnis zur Dauer der Steuerpflicht zu.

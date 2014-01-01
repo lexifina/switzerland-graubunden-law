@@ -1,0 +1,2 @@
+# Art. 188e f) Wechsel der Steuerpflicht
+1 Beim Wechsel der Steuerpflicht kraft persönlicher Zugehörigkeit innerhalb der Schweiz wird die Steuerpflicht hinsichtlich der Einkommens- und Vermögenssteuer für die laufende Steuerperiode zwischen dem Kanton Graubünden und dem andern Kanton aufgeteilt, falls der andere Kanton die zeitliche Bemessung gemäss der zweijährigen Vergangenheitsbemessung vornimmt oder keine Artikel 70 entsprechende Bestimmung kennt.

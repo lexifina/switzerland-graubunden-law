@@ -1,0 +1,3 @@
+# Art. 188a b) Wechsel zur Präponderanzmethode
+1 Werden Liegenschaften, die insgesamt oder teilweise dem Geschäftsvermögen zugehören, durch den Wechsel zur Präponderanzmethode dem Privatvermögen zugeordnet, sind Gewinne nur in dem Umfang als Einkommen steuerbar, in dem früher Abschreibungen zugelassen worden waren. Für die Grundstückgewinnsteuer finden in der Folge Artikel 48 Absatz 3 und Artikel 53 Absatz 3 analoge Anwendung.
+2 Werden Liegenschaften, die insgesamt oder teilweise dem Privatvermögen zugehören, durch den Wechsel zur Präponderanzmethode dem Geschäftsvermögen zugeordnet, gilt als Erlös im Sinne von Artikel 47 der Wert, zu dem das Vermögensobjekt in der Unternehmung aktiviert wird.

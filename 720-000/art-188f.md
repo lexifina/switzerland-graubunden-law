@@ -1,0 +1,5 @@
+# Art. 188f g) Nachlasssteuer: Erbvorbezug
+1 Vor dem 1. Januar 2001 vollzogene Erbvorbezüge unter Ehegatten werden per 31. Dezember 2000 besteuert. Für die Bewertung des Vorempfanges sind die Verhältnisse zur Zeit der Ausrichtung massgebend.
+2 Die noch nicht besteuerten Erbvorbezüge an die Nachkommen und an diesen gleichgestellte Personen werden mit dem Inkrafttreten dieser Teilrevision besteuert. Die Besteuerung erfolgt nach den vor dem Inkrafttreten der Teilrevision geltenden Steuersätzen zum Wert im Zeitpunkt der Ausrichtung des Vorempfangs.
+3 Um Härten zu vermeiden, gewährt die Steuerverwaltung grosszügige Zahlungsfristen. Sie kann dabei auf die Erhebung eines Verzugszinses verzichten.
+4 Andere Vorempfänge auf Rechnung künftiger Erbschaft, die vor dem 1. Januar 2001 ausgerichtet und noch nicht besteuert wurden, werden im Zeitpunkt des Erbgangs zusammen mit dem übrigen Nachlass besteuert. Die Besteuerung erfolgt nach den vor dem Inkrafttreten der Teilrevision geltenden Steuersätzen zum Wert im Zeitpunkt der Ausrichtung des Vorempfangs.

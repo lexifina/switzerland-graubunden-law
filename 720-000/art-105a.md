@@ -1,0 +1,7 @@
+# Art. 105a 2. Nachträgliche ordentliche Veranlagung
+1 Übersteigen die dem Steuerabzug an der Quelle unterliegenden Bruttoeinkünfte einer nach Artikel 98 Absatz 1 Litera a besteuerten Person in einem Kalenderjahr den von der Regierung festgelegten Betrag, wird eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen durchgeführt. Die an der Quelle abgezogene Steuer wird zinslos angerechnet; zuviel bezogene Steuern werden zinslos zurückbezahlt.
+2 Hat die Steuerpflicht im Kanton nicht während eines vollen Kalenderjahres bestanden, sind die an der Quelle besteuerten, auf zwölf Monate umgerechneten Bruttoeinkünfte massgebend.
+3 In den nachfolgenden Jahren wird bis zum Ende der Quellensteuerpflicht eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen auch dann durchgeführt, wenn der durch die Regierung festgelegte Betrag unterschritten wird.
+4 Nach Artikel 98 Absatz 1 Litera a besteuerte Personen sowie unter Artikel 98 Absatz 1 Litera b fallende Quasi-Ansässige können die Gewährung von Abzügen verlangen, die nicht in den Tarifen berücksichtigt sind. Die Regierung legt die Abzüge fest, für welche eine Tarifkorrektur möglich ist.
+5 Tarifkorrektur und nachträgliche ordentliche Veranlagung können längstens bis Ende März des dem Steuerjahr folgenden Jahres beantragt werden.
+6 Die Regierung kann die nachträgliche ordentliche Veranlagung und die Tarifkorrektur auf andere Quellenbesteuerte ausdehnen, wenn die Rechtsprechung oder internationale Vereinbarungen dies erforderlich machen.

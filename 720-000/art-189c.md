@@ -1,0 +1,2 @@
+# Art. 189c d) Immobiliengesellschaft: Wirtschaftliche Handänderung
+1 Wurde nach dem 31. Dezember 1996 der Verkauf der Aktien an einer Immobiliengesellschaft mit der Grundstückgewinnsteuer erfasst, können die noch gehaltenen Liegenschaften in der Steuerbilanz endend im Kalenderjahr 2011 oder 2012 ohne Gewinnsteuerfolgen um die besteuerten Gewinne aufgewertet werden. Die Aufwertung muss als Erhöhung der allgemeinen Reserven verbucht werden.

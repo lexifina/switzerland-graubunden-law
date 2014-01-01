@@ -1,0 +1,2 @@
+# Art. 21a b) Teilbesteuerung im Privatvermögen
+1 Zur Milderung der wirtschaftlichen Doppelbelastung bei massgebenden Beteiligungen sind Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen im Umfang von 60 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.

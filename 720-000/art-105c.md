@@ -1,0 +1,4 @@
+# Art. 105c 2. Ausserkantonale Schuldner
+1 Im Kanton unbeschränkt oder beschränkt Steuerpflichtige, für die ein ausserkantonaler Schuldner der steuerbaren Leistung den Steuerabzug vorgenommen hat, unterliegen der Quellensteuerpflicht nach diesem Gesetz.
+2 Die vom ausserkantonalen Schuldner abgezogene und überwiesene Steuer wird an die nach diesem Gesetz geschuldete Steuer zinslos angerechnet.
+3 Zuviel bezogene Steuern werden dem Steuerpflichtigen zinslos zurückbezahlt; zuwenig bezogene Steuern werden von ihm zinslos nachgefordert.
