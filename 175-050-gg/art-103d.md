@@ -1,0 +1,2 @@
+# Art. 103d 2. Vermögen und Verbindlichkeiten
+1 Ein allfällig vorhandenes Verbandsvermögen beziehungsweise allfällige Verbindlichkeiten sind je nach ihrer Kostenbeteiligung beziehungsweise ihrer Beitragspflicht auf die Regionalverbandsgemeinden zu verteilen, sofern die Statuten nichts anderes vorsehen oder sich die Regionalverbandsgemeinden nicht anderweitig einigen. Die Regionalverbände teilen den Abschluss des Liquidationsverfahrens und damit gleichzeitig ihre Auflösung der Regierung mit.

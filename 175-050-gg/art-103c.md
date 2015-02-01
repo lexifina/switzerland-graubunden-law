@@ -1,0 +1,3 @@
+# Art. 103c V. Übergangsbestimmungen zur Teilrevision vom 23. April 2014 betreffend Regionalverbände 1. Gültiges Recht
+1 Die Regionalverbände können die ihnen übertragenen Aufgaben bis längstens zwei Jahre nach Inkrafttreten der Einteilung des Kantons in Regionen erfüllen. Für diese Regionalverbände gelten für die Dauer ihres Bestehens die Bestimmungen von Artikel 1 und 50 bis 59 beziehungsweise die für Regionalverbände im Weiteren massgebenden Bestimmungen fort.
+2 Regionalverbände, welche keine Aufgaben mehr erfüllen, werden auf diesen Zeitpunkt hin aufgelöst, womit für sie die Bestimmungen gemäss Absatz 1 hinfällig werden.
