@@ -1,4 +1,4 @@
-# Gesetz über die Einwohnerregister
+# Gesetz über die Einwohnerregister und weitere Personen- und Objektregister
 (Einwohnerregistergesetz, ERG)
 Vom 15.06.2010
 Der Grosse Rat des Kantons Graubünden,
