@@ -4,5 +4,5 @@
 ### 3.1. Aufnahmeprüfung im Talentbereich Sport
 ### 3.2. Aufnahmeprüfung im Talentbereich Musik
 ### 3.3. Bewertung und Bestehensvoraussetzungen
-## 4. Rechtsschutz
+## 4. Aufnahmeentscheid und Rechtsschutz
 ## 5. Schlussbestimmungen
