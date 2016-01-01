@@ -1,5 +1,5 @@
-# Ausführungsbestimmungen zum Gesetz über den interkommunalen Finanzausgleich
-(ABzFAG)
-Vom 29.11.1993
-Gestützt auf Art. 14 der grossrätlichen Vollziehungsverordnung zum Finanzausgleichsgesetz vom 3. März 1993
-von der Regierung erlassen am 29. November 1993
+# Verordnung über den Finanzausgleich
+(FAV)
+Vom 30.06.2015
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 30. Juni 2015
