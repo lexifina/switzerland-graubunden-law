@@ -17,7 +17,7 @@
 ##### 4.1.1.1. Volksinitiative
 ##### 4.1.1.2. Gemeindeinitiative
 #### 4.1.2. Behandlung und Abstimmung
-### 4.2. Initiative in Kreis- und Gemeindeangelegenheiten
+### 4.2. Initiative in Regions- und Gemeindeangelegenheiten
 ## 5. Verfahren für das fakultative Referendum in kantonalen Angelegenheiten
 ### 5.1. Volksreferendum
 ### 5.2. Gemeindereferendum

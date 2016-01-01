@@ -7,4 +7,4 @@
 5. der Kaufpreis für jeden ausgerufenen Gegenstand;
 6. der Name der Käuferin oder des Käufers.
 2 Bei Grundstückssteigerungen hat die Käuferschaft ihren Namen eigenhändig beizufügen.
-3 Das Steigerungsprotokoll ist von der Steigerungsleiterin oder vom Steigerungsleiter und von der Protokollführerin oder vom Protokollführer zu unterzeichnen und beim Kreisamt zu deponieren.
+3 Das Steigerungsprotokoll ist von der Steigerungsleiterin oder vom Steigerungsleiter und von der Protokollführerin oder vom Protokollführer zu unterzeichnen und bei der Region zu deponieren.

@@ -1,0 +1,4 @@
+# Art. 62c 4. Zusammenarbeit mit anderen Regionen
+1 Die Regionen können die ihnen übertragenen Aufgaben gemeinsam erfüllen. Ohne einvernehmliche Lösung ist die einwohnermässig grösste Region für die entsprechende Organisation verantwortlich, wofür sie angemessen zu entschädigen ist.
+2 Die Einzelheiten sind mittels Leistungsvereinbarung zu regeln.
+3 Die Region kann bei überregionalen Aufgaben die benachbarte Region oder einzelne Gemeinden beiziehen oder konsultieren. Die Beigezogenen oder Konsultierten haben kein Stimmrecht.

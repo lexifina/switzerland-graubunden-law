@@ -1,0 +1,6 @@
+# Art. 62k b) Aufgaben
+1 Der Regionalausschuss ist die Verwaltungsbehörde der Region. Ihm obliegen im Wesentlichen folgende Aufgaben:
+a) Wahl der Geschäftsstelle, des übrigen Geschäftsstellenpersonals und des weiteren Regionalpersonals gemäss den Statuten;
+b) Vertretung der Region nach aussen;
+c) Vorbereitung der Geschäfte zuhanden der Präsidentenkonferenz mit entsprechender Antragstellung.
+2 Die Statuten der Region regeln die weiteren Aufgaben des Regionalausschusses.
