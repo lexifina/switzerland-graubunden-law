@@ -1,4 +1,5 @@
 ## 1. Notariatsprüfung
+## 1a. Wählbarkeitsvoraussetzungen von Regionalnotarinnen und Regionalnotaren
 ## 2. Amtsantritt
 ## 3. Protokollierungen
 ## 4. Aufbewahrungen
