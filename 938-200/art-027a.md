@@ -1,2 +1,1 @@
-# Art. 27a Übergangsbestimmung
-1 Vom 1. April 2009 bis 31. März 2011 besteht der Bankrat aus neun Mitgliedern. Die Regierung verlängert die Amtsperioden von Mitgliedern des Bankrates, welche am 31. März 2010 enden, um ein Jahr. Bei einem vorzeitigen Rücktritt bis zum 31. März 2011 erfolgt keine Ersatzwahl. Die am 1. April 2011 beginnenden Amtsperioden dauern für je 2 Mitglieder des Bankrates jeweils zwei, drei und vier Jahre.
+# Art. 27a …

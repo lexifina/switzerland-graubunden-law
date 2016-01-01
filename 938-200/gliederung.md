@@ -3,11 +3,11 @@
 ## 3. Organisation
 ### 3.1. Bankrat
 ### 3.2. …
-### 3.3. Bankpräsidentin / Bankpräsident
+### 3.3. …
 ### 3.4. Geschäftsleitung
-### 3.5. Kontrolle
+### 3.5. Kontrollorgane
 ## 4. Aufsicht
-## 5. Kantonale Behörden
-## 6. Jahresrechnung, Reingewinn
-## 7. Verschiedene Bestimmungen
+## 5. …
+## 6. Verschiedene Bestimmungen
+## 7. …
 ## 8. Schlussbestimmungen
