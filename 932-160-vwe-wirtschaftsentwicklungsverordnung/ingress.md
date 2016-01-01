@@ -1,5 +1,5 @@
-# Verordnung über die Förderung der wirtschaftlichen Entwicklung im Kanton Graubünden
-(Wirtschaftsentwicklungsverordnung)
-Vom 14.08.2007
-Gestützt auf Art. 45 Absatz 1 der Kantonsverfassung und Art. 20 des Gesetzes über die Förderung der wirtschaftlichen Entwicklung im Kanton Graubünden
-von der Regierung erlassen am 14. August 2007
+# Verordnung über die Förderung der wirtschaftlichen Entwicklung in Graubünden
+(VWE, Wirtschaftsentwicklungsverordnung)
+Vom 22.12.2015
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung und Art. 32 Abs. 1 des Gesetzes über die Förderung der wirtschaftlichen Entwicklung in Graubünden
+von der Regierung erlassen am 22. Dezember 2015
