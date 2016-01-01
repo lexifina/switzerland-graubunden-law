@@ -21,7 +21,7 @@
 #### 5.1.1. Gemeindearten
 #### 5.1.2. Interkommunale Zusammenarbeit und Zusammenschluss
 #### 5.1.3. Stellung und Organisation
-### 5.2. Kreise, Bezirke und Regionalverbände
+### 5.2. Regionen
 #### 5.2.1. Einteilung des Kantonsgebietes
 #### 5.2.2. Rechtsstellung und Aufgaben
 #### 5.2.3. Organisation und Aufsicht
