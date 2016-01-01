@@ -1,0 +1,6 @@
+# Art. 97a b) Tatbestände
+1 Die Aufsichtsstelle schreitet insbesondere bei folgenden Tatbeständen ein:
+a) die Verschuldung hat einen kritischen Wert erreicht oder steuert auf einen solchen hin;
+b) es wird ein Bilanzfehlbetrag ausgewiesen oder ein solcher ist aufgrund des negativen Trends bei der Selbstfinanzierung zu befürchten;
+c) die Grundsätze der Haushaltsführung und Rechnungslegung werden in erheblicher Weise missachtet.
+2 Gemeinden, welche einmalige oder wiederkehrende Ausgaben oder Einnahmenverzichte planen, die zu einem Anstieg der Verschuldung auf einen kritischen Wert führen könnten, haben diese vorgängig der Aufsichtsstelle zu melden.

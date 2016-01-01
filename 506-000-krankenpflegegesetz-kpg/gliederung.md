@@ -7,7 +7,7 @@
 ## 7. Vollzug
 ## 8. Beiträge an Arzthäuser und Arztwartgelder
 ## 9. Beiträge an die Dienste der häuslichen Pflege und Betreuung sowie an die anerkannten Pflegefachpersonen
-## 10. Beiträge an die Dienste der Mütter- und Väterberatung
+## 10. …
 ## 11. Rettungswesen
 ## 12.a Institutionen für Kinder- und Jugendpsychiatrie
 ## 13. Schlussbestimmungen

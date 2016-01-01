@@ -7,12 +7,13 @@
 ### 1.5. Kopfsteuer
 ### 1.6. Zeitliche Bemessung
 ### 1.7. Verrechnungssteuer
-## 2. Die Steuern der juristischen Personen
+## 2. Gewinn- und Kapitalsteuer
 ### 2.1. Steuerpflicht
 ### 2.2. Gewinnsteuer
 ### 2.3. Kapitalsteuer
 ### 2.4. Minimalsteuer
 ### 2.5. Zeitliche Bemessung
+### 2.6. Gemeinden
 ## 3. …
 ## 3a. Kultussteuer
 ## 4. Quellensteuer
