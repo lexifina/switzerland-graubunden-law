@@ -1,3 +1,3 @@
 # Verordnung über das Amtsblatt des Kantons Graubünden
-Vom 23.03.1998
-Von der Regierung erlassen am 23. März 1998
+Vom 01.07.2014
+Von der Regierung erlassen am 1. Juli 2014
