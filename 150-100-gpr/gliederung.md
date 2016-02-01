@@ -5,7 +5,7 @@
 ## 2. Wahlen und Abstimmungen
 ### 2.1. Wahl- und Abstimmungsorganisation
 ### 2.2. Anordnung der Wahlen und Abstimmungen
-### 2.2.a Stille Wahl der Mitglieder der Bezirksgerichte
+### 2.2.a Stille Wahl der Mitglieder der Regionalgerichte
 ### 2.3. Wahl- und Abstimmungsunterlagen
 ### 2.4. Stimmabgabe
 ### 2.5. Ermittlung des Wahl- und Abstimmungsergebnisses
