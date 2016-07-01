@@ -13,6 +13,7 @@
 ### 4.2. Quartierplanverfahren
 ### 4.3. Beitragsverfahren
 ### 4.4. Verfahren für Landumlegungen und Grenzbereinigungen
+### 4.5. Ausführungsbestimmungen zur Bundesgesetzgebung über Zweitwohnungen
 ## 5. Kantonale Bauvorschriften
 ### 5.1. Begriffe und Messweisen
 ### 5.2. Landwirtschaftlicher Wohnraum
