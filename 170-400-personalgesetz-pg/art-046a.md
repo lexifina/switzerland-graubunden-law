@@ -1,0 +1,3 @@
+# Art. 46a Gesundheitsschutz bei Schwangerschaft und Mutterschaft
+1 Während der Schwangerschaft darf die Mitarbeiterin auf blosse Anzeige hin der Arbeit fern bleiben oder diese verlassen.
+2 Nach der Niederkunft darf die Mitarbeiterin während der ersten acht Wochen nicht und während der nächsten acht Wochen nur mit ihrem Einverständnis beschäftigt werden. Die Regierung kann vorsehen, dass für Arbeitseinsätze von geringem Umfang ausnahmsweise vom beidseitigen Beschäftigungsverbot abgewichen werden darf. Wenn die Mitarbeiterin während dieser Zeit wieder teilweise oder vollumfänglich arbeitet, wird ihr dafür der volle Lohn ausgerichtet.
