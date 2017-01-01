@@ -1,4 +1,5 @@
 # Einführungsgesetz zum Schweizerischen Obligationenrecht
+(EGzOR)
 Vom 20.10.2004
 Der Grosse Rat des Kantons Graubünden,
 gestützt auf Art. 31 der Kantonsverfassung,

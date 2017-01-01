@@ -1,5 +1,5 @@
 # Gesetz über den Finanzhaushalt des Kantons Graubünden
-(Finanzhaushaltsgesetz; FHG)
+(Finanzhaushaltsgesetz, FHG)
 Vom 19.10.2011
 Der Grosse Rat des Kantons Graubünden,
 gestützt auf Art. 31 Abs. 1 der Kantonsverfassung,

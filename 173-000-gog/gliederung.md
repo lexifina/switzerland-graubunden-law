@@ -10,7 +10,7 @@
 #### 3.1.3. Aktuariat
 #### 3.1.4. Gerichtskanzlei
 ### 3.2. Kantonales Zwangsmassnahmengericht
-### 3.3. Bezirksgerichte
+### 3.3. Regionalgerichte
 ## 4. Schlichtungsbehörden
 ### 4.1. Vermittleramt
 ### 4.2. Schlichtungsbehörde für Mietsachen
