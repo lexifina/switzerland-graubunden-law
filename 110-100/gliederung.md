@@ -17,7 +17,7 @@
 ### 4.4. Gerichte
 ### 4.5. Ausübung von Mitwirkungsrechten im Bund
 ## 5. Gliederung des Kantons
-### 5.1. Gemeinden und interkantonale Zusammenarbeit
+### 5.1. Gemeinden und interkommunale Zusammenarbeit
 #### 5.1.1. Gemeindearten
 #### 5.1.2. Interkommunale Zusammenarbeit und Zusammenschluss
 #### 5.1.3. Stellung und Organisation
