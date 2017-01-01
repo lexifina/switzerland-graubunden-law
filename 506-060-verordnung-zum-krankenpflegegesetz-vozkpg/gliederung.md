@@ -2,6 +2,7 @@
 ## 2. Rechnungslegung der Spitäler
 ## 3. Beiträge an die Angebote zur stationären Pflege und Betreuung von Langzeitpatienten und von betagten Personen
 ## 4. …
+## 4a. Einrichtungen des betreuten Wohnens
 ## 5. Beiträge an die Dienste der häuslichen Pflege und Betreuung und an die anerkannten Pflegefachpersonen
 ## 6. …
 ## 7. Beiträge an das Rettungswesen
