@@ -1,0 +1,5 @@
+# Art. 60c 3. Verantwortlichkeiten
+1 Die Dienststellen sind dafür verantwortlich, dass dem PA die in die zentralen Personaldossiers abzulegenden Unterlagen und Dokumente zur Verfügung stehen.
+2 Das PA ist dafür verantwortlich, dass die von ihm betriebenen elektronischen Personalinformationssysteme und Personaldossiers und die Zugriffs- und Bearbeitungsrechte hinsichtlich der darin enthaltenen Personendaten nach Massgabe der datenschutzrechtlichen Vorgaben, insbesondere des Kantonalen Datenschutzgesetzes und der Verordnung über den Einsatz der Informatik in der Verwaltung Graubünden, eingerichtet und geführt werden.
+3 Die beteiligten Instanzen sind gemeinsam dafür verantwortlich, dass datenschutzrechtliche Ansprüche nach ihrer Geltendmachung innert angemessener Frist erfüllt werden.
+4 Wer Daten von Mitarbeitenden und Bewerbenden bearbeitet, hat die allgemeinen datenschutzrechtlichen Vorgaben, insbesondere das Kantonale Datenschutzgesetz und die Verordnung über den Einsatz der Informatik in der Verwaltung Graubünden zu beachten.
