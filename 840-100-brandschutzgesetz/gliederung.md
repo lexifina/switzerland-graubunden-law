@@ -1,7 +1,7 @@
 ## 1. Gegenstand und Aufgabenzuweisung
 ## 2. Vorbeugender Brandschutz
 ### 2.1. Allgemeine Bestimmungen
-### 2.2. Brandschutzbewilligung
+### 2.2. Feuerpolizeiliche Bewilligung
 ### 2.3. Brandschutzkontrollen
 ### 2.4. Kaminfegerwesen
 ## 3. Feuerwehr
