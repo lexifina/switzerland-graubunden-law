@@ -1,6 +1,6 @@
 ## 1. Vorbeugender Brandschutz
 ### 1.1. Allgemeine Bestimmungen
-### 1.2. Brandschutzbewilligung
+### 1.2. Feuerpolizeiliche Bewilligung
 ### 1.3. Brandschutzkontrollen
 ### 1.4. Gebühren
 ### 1.5. Kaminfegerwesen
