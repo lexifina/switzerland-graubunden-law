@@ -1,2 +1,0 @@
-# Art. 22a 2. Dienste ohne kommunalen Leistungsauftrag
-1 Die anerkannten Kosten der Dienste ohne kommunalen Leistungsauftrag betragen 85 Prozent der anerkannten Kosten der Dienste mit kommunalem Leistungsauftrag.
