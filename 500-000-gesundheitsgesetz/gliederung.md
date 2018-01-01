@@ -1,10 +1,19 @@
-## 1. Allgemeines
-## 2. Organisation und Zuständigkeit
+## 1. Allgemeine Bestimmungen
+## 2. Zuständigkeiten
 ## 3. Gesundheitsförderung und Prävention
-## 4. Einrichtungen der Gesundheitspflege
-## 5. Angebote zur stationären Pflege und Betreuung von Langzeitpatienten und von betagten Personen sowie zur häuslichen Pflege und Betreuung
-## 6. Berufe im Gesundheitswesen
-### 6.1. Allgemeines
-### 6.2. Rechte und Pflichten
-## 7. Rechtspflege und Gebühren
-## 8. Schlussbestimmungen
+## 4. Gesundheitspolizeiliche Bewilligungen
+### 4.1. Allgemeine Bestimmungen
+### 4.2. Berufe des Gesundheitswesens
+### 4.3. Betriebe des Gesundheitswesens
+## 5. Pflichten der Gesundheitsfachpersonen und der Betriebe des Gesundheitswesens
+### 5.1. Allgemeine Pflichten
+### 5.2. Gesundheitsfachpersonen
+### 5.3. Betriebe des Gesundheitswesens
+## 6. Notfalldienst
+## 7. Rechte und Pflichten der Patientinnen und Patienten
+### 7.1. Rechte
+### 7.2. Pflichten
+## 8. Verhütung und Bekämpfung übertragbarer Krankheiten des Menschen
+## 9. Bestattungswesen
+## 10. Rechtspflege
+## 11. Schlussbestimmungen

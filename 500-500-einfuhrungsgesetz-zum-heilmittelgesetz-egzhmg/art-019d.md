@@ -1,0 +1,2 @@
+# Art. 19d Entzug der Abgabeberechtigung
+1 Bei vorsätzlicher oder fahrlässiger Widerhandlung gegen die Abgabeeinschränkung von Artikel 19c Absatz 1 Litera b oder bei Verweigerung der Gewährung der Einsichtnahme in die Unterlagen gemäss Artikel 19c Absatz 2 kann das Amt den betreffenden Ärzten beziehungsweise Ärztinnen die Abgabeberechtigung von Arzneimitteln für die Dauer von einem bis fünf Jahren entziehen.
