@@ -1,5 +1,6 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Sing- und Musikschulen
-## 3. Professionelles Kulturschaffen
-## 4. Besondere Förderungsmassnahmen
-## 5. Schlussbestimmungen
+## 2. Kulturförderungskonzept
+## 3. Kommissionen
+## 4. Besondere Fördermassnahmen
+## 5. Sing- und Musikschulen
+## 6. Finanzierung

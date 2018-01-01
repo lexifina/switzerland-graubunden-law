@@ -1,5 +1,5 @@
 # Verordnung zum Gesetz über die Förderung der Kultur
 (Kulturförderungsverordnung, KFV)
-Vom 12.01.1998
-Gestützt auf Art. 10 und 24 des Gesetzes über die Förderung der Kultur (Kulturförderungsgesetz, KFG) vom 28. September 1997
-von der Regierung erlassen am 12. Januar 1998
+Vom 12.12.2017
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 12. Dezember 2017
