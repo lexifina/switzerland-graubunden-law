@@ -1,5 +1,5 @@
 # Verordnung zum Bürgerrechtsgesetz des Kantons Graubünden
 (KBüV)
-Vom 13.12.2005
-Gestützt auf Art. 45 der Kantonsverfassung
-von der Regierung erlassen am 13. Dezember 2005
+Vom 12.12.2017
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 12. Dezember 2017

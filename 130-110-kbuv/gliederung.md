@@ -1,7 +1,8 @@
 ## 1. Allgemeines
-## 2. Erwerb durch Einbürgerung
-### 2.1. Allgemeine Bestimmungen
-### 2.2. Verfahren
-## 3. Entlassung aus dem Bürgerrecht
-## 4. Gebühren
-## 5. In-Kraft-Treten
+## 2. Einbürgerungsvoraussetzungen
+### 2.1. Ausländerinnen und Ausländer
+### 2.2. Schweizerinnen und Schweizer
+### 2.3. Ausnahmen
+## 3. Einbürgerungsverfahren
+## 4. Entlassung aus dem Bürgerrecht
+## 5. Gebühren
