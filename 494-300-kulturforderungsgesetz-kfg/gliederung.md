@@ -1,7 +1,7 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Kulturelle Institutionen
-## 3. Sing- und Musikschulen
-## 4. Förderungsmassnahmen
-## 5. Kulturförderungskommission
-## 6. Finanzierung
-## 7. Schlussbestimmungen
+## 2. Kantonale kulturelle Institutionen
+## 3. Kantonale Kulturförderung
+## 4. Wettbewerbe und Preise
+## 5. Kulturförderung durch die Gemeinden
+## 6. Kulturkommission
+## 7. Finanzierung
