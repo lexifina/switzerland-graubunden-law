@@ -1,8 +1,0 @@
-# Art. 21c Betriebsbeiträge der öffentlichen Hand
-1 Der Kanton und die Gemeinden gewähren den auf der Pflegeheimliste aufgeführten Alters- und Pflegeheimen und Pflegegruppen leistungsbezogene Beiträge an:
-a) die Pflegeleistungen;
-b) die Leistungen der Akut- und Übergangspflege.
-2 Der Beitrag des Kantons und der Gemeinden beträgt 25 Prozent beziehungsweise 75 Prozent der nicht durch die obligatorische Krankenpflegeversicherung und die maximale Kostenbeteiligung der Bewohner gedeckten anerkannten Pflegekosten.
-3 Bei einem Aufenthalt in einem ausserkantonalen Alters- und Pflegeheim oder in einer ausserkantonalen Pflegegruppe werden die ungedeckten Pflegekosten maximal in dem Umfang übernommen, der bei einem Aufenthalt in einer kantonalen Einrichtung anfallen würde.
-4 Beitragspflichtig ist die Gemeinde, in welcher der Bewohner vor Eintritt in das Alters- und Pflegeheim oder die Pflegegruppe seinen zivilrechtlichen Wohnsitz (Wohnsitz) hatte. Die Gemeinden, in denen der Bewohner in den letzten zehn Jahren vor Eintritt in das Alters- und Pflegeheim oder in die Pflegegruppe Wohnsitz hatte, haben sich anteilmässig am Beitrag zu beteiligen.
-5 Kann eine im Anschluss an einen Spitalaufenthalt der stationären Pflege und Betreuung bedürftige Person vom behandelnden Spital nicht an einen Leistungserbringer gemäss Artikel 3 Absatz 1 Litera b überwiesen werden, hat die Wohnsitzgemeinde dem Spital den Differenzbeitrag zwischen dem vom Krankenversicherer geleisteten Beitrag und den von der Regierung für die oberste Pflegebedarfsstufe anerkannten Kosten gemäss Artikel 21b Absatz 1 Litera a bis d zu leisten.

@@ -1,14 +1,12 @@
-## 1. Allgemeines
+## 1. Allgemeine Bestimmungen
 ## 2. Spitalplanung und Spitalliste
-## 3. Beiträge an die Investitionen von Spitälern
-## 4. Beiträge an Spitäler und Geburtshäuser
-## 5. Beiträge für Angebote für die stationäre Pflege und Betreuung von Langzeitpatienten und betagten Personen
-## 6. Ausbildungsplätze für Schulen des Gesundheits- und Sozialwesens
-## 7. Vollzug
+## 3. Beiträge an Spitäler und Geburtshäuser
+## 4. Pflegeheimplanung und Pflegeheimliste
+## 5. Angebote für die stationäre Pflege und Betreuung von Langzeitpatientinnen und -patienten und betagten Personen
+## 6. Dienste der häuslichen Pflege und Betreuung sowie anerkannte Pflegefachpersonen
+## 7. Aus- und Weiterbildung
 ## 8. Einrichtungen des betreuten Wohnens
-## 9. Beiträge an die Dienste der häuslichen Pflege und Betreuung sowie an die anerkannten Pflegefachpersonen
-## 10. …
-## 11. Rettungswesen
-## 12.a Institutionen für Kinder- und Jugendpsychiatrie
-## 13. Schlussbestimmungen
-## 12. …
+## 9. Rettungswesen
+### 9.1. Allgemeines
+### 9.2. Beiträge
+## 10. Schlussbestimmungen

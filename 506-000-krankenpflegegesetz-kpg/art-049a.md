@@ -1,3 +1,0 @@
-# Art. 49a 2. Spitäler a) Investitionsbeiträge
-1 Bei der Festlegung des Investitionsbeitrages werden in den ersten zehn Jahren nach In-Kraft-Treten der Teilrevision die in den letzten fünfzehn Jahren vor In-Kraft-Treten der Teilrevision geleisteten sowie die von der Regierung bis zum In-Kraft-Treten der Teilrevision zugesicherten aber noch nicht geleisteten Beiträge abgestuft nach dem Beitragsjahr berücksichtigt.
-2 Die vor In-Kraft-Treten der Teilrevision zugesicherten, noch nicht geleisteten Beiträge werden nach bisherigem Recht ausgerichtet. Bei der Festlegung der Beiträge gemäss Artikel 11 Absatz 3 werden sie zu 100 Prozent angerechnet. Die zeitliche Beschränkung gemäss Absatz 1 findet nicht Anwendung.

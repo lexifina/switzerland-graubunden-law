@@ -1,4 +1,0 @@
-# Art. 18d Universitäre Lehre und Forschung
-1 Die Regierung teilt den Gesamtkredit für die Beiträge des Kantons für die universitäre Lehre und die Forschung wie folgt auf die einzelnen Spitäler auf:
-a) innerkantonale Spitäler: insbesondere unter Berücksichtigung der Leistungsvereinbarung, der ausgewiesenen Kosten und Leistungen sowie der Stellenzahl des Vorjahres;
-b) ausserkantonale Spitäler: gemäss interkantonaler Vereinbarung.

@@ -1,7 +1,0 @@
-# Art. 10d 5. Sanktionen
-1 Das zuständige Amt kann das Listenspital mit einer Busse bis 500 000 Franken bestrafen, wenn dieses:
-a) die für die Aufnahme auf die Spitalliste massgebenden Anforderungen gemäss Artikel 10a nicht oder nicht mehr oder nur teilweise erfüllt;
-b) den Leistungsauftrag oder die damit verbundenen Auflagen und Bedingungen nicht einhält;
-c) die ihm zur Sicherstellung der Gesundheitsversorgung gestützt auf Artikel 10b Absatz 2 von der Regierung vorgegebenen Leistungen nicht erbringt;
-d) die Bestimmungen des öffentlichen Beschaffungsrechts nicht einhält.
-2 Die Regierung kann zudem das Spital von der Spitalliste streichen oder den ihm erteilten Leistungsauftrag anpassen.
