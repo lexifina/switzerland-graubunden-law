@@ -1,6 +1,5 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Organisation
-## 3. Durchführung der Schätzung
-## 4. Rechtsmittel
-## 5. Kosten und Gebühren
-## 6. Schlussbestimmungen
+## 2. Amtliche Bewertungen
+## 3. Gebühren und Kostenanteile
+## 4. Rechtsschutz
+## 5. Schlussbestimmungen
