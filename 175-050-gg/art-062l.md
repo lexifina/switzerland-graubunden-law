@@ -1,4 +1,0 @@
-# Art. 62l c) Beschlussfassung
-1 Der Regionalausschuss ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
-2 Die Beschlussfassung erfolgt durch Handmehr. Vorbehältlich von Ausstandsgründen ist jedes Mitglied zur Stimmabgabe verpflichtet.
-3 Bei Stimmengleichheit entscheidet bei Wahlen das Los, bei Abstimmungen gibt der Vorsitzende den Stichentscheid.

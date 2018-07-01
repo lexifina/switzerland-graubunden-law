@@ -1,7 +1,0 @@
-# Art. 97b c) Besondere Finanzaufsicht
-1 Gestützt auf das Ergebnis einer Finanzlageabklärung kann die Regierung eine Gemeinde, eine Bürgergemeinde, eine Region oder einen Gemeindeverband einer besonderen Finanzaufsicht unterstellen.
-2 Die Unterstellung erfolgt in drei unterschiedlichen Interventionsstufen:
-a) Beratung und Beistand;
-b) Beistand mit erweiterten Interventionsbefugnissen der Aufsichtsstelle, einschliesslich der Genehmigung von Beschlüssen mit grösserer finanzieller Tragweite;
-c) Kuratel.
-3 Die Regierung legt die Kriterien sowie die Massnahmen der einzelnen Interventionsstufen fest.

@@ -1,11 +1,10 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Gemeindeorgane
-## 3. Eigentum und Verwaltung des Gemeindevermögens
-## 4. Gemeinwerk, Steuern und andere Abgaben
-## 5. Rechnungswesen
-## 6. Interkommunale Zusammenarbeit
-## 7. Auslagerung von Gemeindeaufgaben
-## 8. Bürgergemeinde und bürgerliche Korporationen
-## 9. Gemeindegrenzen und Zusammenschluss von politischen Gemeinden
-## 10. Aufsicht
-## 11. Schlussbestimmungen
+## 2. Organisation
+## 3. Gemeindevermögen und Finanzhaushalt
+## 4. Aufgaben
+## 5. Interkommunale Zusammenarbeit
+## 6. Zusammenschluss von Gemeinden und Änderung von Gemeindegrenzen
+## 7. Aufsicht
+## 8. Bürgergemeinden
+## 9. Regionen
+## 10. Schlussbestimmungen

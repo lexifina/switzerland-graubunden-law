@@ -1,3 +1,0 @@
-# Art. 103e 3. Auflösungsarbeiten
-1 Die letzten Organe des Regionalverbandes sind über dessen Auflösungszeitpunkt hinaus dafür verantwortlich, dass die Auflösungsarbeiten ordnungsgemäss zu Ende geführt werden. Sie sind berechtigt und verpflichtet, die hierfür notwendigen Rechtshandlungen vorzunehmen und Erklärungen abzugeben.
-2 Die Rechnungsabnahme für das letzte Jahr der aufgelösten Regionalverbände erfolgt durch die entsprechende Region beziehungsweise durch jene Region, welcher die Mehrzahl der ehemaligen Regionalverbandsgemeinden gebietsmässig zugewiesen wurde. Die Rechnungsabnahme des Regionalverbandes Nordbünden wird durch die Region Plessur vorgenommen.
