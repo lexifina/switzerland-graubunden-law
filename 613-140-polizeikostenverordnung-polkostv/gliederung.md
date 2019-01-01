@@ -1,21 +1,13 @@
-## 1. Allgemeine Kosten für alle Polizeieinsätze
-## 2. Regionen- und Verkehrspolizei
-### 2.1. Kostenansätze für Dienstleistungen der Regionen- und Verkehrspolizei
-### 2.2. Sportveranstaltungen
-### 2.3. Verkehrspolizeiliche Bewilligungen
-## 3. Kriminaltechnischer Dienst
-## 4. Spezialdienste
-## 5. Einsatzgruppen
-## 6. Waffen
-### 6.1. Bewilligungen, Erwerbsscheine
-## 7. Sprengstoff
-### 7.1. Bewilligungen, Erwerbsscheine
-## 8. Betrieb von Gefahrenmeldesystemen
-### 8.4. Alarmaufgebote, Überwachungen
-## 9. Personentransporte / Einlieferungen
-### 9.1. Personentransporte
-## 10. Benutzung Räumlichkeiten
-## 11. Aktenaushändigung
-### 11.1. Aktenaushändigung
-## 12. Verfügungen der Kantonspolizei
-### 12.1. Verfügungen der Kantonspolizei
+## 1. Polizeigebühren
+### 1.1. Allgemeine Bestimmungen
+### 1.2. Allgemeine Gebührenansätze
+### 1.3. Spezielle Gebührenansätze
+#### 1.3.1. Verkehrspolizei
+#### 1.3.2. Forensik
+#### 1.3.3. Spezialeinheiten
+#### 1.3.4. Unterbringung
+#### 1.3.5. Waffen, Sprengstoff und Pyrotechnik
+#### 1.3.6. Gefahrenmeldeanlagen
+#### 1.3.7. Sicherheitsfunknetz Polycom
+## 2. Entschädigung für Ersatzvornahmen
+## 3. Schlussbestimmung

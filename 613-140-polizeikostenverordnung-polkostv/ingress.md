@@ -1,3 +1,5 @@
-# Berechnungsansätze für die Kosten der Dienstleistungen der Kantonspolizei
-Vom 08.12.2003
-Von der Regierung erlassen am 8. Dezember 2003
+# Verordnung über die Kosten für Amtshandlungen und Dienstleistungen der Kantonspolizei
+(Polizeikostenverordnung, PolKostV)
+Vom 18.12.2018
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung, Art. 35 Abs. 2 des Polizeigesetzes des Kantons Graubünden und Art. 14 Abs. 1 des Einführungsgesetzes zum Bundesgesetz über den Strassenverkehr
+von der Regierung erlassen am 18. Dezember 2018
