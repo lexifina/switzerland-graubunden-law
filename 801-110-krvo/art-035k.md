@@ -1,0 +1,4 @@
+# Art. 35k Verfahren für die Mehrwertabgabe 1. Orientierung, Veranlagung, Mitteilung
+1 Der Gemeindevorstand orientiert auf den Beginn der Mitwirkungsauflage für die abgabepflichtige Planung hin die potentiell von einer Mehrwertabgabe betroffenen Grundeigentümerinnen oder Grundeigentümer individuell über die voraussichtliche Abgabepflicht und wenn möglich über die voraussichtliche Abgabehöhe.
+2 Nach der Rechtskraft der Planung und nach der Anhörung der Abgabepflichtigen erlässt der Gemeindevorstand die Veranlagungsverfügungen. Bei baurechtsbelasteten Grundstücken sind die Veranlagungsverfügungen sowohl den Baurechtsnehmenden als auch den Grundeigentümerinnen oder Grundeigentümern zu eröffnen.
+3 Der Gemeindevorstand teilt der Fachstelle Veranlagungsverfügungen für Mehrwertabgaben als Folge von Einzonungen mit.

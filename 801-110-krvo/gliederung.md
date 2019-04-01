@@ -14,6 +14,8 @@
 ### 4.3. Beitragsverfahren
 ### 4.4. Verfahren für Landumlegungen und Grenzbereinigungen
 ### 4.5. Ausführungsbestimmungen zur Bundesgesetzgebung über Zweitwohnungen
+### 4.6. Baulandmobilisierung
+### 4.7. Ausgleich planungsbedingter Vor- und Nachteile
 ## 5. Kantonale Bauvorschriften
 ### 5.1. Begriffe und Messweisen
 ### 5.2. Landwirtschaftlicher Wohnraum
@@ -21,9 +23,10 @@
 ### 6.1. Nicht baubewilligungspflichtige Bauvorhaben
 ### 6.2. Baubewilligungsverfahren
 #### 6.2.1. Ordentliches Baubewilligungsverfahren
-#### 6.2.2. Meldeverfahren
+#### 6.2.2. Vereinfachtes Baubewilligungsverfahren
 ### 6.3. Koordination
 #### 6.3.1. Verfahrenskoordination
 #### 6.3.2. Entscheidkoordination
 ### 6.4. Baukontrollen
-## 7. Schlussbestimmungen
+## 7. Rechtsschutz
+## 8. Schlussbestimmungen

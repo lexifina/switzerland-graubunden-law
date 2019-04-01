@@ -1,0 +1,5 @@
+# Art. 35m 3. Bezug
+1 Der Gemeindevorstand stellt die fällige Mehrwertabgabe beim Fälligkeitsgrund der Überbauung im Rahmen der Baubewilligung und beim Fälligkeitsgrund der Veräusserung mit separater Eröffnung innert 30 Tagen seit der Veräusserung in Rechnung. Der Gemeindevorstand orientiert die Fachstelle, wenn er Abgaben in Rechnung stellt.
+2 Die Zahlungsfrist beträgt 60 Tage ab Rechnungsstellung oder Rechtskraft einer Rechnungsverfügung. Für verspätete Zahlungen ist ein Verzugszins in der Höhe des jeweils geltenden kantonalen Verzugszinses geschuldet.
+3 Der Gemeindevorstand kann in Härtefällen die Bezahlung der Abgabe für längstens fünf Jahre mit oder ohne Verzinsung ganz oder teilweise aufschieben. Die Stundung wird nur gewährt, wenn der gestundete Betrag anerkannt wird. Das Gesuch um Stundung ist innert 30 Tagen seit Empfang der Rechnung bei der Gemeinde einzureichen.
+4 Der Gemeindevorstand überweist den Kantonsanteil am Abgabeertrag innert 30 Tagen seit Rechnungsstellung durch die Fachstelle. Dies gilt auch dann, wenn er die Abgabe gestundet hat.
