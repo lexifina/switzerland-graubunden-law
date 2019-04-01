@@ -1,0 +1,5 @@
+# Art. 37a 6. Gewässerraumzonen
+1 Gewässerraumzonen umfassen den Gewässerraum im Sinn des Bundesrechts.
+2 Die Zulässigkeit von neuen Bauten und Anlagen sowie die Bewirtschaftung des Gewässerraums richten sich nach Bundesrecht, wobei Bauten und Anlagen einen Abstand von mindestens fünf Metern beidseits des Gewässers einzuhalten haben, welcher nur in begründeten Ausnahmefällen unterschritten werden kann.
+3 Der Bestandesschutz von rechtmässig erstellten Bauten und Anlagen, die den geltenden Vorschriften nicht mehr entsprechen, richtet sich innerhalb der Bauzonen nach Artikel 81 Absatz 1 und Absatz 2 dieses Gesetzes. Solche Bauten und Anlagen dürfen unter den gleichen Voraussetzungen zudem abgebrochen und wiederaufgebaut werden, sofern und soweit das Baugesetz der Gemeinde den Abbruch und Wiederaufbau zulässt. Ausserhalb der Bauzone richtet sich der Bestandesschutz nach Bundesrecht.
+4 Innerhalb der Bauzonen ist vor der Erteilung von Baubewilligungen die zuständige kantonale Fachbehörde anzuhören. Bei Bauvorhaben ausserhalb der Bauzonen holt die BAB-Behörde die Zustimmung der zuständigen kantonalen Fachbehörde ein.

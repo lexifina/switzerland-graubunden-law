@@ -6,6 +6,11 @@
 ## 3. Regionalplanung
 ## 4. Ortsplanung
 ### 4.1. Allgemeines
+#### 4.1.1. Boden- und Baulandpolitik
+#### 4.1.2. Baulandmobilisierung
+#### 4.1.3. Ausgleich planungsbedingter Vor- und Nachteile
+#### 4.1.4. Finanzierungsansprüche der Gemeinden
+#### 4.1.5. Gemeinsame Bestimmung
 ### 4.2. Kommunale Richtplanung
 ### 4.3. Kommunale Nutzungsplanung
 #### 4.3.1. Vorsorgliche Massnahmen

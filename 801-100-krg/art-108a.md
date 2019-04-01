@@ -1,0 +1,3 @@
+# Art. 108a Übergangsbestimmungen zur Änderung vom 25. Oktober 2018 1. Ausgleich planungsbedingter Vor- und Nachteile
+1 Artikel 19i bis Artikel 19r über die Mehrwertabgabe sind auf alle Planungen anwendbar, welche die Gemeinden nach dem Inkrafttreten der Gesetzesänderung vom 25. Oktober 2018 beschlossen haben. Allfällige Verträge über Mehrwertabgaben bezüglich solcher neuen Planungen sind nichtig, dies vorbehältlich Verträge nach Artikel 19j Absatz 3. Verträge bezüglich vorher beschlossener Planungen bleiben gültig.
+2 Artikel 19s bis Artikel 19v sind anwendbar auf Auszonungen, welche die Gemeinden nach dem Inkrafttreten der Gesetzesänderung vom 25. Oktober 2018 beschlossen haben.

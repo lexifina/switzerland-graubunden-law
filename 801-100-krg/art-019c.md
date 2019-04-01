@@ -1,0 +1,5 @@
+# Art. 19c Gesetzliche Sicherstellung der Verfügbarkeit bei Einzonungen 1. Bauverpflichtung
+1 Wenn vertraglich nichts anderes vereinbart ist, sind Grundstücke, die nach dem Inkrafttreten der Gesetzesänderung vom 25. Oktober 2018 neu einer Bauzone zugewiesen werden, innert einer Frist von acht Jahren seit Rechtskraft der Einzonung zu überbauen.
+2 Die Gemeinden können diese Frist im Rahmen der Grundordnung verkürzen oder bis auf maximal zehn Jahre verlängern.
+3 Die Überbauungspflicht gilt als erfüllt, wenn das maximal zulässige Mass der Nutzung innert Frist zu mindestens 80 Prozent ausgeschöpft ist. Bei Überbauungen mit Industrie-, Gewerbe- oder Dienstleistungsbetrieben kann der Gemeindevorstand die Bauverpflichtung während längstens zehn Jahren bereits bei einem Überbauungsgrad von wenigstens 50 Prozent als erfüllt betrachten, wenn triftige Gründe für die Unternutzung vorliegen.
+4 Massgebend für die Einhaltung der Frist der Bauverpflichtung ist der Baubeginn. Die Fristen stehen still, solange sich der Baubeginn wegen Rechtsmittelverfahren oder aus sonstigen Gründen verzögert, welche der oder die Baupflichtige nicht zu verantworten hat.
