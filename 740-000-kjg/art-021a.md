@@ -1,8 +1,8 @@
 # Art. 21a Patentgebühren 1. Hoch-, Nieder-, Sonder- und Passjagd
 1 Die Patentgebühr für die Hoch- und Niederjagd beträgt:
 1. Für Schweizer Bürger und für niedergelassene Ausländer, welche mindestens seit drei aufeinanderfolgenden Monaten ihren steuerrechtlichen Wohnsitz im Kanton Graubünden haben:
-a) Hochjagd: Fr. 750.–
-b) Niederjagd: Fr. 281.–
+a) Hochjagd: Fr. 760.–
+b) Niederjagd: Fr. 285.–
 2. Für Schweizer Bürger und für niedergelassene Ausländer ohne steuerrechtlichen Wohnsitz im Kanton, welche jedoch früher während mindestens zehn Jahren diesen Wohnsitz im Kanton Graubünden hatten:
 a) Hochjagd: mindestens Fr. 1300.– und höchstens Fr. 2000.–
 b) Niederjagd mindestens Fr. 500.– und höchstens Fr. 800.–
@@ -16,8 +16,8 @@ b) Niederjagd: mindestens Fr. 1500.– und höchstens Fr. 2500.–
 a) Hochjagd: mindestens Fr. 8000.– und höchstens Fr. 14 000.–
 b) Niederjagd: mindestens Fr. 6000.– und höchstens Fr. 8000.–
 6. Für die Verwendung eines Jagdhundes:
-a) Schweizer Bürger und niedergelassene Ausländer mit steuerrechtlichem Wohnsitz im Kanton: Fr. 139.–
-b) Andere Schweizer Bürger und Ausländer: Fr. 418.–
-1bis Die Gebühr für die Gästekarte beträgt 200 Franken.
+a) Schweizer Bürger und niedergelassene Ausländer mit steuerrechtlichem Wohnsitz im Kanton: Fr. 141.–
+b) Andere Schweizer Bürger und Ausländer: Fr. 424.–
+1bis Die Gebühr für die Gästekarte beträgt 203 Franken.
 2 Für die Ausübung der Sonderjagd hat der Jäger eine Patentgebühr von mindestens 50 Franken und höchstens 200 Franken zu entrichten. Für erlegtes Schalenwild ist in der Regel zusätzlich eine Abschussgebühr von bis zu 6 Franken pro Kilogramm zu bezahlen. Gewogen wird das Tier im Fell ohne Haupt. Die Abschussgebühr für das erlegte Wild ist nach Massgabe der jagdplanerischen Ziele abzustufen.
 3 Für die Ausübung der Passjagd hat der Jäger eine Patentgebühr von höchstens 50 Franken zu entrichten, sofern er im betreffenden Jahr kein Hoch-, Steinwild- oder Niederjagdpatent gelöst hat.
