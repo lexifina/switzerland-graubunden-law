@@ -1,5 +1,6 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Die Bündner Kantonsschule
-## 3. Die privaten Mittelschulen
-## 4. Rechtsweg
-## 5. Vollzug und In-Kraft-Treten
+## 2. Kantonale Mittelschulen
+## 3. Private Mittelschulen
+## 4. Finanzierung
+## 5. Rechtspflege
+## 6. Schlussbestimmung
