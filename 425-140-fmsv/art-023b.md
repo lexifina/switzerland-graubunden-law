@@ -1,2 +1,2 @@
 # Art. 23b Fachmaturitätszeugnis
-1 Das Fachmaturitätszeugnis wird gemäss den Bestimmungen der Erziehungsdirektorenkonferenz am Abschlussort ausgestellt und von der Leitung der Fachmittelschule des jeweiligen Schulortes mitunterzeichnet.
+1 Das Fachmaturitätszeugnis wird gemäss den Bestimmungen der EDK am Abschlussort ausgestellt und von der Departementsvorsteherin beziehungsweise dem Departementsvorsteher sowie den Leitenden der Mittelschulen am Abschluss- und am Schulort unterzeichnet.

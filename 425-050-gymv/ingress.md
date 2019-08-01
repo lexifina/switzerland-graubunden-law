@@ -1,4 +1,5 @@
 # Verordnung über das Gymnasium
 (GymV)
-Vom 06.07.1999
-Von der Regierung erlassen am 6. Juli 1999
+Vom 25.06.2019
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 25. Juni 2019
