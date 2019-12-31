@@ -4,6 +4,6 @@
 ## 4. Rechnungs- und Verwaltungsführung
 ## 5. Kantonsbeiträge
 ## 6. Zuständigkeiten
-## 7. Ausgaben- und Einnahmenkompetenz
+## 7. Ausgaben- und Einnahmenkompetenzen
 ## 8. Buchungs- und Zahlungsverkehr
 ## 9. Schlussbestimmungen
