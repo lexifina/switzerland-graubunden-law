@@ -1,0 +1,4 @@
+# Art. 189d e) Streichung der Besteuerung als Statusgesellschaft
+1 Wurden juristische Personen nach Artikel 89 bis 89b des bisherigen Rechts besteuert, so werden die bei Ende dieser Besteuerung bestehenden stillen Reserven einschliesslich des selbst geschaffenen Mehrwertes, soweit diese bisher nicht steuerbar gewesen wären, im Falle ihrer Realisation innert den nächsten fünf Jahren gesondert besteuert. Die einfache Kantonssteuer beträgt 0,5 Prozent.
+2 Die Höhe der von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbst geschaffenen Mehrwertes wird von der Veranlagungsbehörde mittels Verfügung festgesetzt.
+3 Abschreibungen auf stillen Reserven einschliesslich des selbst geschaffenen Mehrwertes, die bei Ende der Besteuerung nach Artikel 89 bis 89b des bisherigen Rechts aufgedeckt wurden, werden in die Berechnung der Entlastungsbegrenzung nach Artikel 81b einbezogen.
