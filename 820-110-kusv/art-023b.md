@@ -1,0 +1,5 @@
+# Art. 23b 2. Wartung und Unterhalt
+1 Die Betreiber der Schiessanlagen sind für Wartung und Unterhalt der künstlichen Kugelfangsysteme verantwortlich. Sie stellen sicher, dass die Arbeiten fach- und umweltgerecht vorgenommen werden. Dabei sind die Vorgaben der Hersteller zu beachten.
+2 Auf den nicht überdachten Flächen von Kipphasenanlagen, insbesondere auf der befestigten Fläche im Vorkugelfangbereich, ist der Schrot nach jeder Schiessübung zu sammeln, in einem geschlossenen Behälter zwischenzulagern und gesetzeskonform zu entsorgen. Auch die Plastikpfropfen der Schrotpatronen sind regelmässig zu sammeln und gesetzeskonform zu entsorgen.
+3 Bei Rollhasen- und Wurftaubenanlagen sind die Tontaubensplitter und Plastikpfropfen der Schrotpatronen regelmässig, mindestens aber einmal pro Jahr, zu sammeln und gesetzeskonform zu entsorgen.
+4 Die Betreiber von Kipphasen-, Rollhasen- und Wurftaubenanlagen müssen der Fachstelle bis zum 31. Dezember 2020 ein Betriebsreglement unterbreiten und dieses von der Fachstelle genehmigen lassen.

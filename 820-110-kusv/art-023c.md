@@ -1,0 +1,2 @@
+# Art. 23c 3. Koordinationspflicht mit der Altlastensanierung
+1 Vor der Installation von künstlichen Kugelfangsystemen muss frühzeitig mit der Fachstelle abgeklärt werden, ob der Standort altlastenrechtlich sanierungsbedürftig ist. Diesfalls ist sicherzustellen, dass der Standort gleichzeitig mit der Installation saniert wird oder dass eine spätere Altlastensanierung durch das Bauvorhaben nicht wesentlich erschwert wird. Das Bauvorhaben bedarf der Zustimmung der Fachstelle.
