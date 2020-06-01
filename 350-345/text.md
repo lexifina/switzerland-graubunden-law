@@ -1,0 +1,22 @@
+Ausführungsbestimmungen zum Bundesgesetz über Waffen, Waffenzubehör und Munition *
+(RABzWG)
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung *
+von der Regierung erlassen am 27. April 1999
+Art. 1 * Aufsicht
+1 Zuständiges Departement zur Ausübung der Aufsicht über den Vollzug des Bundesgesetzes über Waffen, Waffenzubehör und Munition und der Waffenverordnung ist das Departement für Justiz, Sicherheit und Gesundheit. *
+2 Die Kantonspolizei erstattet dem Departement jährlich Bericht über ihre Tätigkeit als waffenrechtliche Vollzugsbehörde. Sie informiert das Departement umgehend über besondere Vorkommnisse. *
+Art. 2 * …
+Art. 3 Vollzug *
+1 Die Kantonspolizei ist zuständig für den Vollzug des Waffengesetzes und der Waffenverordnung sowie für die Ausübung von Kontrollen. *
+1 bis Sie führt ein elektronisches Informationssystem über den Erwerb und den Besitz von Feuerwaffen gemäss Artikel 32a Absatz 2 des Waffengesetzes und registriert die im Kanton erteilten Bewilligungen. *
+2 Sie kann für die Durchführung des praktischen Teils der Waffenhändlerprüfung private Sachverständige beiziehen.
+3 Die Polizeikommandantin oder der Polizeikommandant ist zuständig für die Erteilung und den Entzug der Waffenhandelsbewilligungen. Im Übrigen ist die Fachstelle Waffen der Kantonspolizei die zuständige Bewilligungsbehörde. *
+Art. 3a * Meldepflicht
+1 Inhaberinnen und Inhaber von Waffenhandelsbewilligungen übermitteln der Kantonspolizei die Meldungen nach Artikel 21 Absatz 1 bis und Absatz 1 ter des Waffengesetzes sowie Kopien von Verträgen, Waffenerwerbsscheinen und Ausnahmebewilligungen in elektronischer Form.
+Art. 3b * Sammlertätigkeit
+1 Als Sammlerin und Sammler im Sinne des Bundesrechts gilt, wer:
+a) | seit mindestens fünf Jahren Feuerwaffen besitzt;
+b) | im Besitz von mindestens zehn Feuerwaffen ist; und
+c) | sich für historische, kulturelle, wissenschaftliche, technische, bildungsbezogene oder das Kulturerbe betreffende Zwecke mit der Sammlung und Bewahrung von Feuerwaffen befasst.
+Art. 4 In-Kraft-Treten
+1 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
