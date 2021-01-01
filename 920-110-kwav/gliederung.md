@@ -7,5 +7,6 @@
 ### 5.2. Motorfahrzeugverkehr
 ## 6. Waldbewirtschaftung
 ## 7. Aus- und Weiterbildung der Waldarbeiterinnen und Waldarbeiter
-## 8. Leistungsvereinbarungen, Information und Strafanzeige
+## 8. Leistungsvereinbarungen, Projektvorschriften und Information
+## 8.a Strafbestimmungen
 ## 9. Schlussbestimmungen
