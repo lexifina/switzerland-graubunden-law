@@ -17,7 +17,7 @@
 ## 3. …
 ## 3a. Kultussteuer
 ## 4. Quellensteuer
-## 5. Nachlass- und Schenkungssteuer
+## 5. Erbschafts- und Schenkungssteuer
 ## 6. …
 ## 7. Verfahrensrecht
 ### 7.1. Allgemeine Verfahrensgrundsätze

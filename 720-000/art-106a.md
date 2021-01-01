@@ -1,6 +1,7 @@
 # Art. 106a 2. Schenkungssteuer
 1 Der Schenkungssteuer unterliegt unbekümmert einer Schenkungsabsicht jede freiwillige Zuwendung unter Lebenden, mit der jemand aus seinem Vermögen einen anderen ohne entsprechende Gegenleistung bereichert.
-2 Als Schenkungen gelten auch:
-a) die lebzeitige Zuwendung aus gegenseitigem Vertrag, soweit die Leistung des einen in offenbarem Missverhältnis zur Leistung des andern steht;
-b) die Zuwendung von Kapitalzahlungen an Dritte aus Versicherung, wenn die Auszahlung zu Lebzeiten des Versicherungsnehmers fällig wird;
-c) die lebzeitige Widmung eines Vermögens für einen besonderen Zweck.
+2 Steuerbar sind insbesondere Schenkungen unter Lebenden, Vorempfänge in Anrechnung an die künftige Erbschaft, Zuwendungen aus Vertrag, soweit die gegenseitigen Leistungen in offenbarem Missverhältnis stehen, sowie Zuwendungen zur Errichtung steuerlich anerkannter Stiftungen oder Trusts beziehungsweise an bestehende Stiftungen oder Trusts.
+a) …
+b) …
+c) …
+3 Zuwendungen von Versicherungsleistungen, die zu Lebzeiten des Schenkers fällig werden, sind der Schenkungssteuer unterworfen, soweit sie nicht als Einkommen besteuert werden.

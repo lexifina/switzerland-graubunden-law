@@ -1,0 +1,4 @@
+# Art. 33a Anpassung der kommunalen Gesetzgebung an die Änderung vom 12. Februar 2019
+1 Die Änderungen des Artikels 2 und des Artikels 21 finden direkt Anwendung und treten mit dem Inkrafttreten der Teilrevision des kantonalen Steuergesetzes vom 12. Februar 2019 in Kraft.
+2 Die im Gemeindesteuergesetz normierten Steuersätze für den elterlichen und den grosselterlichen Stamm sowie für die übrigen Begünstigten finden bis zu deren Änderung Anwendung, soweit sie die neuen Maximalsätze nicht übersteigen. Andernfalls gelten die Maximalsätze nach Artikel 21 Absatz 5.
+3 Für die zeitliche Abgrenzung dieser Gesetzesänderung ist der Zeitpunkt massgebend, in welchem der steuerbegründende Tatbestand verwirklicht wurde. Altrechtliche Steuertatbestände werden weiterhin von der Gemeinde veranlagt und bezogen.
