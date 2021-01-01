@@ -1,4 +1,5 @@
 # Energieverordnung des Kantons Graubünden
 (BEV)
-Vom 12.10.2010
-Von der Regierung beschlossen am 12. Oktober 2010
+Vom 19.10.2020
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 19. Oktober 2020
