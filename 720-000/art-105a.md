@@ -1,7 +1,9 @@
-# Art. 105a 2. Nachträgliche ordentliche Veranlagung
-1 Übersteigen die dem Steuerabzug an der Quelle unterliegenden Bruttoeinkünfte einer nach Artikel 98 Absatz 1 Litera a besteuerten Person in einem Kalenderjahr den von der Regierung festgelegten Betrag, wird eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen durchgeführt. Die an der Quelle abgezogene Steuer wird zinslos angerechnet; zuviel bezogene Steuern werden zinslos zurückbezahlt.
+# Art. 105a III. Vorbehalt der ordentlichen Veranlagung 1. Ansässigkeit in der Schweiz a) Obligatorische nachträgliche ordentliche Veranlagung
+1 Personen, die nach Artikel 98 Absatz 1 Litera a der Quellensteuer unterliegen, werden nachträglich im ordentlichen Verfahren veranlagt, wenn:
+a) ihr Bruttoeinkommen in einem Steuerjahr den vom Eidgenössischen Finanzdepartement gestützt auf Artikel 33a Absatz 2 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden festgelegten Betrag erreicht oder übersteigt; oder
+b) sie über Vermögen und Einkünfte, die nicht der Quellensteuer unterliegen, verfügen.
 2 Hat die Steuerpflicht im Kanton nicht während eines vollen Kalenderjahres bestanden, sind die an der Quelle besteuerten, auf zwölf Monate umgerechneten Bruttoeinkünfte massgebend.
-3 In den nachfolgenden Jahren wird bis zum Ende der Quellensteuerpflicht eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen auch dann durchgeführt, wenn der durch die Regierung festgelegte Betrag unterschritten wird.
-4 Nach Artikel 98 Absatz 1 Litera a besteuerte Personen sowie unter Artikel 98 Absatz 1 Litera b fallende Quasi-Ansässige können die Gewährung von Abzügen verlangen, die nicht in den Tarifen berücksichtigt sind. Die Regierung legt die Abzüge fest, für welche eine Tarifkorrektur möglich ist.
-5 Tarifkorrektur und nachträgliche ordentliche Veranlagung können längstens bis Ende März des dem Steuerjahr folgenden Jahres beantragt werden.
-6 Die Regierung kann die nachträgliche ordentliche Veranlagung und die Tarifkorrektur auf andere Quellenbesteuerte ausdehnen, wenn die Rechtsprechung oder internationale Vereinbarungen dies erforderlich machen.
+3 Der nachträglichen ordentlichen Veranlagung unterliegt auch, wer mit einer Person nach Absatz 1 in rechtlich und tatsächlich ungetrennter Ehe lebt.
+4 Personen mit Vermögen und Einkünften nach Absatz 1 Litera b müssen die Steuererklärung bis am 31. März des auf das Steuerjahr folgenden Jahres bei der kantonalen Steuerverwaltung verlangen.
+5 Die nachträgliche ordentliche Veranlagung gilt bis zum Ende der Quellensteuerpflicht.
+6 Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
