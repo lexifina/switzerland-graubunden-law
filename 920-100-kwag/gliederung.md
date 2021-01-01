@@ -4,7 +4,9 @@
 ### 2.2. Waldfeststellung
 ## 3. Forstliche Bauten und Anlagen
 ## 4. Wald und Raumplanung
-## 5. Schutz des Waldes
+## 5. Naturgefahren und Schutz des Waldes
+### 5.1. Schutz vor Naturgefahren und Waldbrand
+### 5.2. Schutz des Waldes
 ## 6. Forstliche Planung und Waldbewirtschaftung
 ### 6.1. Forstliche Planung
 ### 6.2. Waldbewirtschaftung
