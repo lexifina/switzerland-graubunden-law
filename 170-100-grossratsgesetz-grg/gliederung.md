@@ -19,6 +19,7 @@
 ### 5.5. Resolution
 ## 6. Geschäftsverkehr zwischen der Regierung und dem Grossen Rat
 ### 6.1. Politische und strategische Planungen
+### 6.1.a Rechtsetzung
 ### 6.2. Besondere Berichte
 ### 6.3. Aussenbeziehungen
 ## 7. Schlussbestimmungen
