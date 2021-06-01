@@ -1,0 +1,11 @@
+# Art. 30a 2. Zahnärztlicher Notfalldienst
+1 Während der effektiven Öffnungszeiten der Praxis ist grundsätzlich jede Zahnärztin und jeder Zahnarzt für die Notfallbehandlung der eigenen Patientinnen und Patienten zuständig.
+2 Aufgabe des zahnärztlichen Notfalldienstes ist die Sicherstellung der zahnärztlichen Versorgung der Bevölkerung ausserhalb der Praxisöffnungszeiten bei zahnmedizinischen Problemen. Die Behandlung ist auf den Notfall zu beschränken.
+3 Die diensthabende Zahnärztin oder der diensthabende Zahnarzt hat während des zahnärztlichen Notfalldienstes den Aufenthaltsort so zu wählen, dass die telefonische Erreichbarkeit jederzeit gewährleistet ist und der Notfalleinsatz kurzfristig erbracht werden kann.
+4 Bei lebensbedrohlichen oder potentiell lebensbedrohlichen Zuständen hat die Behandlung innerhalb einer Stunde zu erfolgen, bei starken Schmerzen oder Blutungen innerhalb von sechs Stunden und bei subjektiven Notfällen innerhalb von zwölf Stunden.
+5 Die diensthabende Zahnärztin oder der diensthabende Zahnarzt hat die Zahnärztin oder den Zahnarzt, welche oder welcher die Patientin oder den Patienten ordentlicherweise behandelt, über die Diagnose und die Behandlung schriftlich zu informieren.
+6 Zahnärztinnen und Zahnärzte, welche die Voraussetzungen zur Erlangung der Berufsausübung erfüllen und im Kanton tätig sind, sind zur Teilnahme am regionalen Notfalldienst der kantonalen Standesorganisation gemäss deren Regelung verpflichtet, wenn sie während drei Jahren bei einer Zahnärztin oder einem Zahnarzt mit Berufsausübungsbewilligung und drei Jahren Berufsausübung in eigener fachlicher Verantwortung tätig gewesen sind.
+7 Zahnärztinnen und Zahnärzte, die in verschiedenen Regionen des Kantons tätig sind, sind in jeder Region entsprechend ihrem Arbeitspensum am jeweiligen Arbeitsort notfalldienstpflichtig.
+8 Zur Gewährleistung der Versorgungssicherheit kann die Notfalldienstpflicht nach Rücksprache mit dem Gesundheitsamt auch ausserhalb der eigenen Notfalldienstregion geleistet werden.
+9 Zahnärztinnen und Zahnärzte, die auch in anderen Kantonen tätig sind, sind grundsätzlich in vollem Umfang im Kanton notfalldienstpflichtig.
+10 Das Gesundheitsamt kann in Fällen gemäss Absatz 9 nach Rücksprache mit der kantonalen Standesorganisation eine Reduktion der Notfalldienstpflicht bewilligen.
