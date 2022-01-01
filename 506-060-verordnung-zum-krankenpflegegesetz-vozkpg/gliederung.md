@@ -2,7 +2,7 @@
 ## 2. Einzureichende Unterlagen
 ## 3. Spitalplanung und Spitalliste
 ## 4. Beiträge an die Spitäler
-## 5. Planungsregionen für die Pflege und Betreuung
+## 5. …
 ## 6. Beiträge an die Angebote zur stationären Pflege und Betreuung von Langzeitpatientinnen und -patienten und von betagten Personen
 ## 7. Beiträge an die Dienste der häuslichen Pflege und Betreuung und zugelassene Pflegefachpersonen
 ## 8. Ausbildungsplätze für Schulen des Gesundheitswesens
