@@ -1,5 +1,5 @@
-# Art. 123a II. Stellung der Ehegatten bei Einkommens- und Vermögenssteuern
-1 Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, üben die nach diesem Gesetz dem Steuerpflichtigen zukommenden Verfahrensrechte und Verfahrenspflichten gemeinsam aus.
-2 Sie unterschreiben die Steuererklärung gemeinsam. Ist die Steuererklärung nur von einem der beiden Ehegatten unterzeichnet, wird dem anderen Ehegatten eine Frist eingeräumt. Nach deren unbenutztem Ablauf wird die vertragliche Vertretung unter Ehegatten angenommen.
-3 Rechtsmittel und andere Eingaben gelten als rechtzeitig eingereicht, wenn ein Ehegatte innert Frist handelt.
-4 Sämtliche Mitteilungen der Steuerbehörden an verheiratete Steuerpflichtige, die in rechtlich und tatsächlich ungetrennter Ehe leben, werden an die Ehegatten gemeinsam gerichtet. Zustellungen an Ehegatten, die in gerichtlich oder tatsächlich getrennter Ehe leben, erfolgen an jeden Ehegatten gesondert, sofern die Trennung den Steuerbehörden mitgeteilt wurde.
+# Art. 123a II. Elektronische Übermittlung ohne Unterschrift
+1 Ist die Unterzeichnung von Eingaben der steuerpflichtigen Person gesetzlich vorgeschrieben, so kann bei der elektronischen Übermittlung der Eingaben auf die Unterzeichnung verzichtet werden. In diesem Fall hat die steuerpflichtige Person ihre Angaben elektronisch zu bestätigen.
+2 Die Regierung erlässt die erforderlichen Ausführungsbestimmungen.
+3 …
+4 …
