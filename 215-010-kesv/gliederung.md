@@ -8,5 +8,5 @@
 ## 4. Verfahrens- und Massnahmekosten
 ### 4.1. Verfahrenskosten
 ### 4.2. Massnahmekosten
-## 5. Aufsicht
-## 6. Schlussbestimmungen
+## 5. Gebühren
+## 6. Aufsicht
