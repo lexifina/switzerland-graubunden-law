@@ -5,3 +5,4 @@ Der Grosse Rat des Kantons Graubünden,
 gestützt auf Art. 31 Abs. 1 und Art. 96 der Kantonsverfassung,
 nach Einsicht in die Botschaft der Regierung vom 20. August 2013,
 beschliesst:
+1. Allgemeine Bestimmungen
