@@ -1,0 +1,43 @@
+Benützungs- und Gebührenverordnung für die Mittelschulen mit kantonaler Trägerschaft
+(BGV kantonale Mittelschulen)
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 1. Februar 2022
+Art. 1 Schulanlagen
+1 Zu den Schulanlagen gehören die dem Schulbetrieb dienenden Bauten und Anlagen, Räumlichkeiten, Einrichtungen und Geräte.
+Art. 2 Überlassung an Dritte
+1 Soweit es der Schulbetrieb zulässt, können die Schulanlagen Dritten, insbesondere Schulen, Turn- und Sportvereinen sowie Veranstaltern von Kursen und Wettkämpfen mittels Verfügung der Rektorin oder des Rektors überlassen werden.
+Art. 3 Betriebsreglement, Aufsicht
+1 Die Benützungsbestimmungen sind von der Schulleitung als Beilage zur Verfügung der Rektorin oder des Rektors in einem durch das Amt für Mittelschulen und Tertiärbildung (Amt) zu genehmigenden Betriebsreglement festzulegen. Das Betriebsreglement bestimmt insbesondere:
+a) | die Öffnungs- und die Betriebszeiten;
+b) | die Verantwortlichkeiten;
+c) | den gesetzlich zulässigen Haftungsausschluss der vermietenden Partei;
+d) | die Massnahmen bei einer Verletzung der Benützungsbestimmungen;
+e) | die Annullierungsbedingungen;
+f) | die Auflagen für das Führen eines Gastwirtschaftsbetriebs auf dem Schulareal;
+g) | die Haftung der mietenden Partei für Schäden, welche diese oder Dritte, die sich mit der Einwilligung der oder des Mietenden in oder auf den Schulanlagen aufhalten, verursachen.
+2 Die Schulleitung beaufsichtigt die Benützung der Schulanlagen und kann bei Verstössen gegen die Benützungsbestimmungen sowie bei Nichtbeachtung von Anordnungen und Anweisungen die Benützungsbewilligung entziehen.
+Art. 4 Benützungsgebühren
+1 Die Gebühren zur Benützung der Schulanlagen sind im Anhang 1 aufgeführt. Diese basieren auf dem Stand des Landesindexes der Konsumentenpreise per Ende Oktober 2019 von 100,9 Punkten (Indexbasis Dezember 2020).
+2 Verändert sich der Landesindex der Konsumentenpreise um zehn Punkte, verändern sich die Gebühren entsprechend.
+Art. 5 Reduktion der Benützungsgebühren
+1 Werden die Schulanlagen anderen Schulen, für Aus- und Weiterbildungskurse für Leitende von Jugend und Sport oder für den Behindertensport zur Verfügung gestellt, werden die Gebühren gemäss Anhang 1 um 25 Prozent gesenkt.
+2 Bei Vereinen und Organisationen mit direktem Bezug zur jeweiligen Mittelschule mit kantonaler Trägerschaft werden keine Gebühren erhoben, sofern deren Mitglieder ausschliesslich Schülerinnen und Schüler der entsprechenden Mittelschule sind.
+Art. 6 Vollzug
+1 Der Vollzug dieser Verordnung obliegt dem Amt.
+A1 Anhang 1: Mietpreise in Franken (exkl. MWST) zur Benützung der Schulanlagen (Art. 4 Abs. 1 und Art. 5 Abs. 1)
+Art. A1-1
+1 Allgemeine Schulanlagen:
+Anlage | 1 Std. | bis 2.5 Std. | bis 5 Std. | bis 8 Std. | mehr als 8 Std.
+Aula oder grosser Saal | 45 | 86 | 155 | 260 | 390
+Kleiner Saal | 23 | 44 | 80 | 130 | 200
+Schul-, Musik- und Sitzungszimmer | 23 | 44 | 80 | 130 | 200
+Labor, Computerzimmer, Werkraum, Bildnerisches Gestalten | 35 | 67 | 120 | 200 | 300
+Musiksaal | 35 | 67 | 120 | 200 | 300
+Klavierzelle | 12 | 23 | 40 | 70 | ---
+2 Sportanlagen:
+Anlage | 1 Std. | bis 2.5 Std. | bis 5 Std. | bis 8 Std. | mehr als 8 Std. | pro Schuljahr
+Turnhalle, Aussenanlage | 23 | 44 | 80 | 130 | 200 | 310
+Kraftraum, Theorieraum | 12 | 23 | 40 | 70 | --- | 200
+Schwimmbad | 50 | 95 | 170 | 290 | --- | 1060
+Anhänge
+Anhang 1: Ausser Kraft
