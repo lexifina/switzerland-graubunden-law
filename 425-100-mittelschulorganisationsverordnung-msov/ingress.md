@@ -1,4 +1,5 @@
-# Verordnung über die Organisation der Bündner Kantonsschule
-Vom 15.03.1971
-Gestützt auf Art. 19 des Mittelschulgesetzes
-von der Regierung beschlossen am 15. März 1971
+# Verordnung über die Organisation der Mittelschulen mit kantonaler Trägerschaft
+(Mittelschulorganisationsverordnung, MSOV)
+Vom 22.02.2022
+Gestützt auf Art. 20 Abs. 1 des Mittelschulgesetzes
+von der Regierung erlassen am 22. Februar 2022
