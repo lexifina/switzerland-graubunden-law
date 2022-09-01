@@ -1,3 +1,3 @@
 # Art. 6a Gebührenfreiheit
-1 Die Trägerschaft kann festlegen, dass die Gebühr für die Trauung oder die Beurkundung einer eingetragenen Partnerschaft und für die in diesem Zusammenhang erfolgte Dienstreise ganz oder teilweise erlassen wird.
+1 Die Trägerschaft kann festlegen, dass die Gebühr für die Trauung oder die Umwandlung einer eingetragenen Partnerschaft in eine Ehe und für die in diesem Zusammenhang erfolgte Dienstreise ganz oder teilweise erlassen wird.
 2 …
