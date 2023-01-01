@@ -1,4 +1,5 @@
-# Verordnung über die Erhebung von Gebühren und Kosten für die Schiffahrt im Kanton Graubünden
-Vom 20.08.1984
-Gestützt auf Art. 20 des Einführungsgesetzes zum Bundesgesetz über die Binnenschifffahrt (EG zum BSG)
-von der Regierung erlassen am 20. August 1984
+# Verordnung über die Gebühren für die Binnenschifffahrt
+(Binnenschifffahrtsgebührenverordnung, BSGebV)
+Vom 22.11.2022
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung und Art. 20 des Einführungsgesetzes zum Bundesgesetz über die Binnenschifffahrt
+von der Regierung erlassen am 22. November 2022
