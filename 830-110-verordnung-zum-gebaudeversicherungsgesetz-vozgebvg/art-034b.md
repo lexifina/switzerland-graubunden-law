@@ -2,5 +2,5 @@
 1 …
 2 Gebäude, die vor Inkrafttreten dieser Teilrevision nicht obligatorisch versichert waren sowie Gebäudebestandteile, die neu in die Versicherung eingeschlossen sind, sind versichert ab:
 a) Antragstellung an die Gebäudeversicherung;
-b) Antragstellung an das Amt für Schätzungswesen;
-c) der nächsten Revisionsschätzung.
+b) Antragstellung an das Amt für Immobilienbewertung;
+c) der nächsten Revisionsbewertung.
