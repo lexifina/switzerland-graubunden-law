@@ -1,12 +1,16 @@
-## 1. Geltungsbereich und Zweck
-## 2. Schweizerische Bundesbahnen und konzessionierte Eisenbahnunternehmen
-## 3. Öffentliche Strassentransportdienste
-### 3.1. Allgemeine Bestimmungen
-### 3.2. Regionaler und überregionaler Verkehr
-### 3.3. Finanzierung
-## 4. Förderung des öffentlichen Verkehrs
-## 5. Mitspracherecht, Finanzierung und Steuerbefreiung
-## 6. Organisation
-### 6.1. Behörden
-### 6.2. Verkehrskommission und Fahrplanverfahren
-## 7. Übergangsbestimmung, Aufhebung bisherigen Rechts und Inkraftsetzung
+## 1. Allgemeine Bestimmungen
+## 2. Angebot
+### 2.1. Planung
+### 2.2. Erschliessung
+### 2.3. Bestellung
+#### 2.3.1. Öffentlicher Verkehr
+#### 2.3.2. Schienengüterverkehr
+## 3. Beiträge
+### 3.1. Betriebsbeiträge
+### 3.2. Förderbeiträge
+### 3.3. Investitionsbeiträge
+### 3.4. Weitere Beiträge
+## 4. Fahrplan
+## 5. Subventionsrechtliche Prüfung
+## 6. Zuständigkeiten und Rechtspflege
+## 7. Schlussbestimmungen
