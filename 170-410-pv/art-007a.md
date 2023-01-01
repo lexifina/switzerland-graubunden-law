@@ -1,0 +1,3 @@
+# Art. 7a Anpassung oder Beendigung aus gesundheitlichen Gründen
+1 Über die Anpassung oder Beendigung eines Arbeitsverhältnisses gemäss Artikel 16 Absatz 1 PG entscheidet die zuständige Instanz gemäss Artikel 63 PG nach Absprache mit dem PA. Sie erfolgt nach Massgabe der Unterlagen des IV-Verfahrens, frühestens auf den letzten Tag des Folgemonats nach deren Eingang beim PA.
+2 Über die einvernehmliche Anpassung oder die Kündigung eines Arbeitsverhältnisses gemäss Artikel 16 Absatz 2 PG entscheidet die zuständige Instanz gemäss Artikel 63 PG nach Absprache mit dem PA. Bei einer voraussichtlich fortbestehenden teilweisen Arbeitsunfähigkeit kann das Arbeitsverhältnis gekündigt werden, wenn eine Anpassung nicht möglich oder nicht sinnvoll ist.

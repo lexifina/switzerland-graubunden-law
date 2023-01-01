@@ -1,0 +1,5 @@
+# Art. 21a Unterstützung für die Drittbetreuung von Kindern
+1 Für die Drittbetreuung von Kindern wird den Mitarbeitenden ein Drittel der Kosten vergütet.
+2 Massgebend sind die Kosten für die Drittbetreuung, die gemäss der definitiven Veranlagung von der kantonalen Einkommenssteuer abgezogen werden. Für Mitarbeitende, die in einem anderen Kanton steuerpflichtig sind oder an der Quelle besteuert werden, gilt ein Höchstbetrag, der dem im betreffenden Jahr geltenden (indexierten) maximalen Abzug nach Artikel 36 Absatz 1 Litera l des Steuergesetzes für den Kanton Graubünden entspricht. Mitarbeitende, die an der Quelle besteuert werden, haben die betreffenden Kosten nachzuweisen.
+3 Beiträge für das Kalenderjahr, in dem das Arbeitsverhältnis beginnt oder endet, werden entsprechend der Anstellungsdauer gekürzt.
+4 Beiträge nach dieser Bestimmung sind beim PA unter Angabe des Abzugs gemäss der definitiven Steuerveranlagung zu beantragen. Das PA prüft die Anträge und richtet die Beiträge aus. Das PA kann dafür die zuständigen Steuerbehörden beiziehen und die betreffenden Angaben der definitiven Steuerveranlagung abfragen.
