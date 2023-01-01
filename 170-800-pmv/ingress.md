@@ -1,5 +1,5 @@
-# Verordnung über die Bewirtschaftung der Parkplätze der kantonalen Verwaltung
-(Parkplatzverordnung, PPV)
-Vom 24.03.2003
-Gestützt auf Art. 82 der Verordnung über das Dienstverhältnis der Mitarbeiter des Kantons Graubünden (Personalverordnung, PV) und auf Art. 1 der Geschäftsordnung für die Regierung des Kantons Graubünden
-von der Regierung erlassen am 24. März 2003
+# Verordnung über das Parkplatzmanagement der kantonalen Verwaltung
+(PMV)
+Vom 05.07.2022
+Gestützt auf Art. 45 Abs. 1 und Art. 75 Abs. 4 der Kantonsverfassung
+von der Regierung erlassen am 5. Juli 2022
