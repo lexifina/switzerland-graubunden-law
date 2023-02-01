@@ -13,3 +13,4 @@
 ### 5.3. Betriebe des Gesundheitswesens
 ## 6. Rechte der Patientinnen und Patienten
 ## 7. Verhütung und Bekämpfung übertragbarer Krankheiten des Menschen
+## 8. Schutz vor nichtionisierender Strahlung in Solarien und in der Kosmetik
