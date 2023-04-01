@@ -1,4 +1,5 @@
 # Anwaltsverordnung
-Vom 20.06.2006
-Gestützt auf Art. 19 des Anwaltsgesetzes
-von der Regierung erlassen am 20. Juni 2006
+(AnwV)
+Vom 04.04.2023
+Gestützt auf Art. 18 und Art. 19 des Anwaltsgesetzes sowie Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 4. April 2023
