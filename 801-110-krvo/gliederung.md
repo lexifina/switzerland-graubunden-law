@@ -19,6 +19,7 @@
 ## 5. Kantonale Bauvorschriften
 ### 5.1. Begriffe und Messweisen
 ### 5.2. Landwirtschaftlicher Wohnraum
+### 5.3. Bauten und Anlagen in der Gefahrenzone 1
 ## 6. Formelles Baurecht
 ### 6.1. Nicht baubewilligungspflichtige Bauvorhaben
 ### 6.2. Baubewilligungsverfahren
