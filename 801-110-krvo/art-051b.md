@@ -1,0 +1,4 @@
+# Art. 51b Zuständigkeit
+1 Über Gesuche und allfällige Einsprachen betreffend Photovoltaik-Grossanlagen entscheidet die Regierung mit einem Gesamtentscheid, welcher auch allfällige innerhalb der Bauzone gelegene Anlageteile umfasst. Sie eröffnet den Gesamtentscheid den Parteien.
+2 Erstreckt sich eine Photovoltaik-Grossanlage über das Gebiet mehrerer Gemeinden, so ist die Baubehörde derjenigen Gemeinde für die ihr im BAB-Verfahren obliegenden Aufgaben zuständig, auf deren Gebiet der grösste Teil der Anlage zu liegen kommt. Bei unklaren Verhältnissen bezeichnen die betroffenen Gemeinden einvernehmlich eine zuständige Baubehörde. Bei Uneinigkeit wird sie durch die Fachstelle bestimmt.
+3 Bei Anlagen im Sinn von Absatz 2 erfolgt der begründete Antrag bei der Weiterleitung des Gesuchs an die Fachstelle im Einvernehmen mit den anderen betroffenen Gemeinden.

@@ -1,0 +1,4 @@
+# Art. 51a Verfahren
+1 Für die Bewilligung von Photovoltaik-Grossanlagen gemäss Artikel 71a des Energiegesetzes und Artikel 9c ff. der Energieverordnung gelten die Bestimmungen über das ordentliche BAB-Verfahren unter Vorbehalt der abweichenden Bestimmungen dieses Abschnitts.
+2 Gesuche für solche Photovoltaik-Grossanlagen sind in sechsfacher Ausfertigung bei der zuständigen Gemeinde einzureichen. Die Fachstelle bestimmt, welche Unterlagen und Nachweise dem Baugesuch beizulegen sind. Die kommunale Baubehörde leitet das Gesuch ebenfalls in sechs Exemplaren an die Fachstelle weiter.
+3 Auf ein Baugespann kann ganz oder teilweise verzichtet werden, wenn mit dem Gesuch eine Visualisierung der Anlage eingereicht wird. Die Unterlagen der Visualisierung bilden Bestandteil der öffentlichen Auflage. Im Publikationstext ist anzugeben, für welche Anlageteile nur eine Visualisierung erfolgt.

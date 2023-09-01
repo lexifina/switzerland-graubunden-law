@@ -25,6 +25,7 @@
 ### 6.2. Baubewilligungsverfahren
 #### 6.2.1. Ordentliches Baubewilligungsverfahren
 #### 6.2.2. Vereinfachtes Baubewilligungsverfahren
+#### 6.2.3. Bewilligungsverfahren für Photovoltaik-Grossanlagen
 ### 6.3. Koordination
 #### 6.3.1. Verfahrenskoordination
 #### 6.3.2. Entscheidkoordination
