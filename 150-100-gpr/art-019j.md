@@ -1,3 +1,3 @@
 # Art. 19j Ersatzwahlen
-1 Im Falle einer Ersatzwahl, bestimmt die Verwaltungskommission des zuständigen Regionalgerichts in Beachtung von Artikel 17 Absatz 1 die Frist für die Einreichung von Wahlvorschlägen.
-2 Für das weitere Verfahren gelten die Artikel 19b-19i.
+1 Im Falle einer Ersatzwahl richtet sich das Verfahren nach den Artikeln 19b bis 19i. Die Einreichungsinstanz bestimmt in Beachtung von Artikel 17 Absatz 1 den Zeitpunkt der Publikation der Aufforderung für die Einreichung von Wahlvorschlägen.
+2 …

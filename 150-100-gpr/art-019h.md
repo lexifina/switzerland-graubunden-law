@@ -1,3 +1,3 @@
-# Art. 19h 3. Zustandekommen
-1 Eine stille Wahl kommt zustande, wenn die Zahl der gültig vorgeschlagenen Personen der Zahl der zu vergebenden Sitze entspricht. Andernfalls findet ein freier öffentlicher Wahlgang statt.
-2 Die Verwaltungskommission des zuständigen Regionalgerichts entscheidet unverzüglich über das Zustandekommen der stillen Wahl und veröffentlicht den Entscheid im Kantonsamtsblatt und in ortsüblicher Weise.
+# Art. 19h f) Veröffentlichung
+1 Die Einreichungsinstanz veröffentlicht umgehend nach Ablauf der Rückzugsfrist die Namen der kandidierenden Personen bei kantonalen und regionalen Wahlen im Kantonsamtsblatt, bei kommunalen Wahlen in ortsüblicher Weise.
+2 …

@@ -1,3 +1,3 @@
-# Art. 19i 4. Zweiter Wahlgang
-1 Wahlvorschläge können innert drei Tagen nach dem ersten Wahlgang beim Regionalgericht eingereicht werden. Der zweite Wahlgang ist frei.
-2 Für das weitere Verfahren gelten die Artikeln 19c-19h.
+# Art. 19i 3. Zweiter Wahlgang
+1 Wahlvorschläge müssen bis spätestens am siebten Tag nach dem ersten Wahlgang bei der Einreichungsinstanz eintreffen. Neue Kandidaturen sind zulässig.
+2 Für das weitere Verfahren gelten die Artikel 19c bis 19f und Artikel 19h sinngemäss.

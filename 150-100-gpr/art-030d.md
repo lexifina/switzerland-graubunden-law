@@ -1,0 +1,6 @@
+# Art. 30d Ungültige Stimmabgabe
+1 Die elektronische Stimmabgabe ist ungültig, wenn sie:
+a) nicht in der vorgesehenen Form und Verschlüsselung erfolgt;
+b) nicht bis zur Schliessung der elektronischen Urne eintrifft;
+c) nicht entschlüsselt und gelesen werden kann;
+d) missbräuchlich erfolgt ist.

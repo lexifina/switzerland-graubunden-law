@@ -5,9 +5,11 @@
 ## 2. Wahlen und Abstimmungen
 ### 2.1. Wahl- und Abstimmungsorganisation
 ### 2.2. Anordnung der Wahlen und Abstimmungen
-### 2.2.a Stille Wahl der Mitglieder der Regionalgerichte
+### 2.2.a Anmeldeverfahren für Majorzwahlen an der Urne
+### 2.2.b Stille Wahl der Mitglieder der Regionalgerichte
 ### 2.3. Wahl- und Abstimmungsunterlagen
 ### 2.4. Stimmabgabe
+### 2.4.a Elektronische Stimmabgabe
 ### 2.5. Ermittlung des Wahl- und Abstimmungsergebnisses
 ### 2.6. Abschluss des Verfahrens
 ## 3. Amtseinstellung und Amtsenthebung

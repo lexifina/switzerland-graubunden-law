@@ -1,2 +1,3 @@
-# Art. 19g e) Bekanntgabe
-1 Die Verwaltungskommission des zuständigen Regionalgerichts veröffentlicht die Namen der kandidierenden Personen in ortsüblicher Weise.
+# Art. 19g e) Rückzug
+1 Rückzüge von Wahlvorschlägen müssen bis spätestens am neuntletzten Freitag vor dem Wahltag bei der Einreichungsinstanz eintreffen.
+2 Die vorgeschlagene Person muss dem Rückzug schriftlich zustimmen.
