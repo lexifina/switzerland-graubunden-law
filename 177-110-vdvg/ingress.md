@@ -1,5 +1,5 @@
-# E-Konto-Verordnung
-(EKV)
-Vom 09.05.2023
+# Verordnung zum Gesetz über die digitale Verwaltung
+(VDVG)
+Vom 05.03.2024
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
-von der Regierung erlassen am 9. Mai 2023
+von der Regierung erlassen am 5. März 2024
