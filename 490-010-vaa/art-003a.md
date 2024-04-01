@@ -1,0 +1,5 @@
+# Art. 3a Trägerwandel
+1 Digitale Versionen von in Papierform eingereichten Akten gelten als Originale, wenn sie in einem einheitlich geregelten Digitalisierungsverfahren nach dem Eintreffen in ein digitales Format übertragen werden und in das Geschäftsverwaltungssystem der Behörde übermittelt werden.
+2 Bei der Umwandlung in die digitale Form ist nach dem Stand der Technik sicherzustellen, dass das digitale Dokument mit dem Papierdokument übereinstimmt und dass es nicht verändert werden kann, ohne dass sich dies feststellen lässt.
+3 Das Departement für Finanzen und Gemeinden erlässt unter Einbezug der betroffenen Stellen in einer Weisung das Nähere zum einheitlich geregelten Digitalisierungsverfahren sowie zur vorübergehenden Aufbewahrung und zur Vernichtung der in Papierformat eingereichten Akten.
+4 Die Behörde hat die für die Digitalisierung zuständigen Personen, die von der Digitalisierung und Vernichtung ausgenommenen Dokumente und die Aufbewahrungsdauer der Dokumente in einer Organisationsvorschrift zu dokumentieren.
