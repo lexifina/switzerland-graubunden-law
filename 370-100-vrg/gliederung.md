@@ -1,8 +1,9 @@
 ## 1. Geltungsbereich
 ## 2. Allgemeine Grundsätze des Verfahrens
-### 2.1. Verfahrensleitung, Ausstand und Fristen
+### 2.1. Verfahrensleitung, Ausstand, Fristen und elektronischer Rechtsverkehr
 #### 2.1.1. Verfahrensleitung
 #### 2.1.2. Ausstand
+#### 2.1.2.a Elektronischer Rechtsverkehr
 #### 2.1.3. Fristen
 ### 2.2. Ermittlung des Sachverhalts
 ### 2.3. Rechte und Pflichten der Beteiligten
