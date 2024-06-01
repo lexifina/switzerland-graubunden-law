@@ -9,3 +9,5 @@
 ### 3.4. Erweiterte Verwaltungskommission
 ### 3.5. Zentrale Dienste
 ### 3.6. Nebenbeschäftigungen
+### 3.7. Präsidialkonferenz der Regionalgerichte
+### 3.8. Stabsstelle für die Regionalgerichte
