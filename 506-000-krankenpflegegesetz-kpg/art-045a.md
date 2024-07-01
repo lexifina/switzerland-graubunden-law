@@ -1,0 +1,10 @@
+# Art. 45a Beiträge an Leistungserbringer für die praktische Ausbildung in den Pflegeberufen
+1 Der Kanton gewährt den innerkantonalen Spitälern und Alters- und Pflegeheimen sowie den Diensten der häuslichen Pflege und Betreuung und den anerkannten Pflegefachpersonen einen Beitrag von mindestens 50 Prozent an die ungedeckten Ausbildungskosten der anrechenbaren Leistungen in der praktischen Ausbildung von:
+a) Absolventinnen und Absolventen der Ausbildung zur diplomierten Pflegefachfrau oder zum diplomierten Pflegefachmann FH;
+b) Absolventinnen und Absolventen der Ausbildung zur diplomierten Pflegefachfrau oder zum diplomierten Pflegefachmann HF;
+c) Absolventinnen und Absolventen der Ausbildung zur Fachfrau oder zum Fachmann Gesundheit EFZ.
+2 Der Grosse Rat legt jährlich im Budget den Gesamtkredit für die Beiträge an die Leistungserbringer für die praktische Ausbildung in den Pflegeberufen gemäss Absatz 1 fest.
+3 Das Amt bestimmt für jedes Spital und jedes Alters- und Pflegeheim sowie für jeden Dienst der häuslichen Pflege und Betreuung und für jede anerkannte Pflegefachperson die anrechenbaren Leistungen. Es berücksichtigt dabei das Ergebnis der Berechnung der Ausbildungskapazitäten der Spitäler und Alters- und Pflegeheime, der Dienste der häuslichen Pflege und Betreuung und der Pflegefachpersonen sowie das von ihnen erstellte Ausbildungskonzept.
+4 Beiträge an die ungedeckten Ausbildungskosten werden den Leistungserbringern für die von ihnen tatsächlich erbrachten Ausbildungsleistungen entrichtet.
+5 Das Amt legt für jede Kategorie der Leistungserbringer gemäss Absatz 1 die durchschnittlichen ungedeckten Ausbildungskosten für die einzelnen Ausbildungen fest. Es berücksichtigt dabei interkantonale Empfehlungen.
+6 Als ungedeckte Ausbildungskosten gelten die Kosten, für die die Spitäler und die Alters- und Pflegeheime sowie die Dienste der häuslichen Pflege und Betreuung und die anerkannten Pflegefachpersonen keine Vergütung erhalten, namentlich aufgrund der Preise und Tarife der obligatorischen Krankenpflegeversicherung.
