@@ -7,4 +7,4 @@ d) Gemeinde Bergün Filisur, Falein – Cuolm da Latsch keine Höhenlimite
 e) Gemeinde Surses, Tussagn – Battagliang keine Höhenlimite
 f) Gemeinde Surses, Tarvisch – Tscharnoz keine Höhenlimite
 2 Falls die Abschusszahlen während der Hochjagd nicht erfüllt werden beziehungsweise die Jagd ungenügend ausgeübt wird, erfolgen die fehlenden Abschüsse durch die Wildhut.
-3 Die Höhenlimiten sowie die in Gebieten mit Schwerpunktbejagung und forstlichen Problemen geltenden Vorschriften sind im Anhang 5 aufgeführt.
+3 Die Höhenlimiten, die in Gebieten mit Schwerpunktbejagung und forstlichen Problemen geltenden Vorschriften sowie die Gebiete mit Verlängerung der Gämsjagd sind im Anhang 5 aufgeführt.
