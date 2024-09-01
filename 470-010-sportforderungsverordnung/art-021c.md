@@ -4,3 +4,4 @@
 a) maximal zehn Stellenprozente pro 1000 Einwohnerinnen und Einwohner (auf 500 gerundete Einwohnerzahl);
 b) maximal 50 Prozent des Arbeitsumfangs, welcher für die Sportkoordination gemäss Artikel 21a Absatz 2 eingesetzt wird.
 3 Nicht anrechenbar sind Stellenprozente der Sportkoordinatorin oder des Sportkoordinators gemäss Artikel 21b Absatz 4.
+8. Preise
