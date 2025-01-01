@@ -1,5 +1,5 @@
 # Verordnung über die Gerichtsgebühren in Zivilverfahren
 (VGZ)
-Vom 14.12.2010
+Vom 02.01.2025
 Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung sowie Art. 15 Abs. 4 und Art. 16 Abs. 2 des Einführungsgesetzes zur Schweizerischen Zivilprozessordnung
-vom Kantonsgericht erlassen am 14. Dezember 2010
+vom Obergericht erlassen am 2. Januar 2025
