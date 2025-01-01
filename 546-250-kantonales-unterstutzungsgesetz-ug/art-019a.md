@@ -4,3 +4,4 @@ a) öffentliche oder gemeinnützige Unterstützungshilfe missbräuchlich verwend
 b) als unterstützungsbedürftige Person die ihr gestützt auf dieses Gesetz erteilten Weisungen nicht befolgt.
 2 Widerhandlungen gegen diese Bestimmungen werden durch die ordentlichen Strafbehörden beurteilt.
 3 Das Recht zur Strafanzeige richtet sich nach der Strafprozessordnung und der kantonalen Einführungsgesetzgebung.
+6. Schlussbestimmungen
