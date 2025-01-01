@@ -1,4 +1,5 @@
-# Verordnung über die Entschädigungen, Gebühren und Barauslagen von Schlichtungsstelle und Schiedsgericht nach EGzSSV
-Vom 02.11.2006
-Gestützt auf Art. 7 und 8 des Einführungsgesetzes zum Schlichtungs- und Schiedsgerichtsverfahren nach eidgenössischem Sozialversicherungsrecht (EGzSSV)
-vom Verwaltungsgericht des Kantons Graubünden erlassen am 2. November 2006
+# Verordnung über die Entlöhnung von Schlichtungsbehörde und Schiedsgericht nach EGzSSV
+(VESV)
+Vom 02.01.2025
+Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung und Art. 7 Abs. 3 des Einführungsgesetzes zum Schlichtungs- und Schiedsgerichtsverfahren nach eidgenössischem Sozialversicherungsrecht
+vom Obergericht erlassen am 2. Januar 2025
