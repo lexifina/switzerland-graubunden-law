@@ -5,7 +5,7 @@
 ### 3.2. Volksinitiative
 ### 3.3. Referendum
 ### 3.4. Politische Parteien
-## 4. Behörden und Gerichte
+## 4. Kantonale Behörden
 ### 4.1. Allgemeines
 ### 4.2. Der Grosse Rat
 #### 4.2.1. Organisation
@@ -14,7 +14,7 @@
 #### 4.3.1. Organisation
 #### 4.3.2. Aufgaben
 #### 4.3.3. Verwaltung
-### 4.4. Gerichte
+### 4.4. Richterliche Behörden
 ### 4.5. Ausübung von Mitwirkungsrechten im Bund
 ## 5. Gliederung des Kantons
 ### 5.1. Gemeinden und interkommunale Zusammenarbeit
