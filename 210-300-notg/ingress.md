@@ -5,3 +5,4 @@ Der Grosse Rat des Kantons Graubünden,
 gestützt auf Art. 31 der Kantonsverfassung,
 nach Einsicht in die Botschaft der Regierung vom 18. Mai 2004,
 beschliesst:
+1. Allgemeine Bestimmungen

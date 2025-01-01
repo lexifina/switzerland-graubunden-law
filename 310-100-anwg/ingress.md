@@ -1,4 +1,5 @@
 # Anwaltsgesetz
+(AnwG)
 Vom 14.02.2006
 Der Grosse Rat des Kantons Graubünden,
 gestützt auf Art. 31 der Kantonsverfassung,

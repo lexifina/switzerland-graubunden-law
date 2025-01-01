@@ -13,7 +13,7 @@
 ### 3.2. Verwaltungsbeschwerde
 #### 3.2.1. Voraussetzungen
 #### 3.2.2. Verfahren
-## 4. Verfahren vor Verwaltungsgericht
+## 4. Verfahren vor Obergericht
 ### 4.1. Allgemeine Vorschriften
 #### 4.1.1. Formvorschriften und Verfahrensleitung
 #### 4.1.2. Gerichtsverhandlung und Urteilsfindung
@@ -22,6 +22,7 @@
 #### 4.2.2. Verfahren
 ### 4.3. Verfassungsbeschwerde
 ### 4.4. Verwaltungsgerichtliche Klage
+## 4a. Verfahren vor Justizgericht
 ## 5. Ausserordentliche Rechtsmittel und Rechtsbehelfe
 ### 5.1. Erläuterung, Berichtigung und Revision
 ### 5.2. Aufsichtsbeschwerde

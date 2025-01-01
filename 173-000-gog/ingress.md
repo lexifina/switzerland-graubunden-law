@@ -1,7 +1,7 @@
-# Gerichtsorganisationsgesetz - Achtung von der Justizreform 3 betroffen; siehe AGS 2023-008 und AGS 2024-003
+# Gerichtsorganisationsgesetz
 (GOG)
-Vom 16.06.2010
+Vom 14.06.2022
 Der Grosse Rat des Kantons Graubünden,
-gestützt auf Art. 31 der Kantonsverfassung,
-nach Einsicht in die Botschaft der Regierung vom 23. März 2010,
+gestützt auf Art. 31 Abs. 1 der Kantonsverfassung,
+nach Einsicht in die Botschaft der Regierung vom 22. Februar 2022,
 beschliesst:

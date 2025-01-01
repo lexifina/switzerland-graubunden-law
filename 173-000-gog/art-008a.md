@@ -1,4 +1,0 @@
-# Art. 8a Stellenschaffung und -einreihung
-1 Das Kantons- beziehungsweise das Verwaltungsgericht stellen Stellenschaffungsanträge an den Grossen Rat.
-2 Das Kantonsgericht bestimmt aufgrund der jeweiligen Geschäftslast und nach Anhörung der Regionalgerichte für jedes Regionalgericht die Stellenprozente für Aktuariat und Kanzleipersonal.
-3 Das Kantonsgericht reiht die Stellen der Mitglieder und Mitarbeitenden der Regionalgerichte sowie der Vermittlerinnen und Vermittler gestützt auf entsprechende Vorschläge des kantonalen Personalamtes und nach Anhörung der Regionalgerichte in die Gehaltsklassen gemäss kantonalem Personalrecht ein oder sieht für die Vermittlerinnen und Vermittler eine Entschädigung nach Taggeld vor. Es regelt die Zuständigkeiten, das Verfahren sowie weitere Einzelheiten in einer Verordnung.

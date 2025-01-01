@@ -22,4 +22,5 @@
 ### 6.1.a Rechtsetzung
 ### 6.2. Besondere Berichte
 ### 6.3. Aussenbeziehungen
+## 6a. Geschäftsverkehr zwischen dem Obergericht und dem Grossen Rat
 ## 7. Schlussbestimmungen
