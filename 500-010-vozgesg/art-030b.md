@@ -5,3 +5,4 @@ b) die Erstellung der Dienstpläne der im regionalen ärztlichen Notfalldienst t
 c) der Betrieb der Notfall-App;
 d) die Gewährleistung der regelmässigen notfallspezifischen Fortbildung der Notfalldienst leistenden Ärztinnen und Ärzte;
 e) die Gewährung von Beiträgen an die Kosten der Anschaffung und des Unterhalts der Notfallgrundausrüstung durch die Notfalldienst leistenden Ärztinnen und Ärzte.
+5.3. Betriebe des Gesundheitswesens
