@@ -1,0 +1,4 @@
+# Art. 13a Spitalschulen, Leistungsauftrag und Finanzierung
+1 Das Departement kann den bezeichneten Spitälern und Kliniken, welche die Vorgaben des Volksschulgesetzes sinngemäss erfüllen, einen Leistungsauftrag erteilen. Grundlage bildet ein vom Amt genehmigtes Schulkonzept.
+2 Der Leistungsauftrag erstreckt sich in der Regel über vier Jahre. Dieser regelt insbesondere die Art, Qualität und Quantität des Angebots, die Qualifikation des Lehrpersonals, die Überprüfung der in Rechnung gestellten Leistungen und die Grundsätze der Leistungsabgeltung.
+3 Als anrechenbare Restkosten gelten nur diejenigen Kosten, die in unmittelbarem Zusammenhang mit der Spitalbeschulung stehen, für eine zweckdienliche Durchführung notwendig sind und im Rahmen einer zweckmässigen und wirtschaftlichen Betriebsorganisation und Betriebsführung tatsächlich anfallen.

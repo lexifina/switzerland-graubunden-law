@@ -2,7 +2,7 @@
 ## 2. Schul- und Bildungsangebote
 ### 2.1. Schulstufen
 ### 2.2. Schulpflicht, Schulort und Unentgeltlichkeit
-### 2.3. Privatschulen und Privatunterricht
+### 2.3. Privatschulen, Privatunterricht und Spitalschulen
 ## 3. Organisation der Schule
 ### 3.1. Führung und Organisation
 ### 3.2. Schulbetrieb
@@ -17,6 +17,6 @@
 ### 5.2. Besoldung
 ## 6. Finanzierung der Schulen
 ### 6.1. Grundsatz
-### 6.2. Beiträge des Kantons und der Schulträgerschaften
+### 6.2. Beiträge des Kantons, der Schulträgerschaften und der Erziehungsberechtigten
 ## 7. Instanzen
 ## 8. Schlussbestimmungen
