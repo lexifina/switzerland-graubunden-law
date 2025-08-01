@@ -2,3 +2,4 @@
 (KJG)
 Vom 04.06.1989
 Vom Volke angenommen am 4. Juni 1989
+1. Allgemeine Bestimmungen
