@@ -1,5 +1,5 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Aufgaben
-## 3. Finanzierung
-## 4. Anerkennung
-## 5. Schlussbestimmungen
+## 2. Vergünstigungen
+## 3. Anforderungen an die Angebote
+## 4. Finanzierung und weitere Förderung
+## 5. Weitere Bestimmungen
