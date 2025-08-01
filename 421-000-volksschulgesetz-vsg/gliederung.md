@@ -3,7 +3,7 @@
 ## 3. Schul- und Bildungsangebote
 ### 3.1. Schulstufen
 ### 3.2. Schulpflicht, Schulort und Unentgeltlichkeit
-### 3.3. Privatschulen und Privatunterricht
+### 3.3. Privatschulen, Privatunterricht und Spitalschulen
 ## 4. Organisation der Schule
 ### 4.1. Führung und Organisation
 ### 4.2. Schulbetrieb
