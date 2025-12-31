@@ -2,3 +2,4 @@
 (Landwirtschaftsgesetz)
 Vom 25.09.1994
 Vom Volke angenommen am 25. September 1994
+1. Allgemeine Bestimmungen
