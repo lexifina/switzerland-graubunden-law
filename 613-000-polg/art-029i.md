@@ -1,0 +1,2 @@
+# Art. 29i 7. Anzeigerecht
+1 Die zuständige Stelle ist berechtigt, bei einer Strafverfolgungsbehörde von Amtes wegen zu verfolgende Verbrechen und Vergehen, von denen sie im Rahmen des Bedrohungsmanagements Kenntnis erhalten hat und durch welche die physische, psychische oder sexuelle Integrität einer Person mutmasslich beeinträchtigt wurde, anzuzeigen, ohne vom Amtsgeheimnis entbunden werden zu müssen.

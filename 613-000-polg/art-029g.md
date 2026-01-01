@@ -1,0 +1,8 @@
+# Art. 29g 5. Datenbeschaffung und Datenbekanntgabe
+1 Die zuständige Stelle kann bei Behörden des Bundes, der Kantone, der Gemeinden oder eines anderen Staates, Fachpersonen, privaten Organisationen und Privatpersonen Auskünfte über gewaltbereite und gewaltbetroffene Personen einholen und ihnen Daten, einschliesslich besonders schützenswerter Personendaten, über die gewaltbereite und die gewaltbetroffene Person bekanntgeben, soweit dies notwendig ist, um:
+a) das Gewaltpotenzial einer gewaltbereiten Person einzuschätzen;
+b) die Massnahmen zur Gefahrenabwehr zu bestimmen;
+c) das Vorgehen zur Gefahrenabwehr umzusetzen und zu koordinieren.
+2 Die zuständige Stelle kann zur Datenbeschaffung und Datenbekanntgabe gemäss Absatz 1 Fallkonferenzen mit Behörden, Fachpersonen und privaten Organisationen durchführen. Die Teilnehmenden sind berechtigt, Daten, einschliesslich besonders schützenswerter Personendaten, auszutauschen.
+3 Die zuständige Stelle kann Personen aus dem privaten Umfeld der gewaltbereiten und der gewaltbetroffenen Person befragen, wenn die Gefahrenlage aufgrund anderer Abklärungen nicht oder nur mit unverhältnismässig grossem Aufwand zuverlässig eingeschätzt werden kann. Befragungen im Umfeld der gewaltbetroffenen Person sind nur mit der Zustimmung der gewaltbetroffenen Person zulässig.
+4 Beschafft die zuständige Stelle Daten nicht bei der gewaltbereiten Person, informiert sie die gewaltbereite Person über den Grund, die Art und die Dauer der Datenbearbeitung, sobald der mit der Datenbearbeitung verbundene Zweck dies zulässt. Die Mitteilung unterbleibt, wenn dies zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.

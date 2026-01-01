@@ -1,5 +1,5 @@
-# Art. 48a Beratungsstelle für Gewalt ausübende Personen
-1 Das Amt führt eine Beratungsstelle für Gewalt ausübende Personen. Zur Erfüllung dieser Aufgabe ist die Beratungsstelle für Gewalt ausübende Personen berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten.
-2 Nach Eingang einer Meldung gemäss Artikel 16 Absatz 1 Litera c oder Artikel 16a des Polizeigesetzes des Kantons Graubünden nimmt die Beratungsstelle für Gewalt ausübende Personen umgehend Kontakt mit der Gewalt ausübenden Person auf und bietet ihr eine kostenlose Beratung an.
-3 Wünscht die Gewalt ausübende Person keine Beratung, vernichtet oder löscht die Beratungsstelle für Gewalt ausübende Personen die von der Kantonspolizei erhaltenen Unterlagen oder Informationen sofort.
-4 Die Beratungsstelle für Gewalt ausübende Personen darf Tatsachen, von denen sie durch eine freiwillige Beratung Kenntnis erhalten hat, und Unterlagen aus einer freiwilligen Beratung Dritten nur bekanntgeben, wenn die beratene Person damit einverstanden ist.
+# Art. 48a Beratungsstelle für gewaltausübende Personen
+1 Das Amt führt eine Beratungsstelle für gewaltausübende Personen. Zur Erfüllung dieser Aufgabe ist die Beratungsstelle für gewaltausübende Personen berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten.
+2 Nach Eingang einer Meldung gemäss Artikel 16b Absatz 3 Litera b oder Artikel 16c Absatz 1 des Polizeigesetzes des Kantons Graubünden nimmt die Beratungsstelle für gewaltausübende Personen umgehend Kontakt mit der gemeldeten Person auf und bietet ihr eine kostenlose Beratung an.
+3 Wünscht die gemeldete Person keine Beratung, vernichtet oder löscht die Beratungsstelle für gewaltausübende Personen die von der Kantonspolizei erhaltenen Unterlagen oder Informationen sofort.
+4 Die Beratungsstelle für gewaltausübende Personen darf Tatsachen, von denen sie durch eine freiwillige Beratung Kenntnis erhalten hat, und Unterlagen aus einer freiwilligen Beratung Dritten nur bekanntgeben, wenn die beratene Person damit einverstanden ist.

@@ -1,0 +1,3 @@
+# Art. 29d 2. Datenbearbeitung
+1 Die zuständige Stelle darf Daten, einschliesslich besonders schützenswerter Personendaten, über potenziell gewaltbereite und gewaltbereite sowie gewaltbetroffene Personen bearbeiten und Persönlichkeitsprofile über gewaltbereite Personen erstellen, soweit dies notwendig ist, um eine schwere Gewalttat gemäss Artikel 29c Absatz 2 zu erkennen oder zu verhindern.
+2 Daten, einschliesslich besonders schützenswerter Personendaten, über andere Personen darf die zuständige Stelle bearbeiten, wenn die gewaltbereite oder gewaltbetroffene Person mit diesen Personen in Kontakt steht oder gestanden ist und die Datenbearbeitung notwendig ist, um eine schwere Gewalttat gemäss Artikel 29c Absatz 2 zu erkennen oder zu verhindern.
