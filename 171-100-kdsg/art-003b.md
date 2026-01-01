@@ -1,5 +1,0 @@
-# Art. 3b 2. Anordnung der Bildüberwachung des öffentlichen und öffentlich zugänglichen Raums
-1 Die Bildüberwachung des öffentlichen und öffentlich zugänglichen Raums kann von einer Behörde angeordnet werden, der das Gebrauchsrecht oder die Hoheit über den zu überwachenden Raum zusteht.
-2 Die Behörde erlässt eine Allgemeinverfügung, in welcher der Zweck, die Art und die Dauer der Überwachung, die zu überwachenden Örtlichkeiten, die Standorte der Überwachungsgeräte, die Massnahmen zum Hinweis auf die Überwachung, die Zugriffsrechte sowie die zur Datensicherheit getroffenen Massnahmen bestimmt werden. Die Allgemeinverfügung gilt für maximal fünf Jahre.
-3 Die Behörde hat die zu erlassende Allgemeinverfügung vorgängig zu veröffentlichen. Sie hört Personen an, indem sie ihnen eine angemessene Frist zur Stellungnahme einräumt.
-4 Vorgängiger Rechtsschutz ist nicht zu gewähren für anlassbezogene Bildüberwachungen mit einer Dauer von höchstens drei Monaten und Bildüberwachungen zum Schutz öffentlichen Zwecken dienenden Gebäuden, die ereignisbezogen in Betrieb genommen werden und keine Personendaten aufzeichnen.
