@@ -1,3 +1,7 @@
-# Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet
-Vom 10.03.1985
-Vom Volke angenommen am 10. März 1985
+# Gesetz über die Förderung von Wohnraum
+(GFW)
+Vom 12.06.2025
+Der Grosse Rat des Kantons Graubünden,
+gestützt auf Art. 31 Abs. 1 der Kantonsverfassung,
+nach Einsicht in die Botschaft der Regierung vom 10. Februar 2025,
+beschliesst:
