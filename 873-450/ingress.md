@@ -1,3 +1,4 @@
 # Verordnung über die nicht eidgenössisch konzessionierten Luftseilbahnen, Skilifte und Schrägaufzüge
-Vom 13.12.2005
-Von der Regierung erlassen am 13. Dezember 2005
+Vom 08.12.2025
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 8. Dezember 2025
