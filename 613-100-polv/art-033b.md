@@ -1,4 +1,4 @@
-# Art. 33b Massnahmen der Strafprozessordnung
+# Art. 33b 3. Massnahmen der Strafprozessordnung
 1 Die Kantonspolizei bestimmt, welche Polizistinnen und Polizisten Zeuginnen und Zeugen im Auftrag der Staatsanwaltschaft einvernehmen dürfen.
 2 Über die folgenden Zwangsmassnahmen der Strafprozessordnung entscheidet eine Polizeioffizierin oder ein Polizeioffizier:
 a) Verlängerung der vorläufigen Festnahme bei Übertretungen gemäss Artikel 219 Absatz 5;
