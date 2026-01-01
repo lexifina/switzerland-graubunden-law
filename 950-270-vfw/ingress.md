@@ -1,4 +1,6 @@
-# Ausführungsbestimmungen zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet
-Vom 02.12.1985
-Gestützt auf Art. 35 der grossrätlichen Vollziehungsverordnung zum Gesetz über den sozialen Wohnungsbau und die Verbesserung der Wohnverhältnisse im Berggebiet vom 5. Oktober 1984
-von der Regierung erlassen am 2. Dezember 1985
+# Verordnung über die Förderung von Wohnraum
+(VFW)
+Vom 16.12.2025
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+von der Regierung erlassen am 16. Dezember 2025
+1. Allgemeine Bestimmungen
