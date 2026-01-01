@@ -1,2 +1,2 @@
-# Art. 21a II. Aufsicht über Personalfürsorgestiftungen
-1 Für Personalfürsorgestiftungen gelten die Interkantonale Vereinbarung über die Ostschweizer BVG- und Stiftungsaufsicht und das Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG).
+# Art. 21a II. Aufsicht über Einrichtungen der beruflichen Vorsorge
+1 Für Einrichtungen der beruflichen Vorsorge gelten die Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin (IVBSA) und das Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG).
