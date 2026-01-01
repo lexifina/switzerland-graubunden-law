@@ -3,4 +3,4 @@
 ## 3. Schutzbauten
 ## 4. Finanzierung
 ## 5. Rechtspflege
-## 6. Übergangsbestimmung
+## 6. …
