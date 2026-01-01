@@ -3,3 +3,4 @@
 Vom 19.12.2017
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
 von der Regierung erlassen am 19. Dezember 2017
+1. Rechnungslegung
