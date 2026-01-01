@@ -3,6 +3,6 @@
 a) die Rutschgeschwindigkeit des betroffenen Gebiets sich erhöht;
 b) die Bewegungsrate der permanenten Rutschung eine starke Intensität aufweist;
 c) das Gebiet der Gefahrenzone mit erheblicher Gefährdung (Gefahrenzone 1) für Gleitprozesse zugeordnet wird oder bleibt;
-d) das Gebäude einen Totalschaden erlitten hat;
-e) das Gebäude abgebrochen ist; und
-f) das Gebäude nicht in einer Gefahrenzone mit erheblicher Gefährdung (Gefahrenzone 1) wiederhergestellt wird.
+d) das Gebäude einen Totalschaden erlitten hat; und
+e) das Gebäude abgebrochen ist oder eine Abbruchverfügung vorliegt.
+f) …
