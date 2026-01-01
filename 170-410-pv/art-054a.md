@@ -3,7 +3,8 @@
 2 Der Mutterschaftsurlaub beginnt am Tag der Geburt:
 a) wenn das Kind lebensfähig geboren wird; oder
 b) wenn die Schwangerschaft mindestens 23 Wochen gedauert hat.
+2bis Wenn der andere Elternteil innert sechs Monaten nach der Geburt stirbt, erhält die Mitarbeiterin zusätzlich bezahlten Urlaub von 14 Tagen innerhalb von sechs Monaten nach dem Tod.
 3 …
 4 Bei schwankendem Arbeitsumfang ist für die Berechnung des Lohnes der in den zwölf Monaten vor der Geburt durchschnittlich bezogene Lohn massgebend.
 5 Sprechen keine schwerwiegenden betrieblichen Gründe dagegen, gewährt die Dienststelle auf Antrag anschliessend an den bezahlten Mutterschaftsurlaub einen unbezahlten Urlaub.
-6 Die Mitarbeiterin kann das Arbeitsverhältnis bis spätestens zehn Tage nach der Geburt auf Ende des Mutterschaftsurlaubs kündigen.
+6 Die Mitarbeiterin kann das Arbeitsverhältnis innerhalb eines Monats nach der Geburt auf Ende des Mutterschaftsurlaubs kündigen.
