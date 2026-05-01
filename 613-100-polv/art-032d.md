@@ -6,7 +6,8 @@ b) der Staatsanwaltschaft;
 c) der Kindes- und Erwachsenenschutzbehörde;
 d) des Amts für Justizvollzug;
 e) des Amts für Migration und Zivilrecht;
-f) des kantonalen Sozialamts;
+f) des Amts für Soziales;
 g) der Psychiatrischen Dienste Graubünden.
 3 Die Mitglieder werden von den jeweiligen Behörden bezeichnet.
 4 Das Fachgremium kann weitere Personen beiziehen.
+5a. Massnahmen

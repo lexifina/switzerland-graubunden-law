@@ -3,3 +3,4 @@
 2 Sie macht die Beteiligten auf ihre Verschwiegenheitspflicht und die Folgen der Missachtung aufmerksam. Personen, die nicht dem Amtsgeheimnis unterstehen, haben die Einhaltung der Schweigepflicht unterschriftlich zu bestätigen.
 3 Die Fachstelle KBM protokolliert die Ergebnisse der Fallkonferenz.
 4 Sie kann die Leitung der Fallkonferenz einer anderen Behörde übertragen.
+8. Schlussbestimmungen
