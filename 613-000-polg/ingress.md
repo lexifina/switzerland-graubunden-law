@@ -5,3 +5,4 @@ Der Grosse Rat des Kantons Graubünden,
 gestützt auf Art. 79 der Kantonsverfassung,
 nach Einsicht in die Botschaft der Regierung vom 15. Juni 2004,
 beschliesst:
+1. Allgemeine Bestimmungen

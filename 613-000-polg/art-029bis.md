@@ -1,0 +1,2 @@
+# Art. 29bis Datenaustausch mit Schengen-Staaten
+1 Für den direkten Informationsaustausch mit Polizei- und Strafverfolgungsbehörden anderer Staaten, die mit der Schweiz über eines der Schengen-Assoziierungsabkommen verbunden sind (Schengen-Staaten), findet das Bundesgesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden des Bundes und denjenigen der anderen Schengen-Staaten sinngemäss Anwendung.

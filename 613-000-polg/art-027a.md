@@ -1,4 +1,5 @@
 # Art. 27a Datenbeschaffung
-1 Die Kantonspolizei kann zur Erfüllung ihres gesetzlichen Auftrags Informationen und Daten aus öffentlich zugänglichen, privaten und amtlichen Quellen erheben und entgegennehmen.
-2 Sie kann Daten ausländischer, eidgenössischer und kantonaler Polizei-, Strafverfolgungs- und Verwaltungsbehörden entgegennehmen oder im Abrufverfahren anfragen.
-3 Öffentliche Organe oder Behörden sowie Private geben der Kantonspolizei Daten bekannt, soweit dies zur Erfüllung der polizeilichen Aufgabe notwendig ist. Sie können ihr die Daten im Abrufverfahren zugänglich machen.
+1 Die Kantonspolizei kann Daten, einschliesslich besonders schützenswerter Personendaten, bei anderen öffentlichen Organen und Privaten beschaffen, soweit dies notwendig ist, um eine polizeiliche Aufgabe zu erfüllen.
+2 Die Kantonspolizei kann Daten, einschliesslich besonders schützenswerter Personendaten, bei ausländischen, eidgenössischen, kantonalen und kommunalen Polizei-, Strafverfolgungs- und Verwaltungsbehörden im Abrufverfahren anfragen, soweit die automatisierte Datenbeschaffung für die Erfüllung einer gesetzlichen Aufgabe der Kantonspolizei notwendig ist.
+3 Öffentliche Organe des Kantons Graubünden, der Regionen und Gemeinden sowie Private geben der Kantonspolizei Daten, einschliesslich besonders schützenswerter Personendaten, bekannt, soweit dies für die Erfüllung einer polizeilichen Aufgabe notwendig ist.
+4 Bündner Polizeibehörden, die dem Ostschweizer Polizeikonkordat angehören, gewähren der Kantonspolizei den Zugriff auf polizeiliche Datenbestände mittels Abrufverfahren. Andere öffentliche Organe des Kantons, der Regionen oder Gemeinden können der Kantonspolizei die Daten im Abrufverfahren zugänglich machen.
