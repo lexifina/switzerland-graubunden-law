@@ -1,5 +1,5 @@
 # Art. 15a Prüfungskommissionen
 1 Unmittelbar nach Abschluss der Abschlussprüfungen der Berufsmaturität tritt auf Einladung der Prüfungsleitung der Handelsmittelschule die schulische Prüfungskommission gemäss Artikel 30 Absatz 1 der Verordnung über das Gymnasium zusammen. Sie validiert die Noten der Abschlussprüfungen sowie die Noten der Berufsmaturität.
-1bis Die Prüfungsleitung der Handelsmittelschule stellt nach Vorliegen der Note für die interdisziplinäre Projektarbeit fest, ob die Voraussetzungen für das Bestehen der Berufsmaturitätsprüfung erfüllt sind und teilt dies den betroffenen Schülerinnen und Schülern schriftlich mit.
+1bis Die Prüfungsleitung der Handelsmittelschule stellt fest, ob die Voraussetzungen für das Bestehen der Berufsmaturitätsprüfung erfüllt sind, und teilt dies den betroffenen Schülerinnen und Schülern schriftlich mit.
 2 Nach Abschluss des Qualifikationsverfahrens für das eidgenössische Fähigkeitszeugnis ermittelt die Prüfungsleitung für die Qualifikationsverfahren die Prüfungsergebnisse und stellt fest, ob das Qualifikationsverfahren als bestanden oder nicht bestanden gilt.
 3 Entscheide der Prüfungsleitung der Handelsmittelschule sowie der Prüfungsleitung für die Qualifikationsverfahren können innert zehn Tagen beim Departement angefochten werden.
