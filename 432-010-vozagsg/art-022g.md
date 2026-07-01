@@ -7,3 +7,4 @@ d) bei Abbruch der Ausbildung oder des Studiums.
 2 Auf eine Rückforderung kann ganz oder teilweise verzichtet werden:
 a) bei Abbruch der Ausbildung oder des Studiums aus gesundheitlichen Gründen;
 b) bei definitivem Nichtbestehen der Ausbildung oder des Studiums.
+4. Schlussbestimmungen
