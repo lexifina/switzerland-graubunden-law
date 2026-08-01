@@ -1,4 +1,5 @@
 # Verordnung über die Schulzahnpflege
-Vom 03.07.2007
-Gestützt Art. 6 des Kindergartengesetzes vom 17. Mai 1992, Art. 9 des Schulgesetzes vom 26. November 2000 und Art. 5a des Behindertengesetzes vom 18. Februar 1979
-von der Regierung erlassen am 3. Juli 2007
+Vom 07.04.2026
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung und Art. 51 des Gesetzes für die Volksschulen des Kantons Graubünden
+von der Regierung erlassen am 7. April 2026
+1. Allgemeines
