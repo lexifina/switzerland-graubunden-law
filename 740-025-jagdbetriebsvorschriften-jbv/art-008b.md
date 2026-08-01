@@ -1,0 +1,3 @@
+# Art. 8b 2. Ausnahmen a) Zutritt und Zufahrt ins Jagdgebiet ausserhalb der Jagdzeiten
+1 Am Tag vor Jagdbeginn und am Tag vor Wiederaufnahme der Jagd nach einem Unterbruch dürfen Jägerinnen und Jäger in Jagdausrüstung ab 12.00 Uhr Motorfahrzeuge für die Fahrt ins Jagdgebiet verwenden oder mit der Jagdwaffe zu Fuss den Weg zu ihren Unterkünften antreten. Fahrzeuge müssen noch am gleichen Abend auf einem erlaubten Parkplatz abgestellt werden. Vorbehalten bleiben die besonderen Bestimmungen für die Sonderjagd gemäss Artikel 64.
+2 Vor einem jagdfreien Tag und am Ende der Hoch- und Niederjagd dürfen Motorfahrzeuge nach Ende der Schusszeit für die Heimfahrt verwendet werden.
