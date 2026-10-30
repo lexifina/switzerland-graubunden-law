@@ -1,0 +1,11 @@
+{
+  "path": "ch-gr",
+  "code": "CH-GR",
+  "name": "Graubünden",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-graubunden-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (311 acts, 899 versions) from the BR",
+  "language": "de",
+  "sources": 1
+}

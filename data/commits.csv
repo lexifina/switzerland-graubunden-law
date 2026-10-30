@@ -1,0 +1,710 @@
+day,kind,law,acts,files,branch
+1969-01-01,start,,810-200,4,main
+1971-03-01,start,ags-beschluss-1971-02-24,520-200,7,main
+1972-06-02,start,ags-beschluss-1972-06-02,496-150,8,main
+1975-10-01,start,ags-beschluss-1974-05-30,780-110,4,main
+1986-01-01,start,ags-beschluss-1985-09-22,520-100-ruhetagsgesetz,10,main
+1995-07-01,start,ags-beschluss-1995-06-20,810-120-vreg,18,main
+1997-12-01,start,,544-050,20,main
+1998-04-01,start,ags-beschluss-1998-03-23,180-500,9,main
+1998-07-01,start,,170-360,6,main
+1998-12-01,start,ags-beschluss-1998-10-27,433-150,15,main
+1998-12-01,start,ags-beschluss-1998-10-27,545-265,6,main
+2000-06-01,start,,935-400,30,main
+2000-11-30,start,ags-beschluss-2000-11-21,801-150-umnutzungsverordnung-uvo,4,main
+2001-01-01,start,ags-beschluss-2000-12-19,919-100,8,main
+2001-07-01,start,ags-beschluss-2001-06-26,180-200,5,main
+2003-04-01,start,,877-120-binnenschifffahrtsgebuhrenverordnung-bsgebv,7,main
+2003-07-01,start,ags-beschluss-2003-03-24,170-800-pmv,10,main
+2003-08-01,start,ags-beschluss-2003-06-24,917-200,11,main
+2003-09-01,start,ags-beschluss-2003-08-12,910-175,10,main
+2004-01-01,start,,815-350,11,main
+2005-01-01,start,,815-500-schadendienstverordnung,24,main
+2005-03-01,start,ags-beschluss-2005-03-01,425-040,6,main
+2006-02-01,start,ags-beschluss-2005-10-19,630-200,6,main
+2006-04-01,start,ags-beschluss-2006-02-21,933-100-vvzkkg,12,main
+2007-01-01,start,ags-beschluss-2006-10-19,170-380-ggvr,14,main
+2007-01-01,start,,210-350-notv,27,main
+2007-01-01,start,,217-600,23,main
+2007-01-01,start,ags-beschluss-2006-08-15,219-210,6,main
+2007-01-01,start,ags-beschluss-2006-11-02,370-110-vgo,6,main
+2007-01-01,start,ags-beschluss-2006-11-02,370-310-vesv,6,main
+2007-01-01,start,,490-200,20,main
+2007-01-01,start,,530-300,10,main
+2007-01-01,start,,740-010-kjv,38,main
+2007-01-01,start,,801-100-krg,111,main
+2007-01-01,start,,810-115-vwpst,24,main
+2007-01-01,start,,873-450,13,main
+2007-01-01,start,,935-300,22,main
+2007-01-01,start,,950-250-gfw,19,main
+2007-04-01,start,,915-110,45,main
+2007-08-01,start,ags-beschluss-2006-12-05,450-200-stipendiengesetz-stipg,29,main
+2007-09-01,start,,932-100-gwe-wirtschaftsentwicklungsgesetz,30,main
+2008-01-01,start,,210-300-notg,54,main
+2008-01-01,start,ags-beschluss-2008-02-05,430-180-gebvafb,6,main
+2008-01-01,start,ags-beschluss-2008-02-05,430-350-beitragsverordnung,17,main
+2008-01-01,start,ags-beschluss-2007-12-11,545-200,6,main
+2008-01-01,start,,912-010,15,main
+2008-01-01,start,,915-100,63,main
+2008-01-01,start,,950-270-vfw,22,main
+2008-10-01,start,,171-100-kdsg,15,main
+2009-01-01,start,,170-480,7,main
+2009-01-01,start,ags-beschluss-2008-08-12,430-200,11,main
+2009-01-01,start,,800-110-imv,21,main
+2009-01-01,start,,807-110-strv,45,main
+2009-01-01,start,,815-200-kantonale-gewasserschutzverordnung-kgschv,20,main
+2009-01-01,start,,870-120,4,main
+2009-03-01,start,,932-160-vwe-wirtschaftsentwicklungsverordnung,35,main
+2009-04-01,start,,938-200,34,main
+2009-05-01,start,ags-beschluss-2009-03-31,760-300-refk,10,main
+2009-08-01,start,,548-200,16,main
+2009-09-01,start,,810-110-bwrv,34,main
+2009-11-12,start,ags-beschluss-2009-07-07,820-150-kvuvp,13,main
+2010-01-01,start,,350-150,5,main
+2010-01-01,start,,370-120-vkv,21,main
+2010-01-01,start,ags-beschluss-2009-06-30,545-270-vozegzavg-avig,12,main
+2010-01-01,start,ags-beschluss-2007-11-27,545-280,6,main
+2010-01-01,start,,740-050-vww,13,main
+2010-01-01,start,,740-330-kstv,22,main
+2010-01-01,start,,740-400-dvo,15,main
+2010-01-01,start,,740-500-rejk,10,main
+2010-04-01,start,,740-350-jhv,22,main
+2010-08-01,start,ags-beschluss-2010-06-29,919-300,8,main
+2010-09-01,start,,530-150,8,main
+2010-12-01,start,ags-beschluss-2010-06-15,171-200-einwohnerregistergesetz-erg,43,main
+2010-12-01,start,ags-beschluss-2010-10-26,171-210-einwohnerregisterverordnung-erv,34,main
+2010-12-01,start,,544-000-egzahvg-ivg,22,main
+2010-12-01,start,,544-010-vvzegzahvg-ivg,17,main
+2010-12-01,start,,740-300-khv,17,main
+2011-01-01,start,,150-300,22,main
+2011-01-01,start,,170-050-shg,21,main
+2011-01-01,start,,170-300-rvog,28,main
+2011-01-01,start,,170-410-pv,75,main
+2011-01-01,start,,210-200-egzor,27,main
+2011-01-01,start,,219-300,13,main
+2011-01-01,start,,310-100-anwg,26,main
+2011-01-01,start,,310-250-honorarverordnung-hv,10,main
+2011-01-01,start,ags-beschluss-2010-12-21,320-110-rvzegzzpo,6,main
+2011-01-01,start,ags-beschluss-2010-12-14,350-210-vgs,16,main
+2011-01-01,start,,350-325-kantonale-sprengstoffverordnung-ksprstv,12,main
+2011-01-01,start,,370-100-vrg,91,main
+2011-01-01,start,,370-300-egzssv,18,main
+2011-01-01,start,,492-100-spg,32,main
+2011-01-01,start,,498-200-nationalparkordnung,10,main
+2011-01-01,start,ags-beschluss-2010-08-27,500-500-einfuhrungsgesetz-zum-heilmittelgesetz-egzhmg,38,main
+2011-01-01,start,ags-beschluss-2010-12-21,500-510-verordnung-zum-einfuhrungsgesetz-zum-heilmittelgesetz-vozegzhmg,15,main
+2011-01-01,start,ags-beschluss-2010-12-21,502-100,17,main
+2011-01-01,start,,507-100-lebensmittelverordnung,21,main
+2011-01-01,start,,507-400,20,main
+2011-01-01,start,,530-100,14,main
+2011-01-01,start,,538-100,23,main
+2011-01-01,start,,545-100-egzavg-avig,9,main
+2011-01-01,start,,618-100-egzaag,36,main
+2011-01-01,start,,740-030-obvj,9,main
+2011-01-01,start,,780-100,8,main
+2011-01-01,start,,803-200,24,main
+2011-01-01,start,,807-700-wasserbaugesetz-kwbg,34,main
+2011-01-01,start,,812-100-stromvg-gr,23,main
+2011-01-01,start,,820-100-kantonales-umweltschutzgesetz-kusg,65,main
+2011-01-01,start,ags-beschluss-2010-04-20,820-200-beg,42,main
+2011-01-01,start,ags-beschluss-2010-10-26,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,37,main
+2011-01-01,start,,835-100-gve,39,main
+2011-01-01,start,ags-beschluss-2010-10-26,835-120-vve,16,main
+2011-01-01,start,ags-beschluss-2010-06-15,840-100-brandschutzgesetz,51,main
+2011-01-01,start,,850-100-ibg,20,main
+2011-01-01,start,ags-beschluss-2010-11-16,875-100-klfv,10,main
+2011-01-01,start,,877-100-egzumbsg,23,main
+2011-01-01,start,,945-100-gwg,36,main
+2011-01-01,start,,947-100,19,main
+2011-02-01,start,ags-beschluss-2011-01-18,618-200,9,main
+2011-03-14,start,,545-290,5,main
+2011-04-01,start,,914-200-somv,13,main
+2011-06-01,start,ags-beschluss-2011-05-03,170-500-infv,16,main
+2011-06-01,start,,740-060-jpgv,6,main
+2011-06-01,start,,872-150-vov,23,main
+2011-10-01,start,,801-110-krvo,65,main
+2011-11-08,start,ags-beschluss-2011-11-08,425-130-hmsv,22,main
+2012-01-01,start,ags-beschluss-2011-10-19,180-100-publikationsgesetz-pug,16,main
+2012-01-01,start,ags-beschluss-2011-06-17,217-300-kgeoig,45,main
+2012-01-01,start,ags-beschluss-2011-12-20,217-330-gkgeoig,13,main
+2012-01-01,start,ags-beschluss-2011-09-02,440-100-behindertenintegrationsgesetz-big,50,main
+2012-01-01,start,ags-beschluss-2012-02-07,440-110-behindertenintegrationsverordnung-biv,35,main
+2012-01-01,start,,544-300-kantonales-gesetz-uber-erganzungsleistungen,24,main
+2012-01-01,start,,613-140-polizeikostenverordnung-polkostv,60,main
+2012-01-01,start,,820-110-kusv,44,main
+2012-01-01,start,,850-110-vaib,45,main
+2012-02-15,start,ags-beschluss-2012-02-07,217-310-kgeoiv,23,main
+2012-02-15,start,ags-beschluss-2012-02-07,217-320-kvav,38,main
+2012-03-01,start,,170-400-personalgesetz-pg,75,main
+2012-03-01,start,ags-beschluss-2011-10-19,710-300-gfa,26,main
+2012-06-01,start,,219-100,17,main
+2012-06-01,start,,870-130-strassenverkehrsgebuhrenverordnung-strgebv,13,main
+2012-07-01,start,ags-beschluss-2012-05-22,498-210-obvn,6,main
+2012-08-01,start,,150-100-gpr,122,main
+2012-08-01,start,,421-850,18,main
+2012-08-01,start,ags-beschluss-2012-05-22,430-150-bauverordnung-bwbg,17,main
+2012-10-01,start,ags-beschluss-2012-08-28,170-700,11,main
+2012-10-01,start,,425-140-fmsv,28,main
+2012-11-01,start,,170-340,20,main
+2012-11-01,start,,615-100,11,main
+2012-12-01,start,,170-415-azv,25,main
+2012-12-01,start,,433-100-fortbildungsgesetz,11,main
+2012-12-01,start,,494-300-kulturforderungsgesetz-kfg,28,main
+2012-12-01,start,,494-310-kulturforderungsverordnung-kfv,20,main
+2012-12-01,start,,546-500,7,main
+2012-12-01,start,,549-100-vvzohg,10,main
+2012-12-01,start,,618-110-rvzegzaag,52,main
+2012-12-01,start,ags-beschluss-2012-09-25,710-110-fhv,57,main
+2012-12-01,start,ags-beschluss-2012-09-25,710-200,36,main
+2012-12-01,start,,710-600-landeslotterie-reglement-llr,17,main
+2012-12-01,start,,730-220-fav,21,main
+2012-12-01,start,,815-100-kantonales-gewasserschutzgesetz-kgschg,47,main
+2012-12-01,start,,872-100-gov,45,main
+2012-12-01,start,,910-000-landwirtschaftsgesetz,46,main
+2012-12-01,start,,910-050,29,main
+2012-12-01,start,,914-000-vetg,86,main
+2012-12-01,start,,914-100-vetv,49,main
+2013-01-01,start,,130-100-kbug,31,main
+2013-01-01,start,,173-000-gog,79,main
+2013-01-01,start,,175-050-gg,112,main
+2013-01-01,start,,210-370-notgebv,22,main
+2013-01-01,start,,213-500-kzstv,20,main
+2013-01-01,start,ags-beschluss-2012-12-11,215-010-kesv,43,main
+2013-01-01,start,ags-beschluss-2012-12-11,215-020-kadov,9,main
+2013-01-01,start,,215-050,14,main
+2013-01-01,start,,219-050,24,main
+2013-01-01,start,,310-200-anwv,12,main
+2013-01-01,start,,320-210-vgz,21,main
+2013-01-01,start,,350-500-justizvollzugsgesetz-jvg,54,main
+2013-01-01,start,,350-510-justizvollzugsverordnung-jvv,122,main
+2013-01-01,start,,421-800,12,main
+2013-01-01,start,,425-100-mittelschulorganisationsverordnung-msov,34,main
+2013-01-01,start,,496-000-kantonales-natur-und-heimatschutzgesetz-knhg,54,main
+2013-01-01,start,,500-000-gesundheitsgesetz,73,main
+2013-01-01,start,ags-beschluss-2012-10-23,500-900,21,main
+2013-01-01,start,,504-300,18,main
+2013-01-01,start,,546-100-sozialhilfegesetz,18,main
+2013-01-01,start,,546-250-kantonales-unterstutzungsgesetz-ug,24,main
+2013-01-01,start,,548-100-kfzg,31,main
+2013-01-01,start,ags-beschluss-2013-01-15,548-310-kibev,15,main
+2013-01-01,start,,613-000-polg,53,main
+2013-01-01,start,,710-100-finanzhaushaltsgesetz-fhg,58,main
+2013-01-01,start,,720-200-gkstg,36,main
+2013-01-01,start,,730-200-finanzausgleichsgesetz-fag,31,main
+2013-01-01,start,,740-000-kjg,70,main
+2013-01-01,start,,803-100,38,main
+2013-01-01,start,,803-110-entv,26,main
+2013-01-01,start,,807-100-strg,69,main
+2013-01-01,start,,810-100-bwrg,88,main
+2013-01-01,start,ags-beschluss-2010-10-26,840-110,32,main
+2013-01-01,start,ags-beschluss-2012-06-11,920-100-kwag,68,main
+2013-01-01,start,ags-beschluss-2012-12-03,920-110-kwav,56,main
+2013-04-01,start,,170-375,9,main
+2013-04-01,start,ags-beschluss-2013-03-19,170-430-vp-reglement,13,main
+2013-04-01,start,ags-beschluss-2013-03-19,710-150,12,main
+2013-07-01,start,ags-beschluss-2013-06-10,500-920-vzpdgrg,15,main
+2013-08-01,start,ags-beschluss-2012-03-21,421-000-volksschulgesetz-vsg,106,main
+2013-08-01,start,ags-beschluss-2012-09-25,421-010-volksschulverordnung-vsv,77,main
+2013-08-01,start,ags-beschluss-2013-03-19,421-030-tagesstrukturverordnung,16,main
+2013-08-01,start,,425-000-mittelschulgesetz-msg,29,main
+2013-08-01,start,,425-050-gymv,34,main
+2013-08-01,start,,450-250-stipendienverordnung-stipvo,47,main
+2013-08-01,start,,500-800-suchthilfegesetz,28,main
+2013-08-01,start,,548-300-kibeg,15,main
+2013-08-28,start,,170-100-grossratsgesetz-grg,77,main
+2013-12-01,start,,740-100-kjpv,24,main
+2014-01-01,start,,170-420,23,main
+2014-01-01,start,,350-110-rvzegzstpo,21,main
+2014-01-01,start,,432-010-vozagsg,26,main
+2014-01-01,start,,500-010-vozgesg,47,main
+2014-01-01,start,,506-000-krankenpflegegesetz-kpg,98,main
+2014-01-01,start,,507-310-gebvlc,8,main
+2014-01-01,start,,542-100-kpvg,34,main
+2014-01-01,start,,542-120-vozkpvg,32,main
+2014-01-01,start,,613-100-polv,50,main
+2014-01-01,start,,710-400,15,main
+2014-01-01,start,,720-000,271,main
+2014-01-01,start,,760-100-kfg,47,main
+2014-01-01,start,,760-150-kfv,24,main
+2014-01-01,start,,760-160-obvf,10,main
+2014-01-01,start,,760-180-pgbv,8,main
+2014-01-01,start,,820-210-bev,58,main
+2014-01-01,start,,870-100-egzsvg,26,main
+2014-03-01,start,,110-100,111,main
+2014-04-01,start,,740-040-vwl,18,main
+2014-06-01,start,,130-110-kbuv,35,main
+2014-06-01,start,,740-020-rjv,41,main
+2014-08-01,start,ags-beschluss-2012-10-24,427-200-ghf,37,main
+2014-08-01,start,ags-beschluss-2014-07-08,427-210-vh,33,main
+2014-08-01,start,ags-beschluss-2014-07-08,427-220-vhf,17,main
+2014-08-01,start,,430-000-bwbg,58,main
+2014-08-01,start,,430-100-bwbgv,17,main
+2014-08-01,start,,432-000-agsg,29,main
+2014-08-01,start,,492-110-spv,25,main
+2014-08-01,start,,500-100,14,main
+2014-09-01,start,ags-beschluss-2014-05-13,920-600-vfp,22,main
+2014-10-01,start,,425-060-aufnahmev,31,main
+2015-01-01,start,,150-200-vpr,27,main
+2015-01-01,start,,170-450-pkg,18,main
+2015-01-01,start,,210-100-egzzgb,202,main
+2015-01-01,start,ags-beschluss-2014-10-20,217-100-kgbv,33,main
+2015-01-01,start,,217-200,21,main
+2015-01-01,start,ags-2014-037,421-040-avot,25,main
+2015-01-01,start,,430-300-defizitverordnung,20,main
+2015-01-01,start,,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,55,main
+2015-01-01,start,,870-110-rvzegzsvg,23,main
+2015-01-01,law,ags-2014-027,170-410-pv,3,main
+2015-01-01,law,ags-2014-030,740-350-jhv,2,main
+2015-01-01,law,ags-2014-031,730-200-finanzausgleichsgesetz-fag,4,main
+2015-01-01,law,ags-2014-032,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,16,main
+2015-01-01,law,ags-2014-033,835-120-vve,8,main
+2015-01-01,law,ags-2014-034,850-110-vaib,1,main
+2015-01-01,law,ags-2014-041,150-300,3,main
+2015-01-01,law,ags-2014-035,544-000-egzahvg-ivg,9,main
+2015-01-01,law,ags-2014-036,544-010-vvzegzahvg-ivg,1,main
+2015-01-01,law,ags-2014-037,421-010-volksschulverordnung-vsv,1,main
+2015-01-01,law,ags-2014-038,710-200,5,main
+2015-01-01,law,ags-2014-039,710-110-fhv,12,main
+2015-01-01,law,ags-2014-040,840-110,4,main
+2015-01-01,law,ags-2014-042,815-350,13,main
+2015-02-01,law,ags-2015-005,175-050-gg,7,main
+2015-03-01,start,ags-2015-011,430-400-kbmv,29,main
+2015-03-01,start,ags-2015-009,740-110-vjsp,13,main
+2015-03-01,law,ags-2015-010,740-020-rjv,1,main
+2015-03-01,law,ags-2015-012,171-200-einwohnerregistergesetz-erg,6,main
+2015-03-01,law,ags-2015-013,171-210-einwohnerregisterverordnung-erv,17,main
+2015-05-01,law,ags-2015-015,492-110-spv,1,main
+2015-05-21,law,ags-2015-018,613-100-polv,2,main
+2015-08-01,start,ags-2015-026,425-080-msbgv,26,main
+2015-08-01,start,ags-2015-024,470-000-sportforderungsgesetz,18,main
+2015-08-01,start,ags-2015-031,470-010-sportforderungsverordnung,34,main
+2015-08-01,law,ags-2015-017,421-800,9,main
+2015-08-01,law,ags-2015-023,425-000-mittelschulgesetz-msg,12,main
+2015-08-01,law,ags-2015-027,425-050-gymv,26,main
+2015-08-01,law,ags-2015-028,421-040-avot,14,main
+2015-08-01,law,ags-2015-029,425-060-aufnahmev,27,main
+2015-08-01,law,ags-2015-030,425-140-fmsv,25,main
+2015-12-28,law,ags-2015-052,820-150-kvuvp,1,main
+2015-12-31,law,ags-2015-005,801-100-krg,1,main
+2015-12-31,law,ags-2015-049,710-100-finanzhaushaltsgesetz-fhg,2,main
+2015-12-31,law,ags-2015-050,710-110-fhv,1,main
+2016-01-01,start,ags-2015-005,110-200,8,main
+2016-01-01,start,ags-2015-022,175-100-fiav,17,main
+2016-01-01,start,ags-2015-007,220-000-egzschkg,31,main
+2016-01-01,start,ags-2015-045,220-010-rvzegzschkg,8,main
+2016-01-01,start,ags-2015-053,490-000-gaa,18,main
+2016-01-01,start,ags-2015-054,490-010-vaa,20,main
+2016-01-01,start,ags-2015-036,630-000-bevolkerungsschutzgesetz-bsg,30,main
+2016-01-01,start,ags-2015-037,630-010-vozbsg,22,main
+2016-01-01,start,ags-2015-039,640-100-zivilschutzgesetz-zsg,22,main
+2016-01-01,start,ags-2015-040,640-110-vozzsg,17,main
+2016-01-01,law,ags-2014-020,720-000,3,main
+2016-01-01,law,ags-2014-029,549-100-vvzohg,1,main
+2016-01-01,law,ags-2014-031,175-050-gg 350-500-justizvollzugsgesetz-jvg 421-000-volksschulgesetz-vsg 425-000-mittelschulgesetz-msg 430-000-bwbg 500-000-gesundheitsgesetz 500-800-suchthilfegesetz 506-000-krankenpflegegesetz-kpg 546-100-sozialhilfegesetz 546-250-kantonales-unterstutzungsgesetz-ug 720-000 730-200-finanzausgleichsgesetz-fag 801-100-krg 807-100-strg 815-100-kantonales-gewasserschutzgesetz-kgschg 820-100-kantonales-umweltschutzgesetz-kusg 872-100-gov 914-000-vetg 915-100 950-250-gfw,118,main
+2016-01-01,law,ags-2015-001,110-100,15,main
+2016-01-01,law,ags-2015-005,150-100-gpr 170-050-shg 170-100-grossratsgesetz-grg 170-300-rvog 171-100-kdsg 175-050-gg 210-100-egzzgb 210-200-egzor 370-100-vrg 433-100-fortbildungsgesetz 450-200-stipendiengesetz-stipg 492-100-spg 500-000-gesundheitsgesetz 710-100-finanzhaushaltsgesetz-fhg 720-000 720-200-gkstg 801-100-krg,106,main
+2016-01-01,law,ags-2015-006,210-300-notg 720-000,15,main
+2016-01-01,law,ags-2015-019,150-200-vpr 350-110-rvzegzstpo 350-325-kantonale-sprengstoffverordnung-ksprstv 421-800 492-110-spv 500-010-vozgesg 502-100 615-100 801-110-krvo 850-110-vaib,39,main
+2016-01-01,law,ags-2015-020,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,6,main
+2016-01-01,law,ags-2015-021,421-010-volksschulverordnung-vsv 430-150-bauverordnung-bwbg 430-300-defizitverordnung 506-060-verordnung-zum-krankenpflegegesetz-vozkpg 730-220-fav 801-110-krvo 815-200-kantonale-gewasserschutzverordnung-kgschv 820-110-kusv,72,main
+2016-01-01,law,ags-2015-032,520-100-ruhetagsgesetz,3,main
+2016-01-01,law,ags-2015-033,150-100-gpr,2,main
+2016-01-01,law,ags-2015-034,920-110-kwav,4,main
+2016-01-01,law,ags-2015-035,180-500,8,main
+2016-01-01,law,ags-2015-042,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,2,main
+2016-01-01,law,ags-2015-043,213-500-kzstv,9,main
+2016-01-01,law,ags-2015-044,210-350-notv,8,main
+2016-01-01,law,ags-2015-046,807-100-strg,52,main
+2016-01-01,law,ags-2015-047,807-110-strv,30,main
+2016-01-01,law,ags-2015-049,710-100-finanzhaushaltsgesetz-fhg,5,main
+2016-01-01,law,ags-2015-050,710-110-fhv,6,main
+2016-01-01,law,ags-2015-051,173-000-gog,2,main
+2016-01-01,law,ags-2015-055,938-200,16,main
+2016-01-01,law,ags-2015-056,427-200-ghf 932-100-gwe-wirtschaftsentwicklungsgesetz,43,main
+2016-01-01,law,ags-2015-057,932-160-vwe-wirtschaftsentwicklungsverordnung,35,main
+2016-01-01,law,ags-2016-003,720-000,18,main
+2016-02-01,law,ags-2016-001,150-100-gpr 370-100-vrg,27,main
+2016-03-01,law,ags-2016-003,720-000,3,main
+2016-06-01,start,ags-2016-008,217-340-kvlk,21,main
+2016-06-01,law,ags-2016-008,217-310-kgeoiv,1,main
+2016-06-01,law,ags-2016-009,500-010-vozgesg 500-510-verordnung-zum-einfuhrungsgesetz-zum-heilmittelgesetz-vozegzhmg,2,main
+2016-07-01,law,ags-2016-002,710-110-fhv,1,main
+2016-07-01,law,ags-2016-006,740-110-vjsp,2,main
+2016-07-01,law,ags-2016-011,801-110-krvo,7,main
+2016-07-01,law,ags-2016-013,542-120-vozkpvg,2,main
+2016-07-01,law,ags-2016-015,215-010-kesv 215-020-kadov,17,main
+2016-08-01,law,ags-2016-016,425-130-hmsv,16,main
+2016-08-15,law,ags-2016-017,425-060-aufnahmev,1,main
+2016-09-01,law,ags-2016-018,421-040-avot,16,main
+2016-10-01,law,ags-2016-005,740-100-kjpv,5,main
+2016-10-01,law,ags-2016-021,350-110-rvzegzstpo 350-510-justizvollzugsverordnung-jvv,4,main
+2016-11-01,start,ags-2016-019,171-000-offentlichkeitsgesetz,18,main
+2016-11-01,law,ags-2016-019,170-100-grossratsgesetz-grg 170-300-rvog 170-400-personalgesetz-pg 490-000-gaa 710-300-gfa 720-000,6,main
+2016-11-01,law,ags-2016-023,110-100,1,main
+2016-12-01,law,ags-2016-026,740-010-kjv,2,main
+2017-01-01,start,ags-2016-004,110-300-kantonale-wappenschutzverordnung-kwschv,7,main
+2017-01-01,law,ags-2015-001,110-100,2,main
+2017-01-01,law,ags-2016-001,170-050-shg 170-100-grossratsgesetz-grg 170-300-rvog 170-400-personalgesetz-pg 171-100-kdsg 173-000-gog 210-100-egzzgb 210-200-egzor 210-300-notg 220-000-egzschkg 350-500-justizvollzugsgesetz-jvg 450-200-stipendiengesetz-stipg 492-100-spg 500-000-gesundheitsgesetz 613-000-polg 710-100-finanzhaushaltsgesetz-fhg 710-300-gfa 720-000 720-200-gkstg,108,main
+2017-01-01,law,ags-2016-003,720-000,5,main
+2017-01-01,law,ags-2016-010,150-200-vpr 180-500 219-300 350-110-rvzegzstpo 492-110-spv,11,main
+2017-01-01,law,ags-2016-012,500-100 506-060-verordnung-zum-krankenpflegegesetz-vozkpg,4,main
+2017-01-01,law,ags-2016-014,506-000-krankenpflegegesetz-kpg,7,main
+2017-01-01,law,ags-2016-022,870-110-rvzegzsvg,1,main
+2017-01-01,law,ags-2016-025,820-210-bev,13,main
+2017-01-01,law,ags-2016-028,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,6,main
+2017-01-01,law,ags-2016-031,170-400-personalgesetz-pg,13,main
+2017-01-01,law,ags-2016-030,546-250-kantonales-unterstutzungsgesetz-ug,1,main
+2017-01-01,law,ags-2016-033,320-210-vgz 350-210-vgs,6,main
+2017-01-01,law,ags-2016-032,170-410-pv,12,main
+2017-01-01,law,ags-2016-035,215-050,2,main
+2017-02-01,law,ags-2017-011,840-100-brandschutzgesetz,25,main
+2017-02-01,law,ags-2017-012,840-110,15,main
+2017-04-01,law,ags-2017-013,500-100,4,main
+2017-04-10,law,ags-2017-014,820-150-kvuvp,10,main
+2017-05-01,start,ags-2017-019,620-100-egzwpeg,4,main
+2017-05-01,law,ags-2017-002,740-000-kjg,29,main
+2017-06-01,law,ags-2017-003,740-060-jpgv,4,main
+2017-06-01,law,ags-2017-004,740-100-kjpv,2,main
+2017-06-01,law,ags-2017-005,740-110-vjsp,2,main
+2017-06-01,law,ags-2017-006,740-330-kstv,3,main
+2017-06-01,law,ags-2017-007,740-350-jhv,3,main
+2017-06-01,law,ags-2017-008,740-400-dvo,6,main
+2017-06-01,law,ags-2017-009,740-500-rejk,2,main
+2017-06-01,law,ags-2017-016,740-050-vww,4,main
+2017-06-09,law,ags-2017-021,450-250-stipendienverordnung-stipvo,2,main
+2017-06-15,law,ags-2017-015,740-020-rjv,11,main
+2017-06-15,law,ags-2017-017,740-300-khv,17,main
+2017-07-01,start,ags-2017-026,810-130-kstav,5,main
+2017-07-01,law,ags-2017-018,920-110-kwav,3,main
+2017-08-01,law,ags-2017-027,425-060-aufnahmev,15,main
+2017-08-01,law,ags-2017-028,425-140-fmsv,2,main
+2017-08-01,law,ags-2017-029,425-080-msbgv,13,main
+2017-09-01,law,ags-2017-031,740-020-rjv,7,main
+2017-11-01,law,ags-2017-010,760-180-pgbv,2,main
+2018-01-01,law,ags-2015-001,110-100,4,main
+2018-01-01,law,ags-2016-003,720-000,3,main
+2018-01-01,law,ags-2017-023,210-100-egzzgb 500-000-gesundheitsgesetz 500-500-einfuhrungsgesetz-zum-heilmittelgesetz-egzhmg 613-000-polg,99,main
+2018-01-01,law,ags-2017-024,500-010-vozgesg 500-100 500-510-verordnung-zum-einfuhrungsgesetz-zum-heilmittelgesetz-vozegzhmg 502-100,60,main
+2018-01-01,law,ags-2017-034,171-200-einwohnerregistergesetz-erg 803-200 850-100-ibg,29,main
+2018-01-01,law,ags-2017-033,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,28,main
+2018-01-01,law,ags-2017-035,210-370-notgebv 217-200 835-120-vve 850-110-vaib,48,main
+2018-01-01,law,ags-2017-037,215-020-kadov,5,main
+2018-01-01,law,ags-2017-038,210-370-notgebv,9,main
+2018-01-01,law,ags-2017-039,530-150,2,main
+2018-01-01,law,ags-2017-040,710-600-landeslotterie-reglement-llr,7,main
+2018-01-01,law,ags-2017-041,494-300-kulturforderungsgesetz-kfg,28,main
+2018-01-01,law,ags-2017-045,130-100-kbug 175-050-gg,33,main
+2018-01-01,law,ags-2017-042,494-310-kulturforderungsverordnung-kfv,22,main
+2018-01-01,law,ags-2017-043,427-210-vh,3,main
+2018-01-01,law,ags-2017-044,213-500-kzstv,3,main
+2018-01-01,law,ags-2017-046,130-110-kbuv,47,main
+2018-01-01,law,ags-2017-048,870-110-rvzegzsvg,2,main
+2018-01-01,law,ags-2017-049,350-510-justizvollzugsverordnung-jvv,126,main
+2018-01-01,law,ags-2017-050,500-900 506-000-krankenpflegegesetz-kpg,110,main
+2018-01-01,law,ags-2017-051,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,69,main
+2018-01-01,law,ags-2018-005,720-200-gkstg,1,main
+2018-03-01,law,ags-2018-004,450-250-stipendienverordnung-stipvo 740-040-vwl 910-175 917-200 919-100 919-300,12,main
+2018-07-01,law,ags-2018-002,130-100-kbug 175-050-gg 613-000-polg 720-200-gkstg,151,main
+2018-07-01,law,ags-2018-003,170-340 175-100-fiav 213-500-kzstv,10,main
+2018-07-01,law,ags-2018-010,720-200-gkstg,4,main
+2018-08-01,start,ags-2018-011,740-025-jagdbetriebsvorschriften-jbv,100,main
+2018-08-01,law,ags-2018-007,421-010-volksschulverordnung-vsv,4,main
+2018-08-01,law,ags-2018-008,425-060-aufnahmev,1,main
+2018-08-01,law,ags-2018-009,542-120-vozkpvg,4,main
+2018-09-01,start,ags-2018-014,740-200-vwsg,15,main
+2019-01-01,start,ags-2018-026,171-120-bilduberwachungsverordnung-vbu,14,main
+2019-01-01,law,ags-2018-015,219-100,2,main
+2019-01-01,law,ags-2018-017,210-350-notv,2,main
+2019-01-01,law,ags-2018-020,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,4,main
+2019-01-01,law,ags-2018-023,171-100-kdsg 370-100-vrg 613-000-polg 870-100-egzsvg,31,main
+2019-01-01,law,ags-2018-021,215-050,2,main
+2019-01-01,law,ags-2018-022,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,1,main
+2019-01-01,law,ags-2018-024,350-110-rvzegzstpo 613-100-polv,19,main
+2019-01-01,law,ags-2018-025,613-140-polizeikostenverordnung-polkostv,100,main
+2019-01-01,law,ags-2019-024,500-920-vzpdgrg,10,main
+2019-04-01,law,ags-2019-001,210-100-egzzgb 801-100-krg,59,main
+2019-04-01,law,ags-2019-002,801-110-krvo,26,main
+2019-04-01,law,ags-2019-016,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,1,main
+2019-05-15,law,ags-2019-003,613-100-polv,1,main
+2019-06-01,law,ags-2019-004,740-100-kjpv,5,main
+2019-07-01,law,ags-2019-006,740-000-kjg,1,main
+2019-07-01,law,ags-2019-007,740-060-jpgv,1,main
+2019-08-01,start,ags-2019-014,425-170-vwm,20,main
+2019-08-01,law,ags-2019-009,425-050-gymv 425-060-aufnahmev 425-130-hmsv 425-140-fmsv,87,main
+2019-08-01,law,ags-2019-010,740-025-jagdbetriebsvorschriften-jbv,41,main
+2019-08-01,law,ags-2019-012,425-000-mittelschulgesetz-msg,49,main
+2019-08-01,law,ags-2019-013,425-080-msbgv,34,main
+2019-09-01,law,ags-2019-017,421-030-tagesstrukturverordnung,2,main
+2019-10-01,law,ags-2019-019,507-310-gebvlc,2,main
+2019-10-01,law,ags-2019-021,170-340,20,main
+2019-10-01,law,ags-2019-022,613-100-polv,10,main
+2019-12-31,law,ags-2019-035,618-110-rvzegzaag 710-110-fhv 710-150,23,main
+2019-12-31,law,ags-2020-003,710-110-fhv,2,main
+2020-01-01,start,ags-2019-031,760-155-fischereibetriebsvorschriften-fbv,45,main
+2020-01-01,start,ags-2019-027,910-150-kgschvl,11,main
+2020-01-01,law,ags-2019-025,350-110-rvzegzstpo,3,main
+2020-01-01,law,ags-2019-026,170-500-infv,16,main
+2020-01-01,law,ags-2019-029,500-000-gesundheitsgesetz 618-100-egzaag 820-100-kantonales-umweltschutzgesetz-kusg 920-100-kwag,4,main
+2020-01-01,law,ags-2019-030,740-030-obvj 760-160-obvf 870-110-rvzegzsvg,5,main
+2020-01-01,law,ags-2019-033,720-000,39,main
+2020-01-01,law,ags-2019-034,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,9,main
+2020-01-01,law,ags-2020-041,494-310-kulturforderungsverordnung-kfv,8,main
+2020-01-01,law,ags-2021-007,720-000,1,main
+2020-02-01,law,ags-2019-032,932-160-vwe-wirtschaftsentwicklungsverordnung,1,main
+2020-02-01,law,ags-2020-002,500-010-vozgesg,8,main
+2020-03-01,law,ags-2020-004,740-030-obvj,3,main
+2020-04-01,law,ags-2020-007,820-100-kantonales-umweltschutzgesetz-kusg,4,main
+2020-04-21,law,ags-2020-018,820-110-kusv,5,main
+2020-05-01,law,ags-2020-019,740-110-vjsp,3,main
+2020-06-01,law,ags-2020-026,850-110-vaib,4,main
+2020-07-01,law,ags-2019-011,450-250-stipendienverordnung-stipvo,3,main
+2020-08-01,law,ags-2020-037,740-025-jagdbetriebsvorschriften-jbv,49,main
+2020-09-01,law,ags-2020-038,710-110-fhv 710-150,10,main
+2020-09-01,law,ags-2020-039,432-010-vozagsg,1,main
+2020-10-01,law,ags-2020-040,170-410-pv 170-415-azv,8,main
+2020-12-01,law,ags-2021-007,720-000,1,main
+2021-01-01,start,ags-2020-073,920-150-irmv,21,main
+2021-01-01,start,ags-2020-062,935-500-kgs,17,main
+2021-01-01,start,ags-2020-063,935-510-geldspielverordnung-vkgs,10,main
+2021-01-01,start,ags-2020-066,960-100-gdt,9,main
+2021-01-01,start,ags-2020-067,960-110-vdt,7,main
+2021-01-01,law,ags-2019-015,720-000 720-200-gkstg,21,main
+2021-01-01,law,ags-2020-006,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,4,main
+2021-01-01,law,ags-2020-043,720-000 820-200-beg,10,main
+2021-01-01,law,ags-2020-044,820-210-bev,67,main
+2021-01-01,law,ags-2020-051,870-110-rvzegzsvg,1,main
+2021-01-01,law,ags-2020-052,850-110-vaib,2,main
+2021-01-01,law,ags-2020-055,170-410-pv,1,main
+2021-01-01,law,ags-2020-056,760-155-fischereibetriebsvorschriften-fbv,5,main
+2021-01-01,law,ags-2020-064,932-100-gwe-wirtschaftsentwicklungsgesetz,3,main
+2021-01-01,law,ags-2020-066,932-100-gwe-wirtschaftsentwicklungsgesetz,1,main
+2021-01-01,law,ags-2020-060,500-900 506-000-krankenpflegegesetz-kpg,17,main
+2021-01-01,law,ags-2020-061,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,7,main
+2021-01-01,law,ags-2020-063,350-110-rvzegzstpo,1,main
+2021-01-01,law,ags-2020-065,932-160-vwe-wirtschaftsentwicklungsverordnung,3,main
+2021-01-01,law,ags-2020-068,215-050,2,main
+2021-01-01,law,ags-2020-071,920-100-kwag,7,main
+2021-01-01,law,ags-2020-072,920-110-kwav,23,main
+2021-01-01,law,ags-2021-001,440-110-behindertenintegrationsverordnung-biv,8,main
+2021-01-01,law,ags-2021-007,720-000,34,main
+2021-01-01,law,ags-2021-015,640-100-zivilschutzgesetz-zsg,2,main
+2021-02-01,law,ags-2021-003,500-010-vozgesg,1,main
+2021-03-01,law,ags-2021-005,421-000-volksschulgesetz-vsg 730-200-finanzausgleichsgesetz-fag,14,main
+2021-03-01,law,ags-2021-006,421-010-volksschulverordnung-vsv 730-220-fav,20,main
+2021-04-01,law,ags-2021-013,170-100-grossratsgesetz-grg,2,main
+2021-06-01,law,ags-2021-016,500-010-vozgesg,4,main
+2021-07-01,law,ags-2021-017,545-100-egzavg-avig,7,main
+2021-07-01,law,ags-2021-018,545-270-vozegzavg-avig,11,main
+2021-07-01,law,ags-2021-020,173-000-gog,9,main
+2021-07-01,law,ags-2021-021,210-100-egzzgb,1,main
+2021-08-01,law,ags-2021-024,421-010-volksschulverordnung-vsv,1,main
+2021-08-01,law,ags-2021-026,740-025-jagdbetriebsvorschriften-jbv,43,main
+2021-09-01,law,ags-2021-029,425-140-fmsv,4,main
+2021-10-01,start,ags-2021-032,150-400-grossratswahlgesetz-grwg,35,main
+2021-10-01,start,ags-2021-033,150-410-grossratswahlverordnung-grwv,22,main
+2021-10-01,law,ags-2021-032,150-100-gpr 170-100-grossratsgesetz-grg,16,main
+2021-10-01,law,ags-2021-031,110-100,1,main
+2021-12-01,law,ags-2021-040,213-500-kzstv,1,main
+2021-12-31,law,ags-2021-045,170-450-pkg,1,main
+2022-01-01,start,ags-2021-051,350-520-vev,79,main
+2022-01-01,start,ags-2022-020,932-200-kantonales-covid-19-hartefallgesetz-2022-khfg-22,12,main
+2022-01-01,start,ags-2022-021,932-210-kantonale-covid-19-hartefallverordnung-2022-khfv-22,8,main
+2022-01-01,law,ags-2021-021,210-100-egzzgb 730-200-finanzausgleichsgesetz-fag,44,main
+2022-01-01,law,ags-2021-022,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,5,main
+2022-01-01,law,ags-2021-023,835-120-vve,1,main
+2022-01-01,law,ags-2021-034,215-010-kesv 215-020-kadov,41,main
+2022-01-01,law,ags-2021-040,213-500-kzstv,11,main
+2022-01-01,law,ags-2021-042,210-100-egzzgb,1,main
+2022-01-01,law,ags-2021-045,170-400-personalgesetz-pg 170-450-pkg,8,main
+2022-01-01,law,ags-2021-046,170-410-pv 170-430-vp-reglement,17,main
+2022-01-01,law,ags-2021-043,217-100-kgbv,1,main
+2022-01-01,law,ags-2021-044,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,6,main
+2022-01-01,law,ags-2021-052,720-000,6,main
+2022-01-01,law,ags-2021-049,210-100-egzzgb 350-500-justizvollzugsgesetz-jvg 613-000-polg 618-100-egzaag,75,main
+2022-01-01,law,ags-2021-047,870-110-rvzegzsvg,3,main
+2022-01-01,law,ags-2021-048,500-100 542-120-vozkpvg,3,main
+2022-01-01,law,ags-2021-050,350-510-justizvollzugsverordnung-jvv,126,main
+2022-01-01,law,ags-2022-005,430-180-gebvafb,1,main
+2022-01-01,law,ags-2022-013,950-270-vfw,1,main
+2022-06-01,start,ags-2022-023,613-190-rvzbwis,6,main
+2022-06-01,law,ags-2022-015,150-100-gpr,1,main
+2022-07-01,law,ags-2022-022,850-110-vaib,1,main
+2022-07-01,law,ags-2022-024,470-010-sportforderungsverordnung,4,main
+2022-08-01,law,ags-2022-011,425-100-mittelschulorganisationsverordnung-msov,34,main
+2022-08-01,law,ags-2022-025,421-010-volksschulverordnung-vsv,2,main
+2022-08-01,law,ags-2022-026,740-025-jagdbetriebsvorschriften-jbv,30,main
+2022-09-01,law,ags-2022-031,213-500-kzstv,3,main
+2022-10-01,start,,803-610-rvzegzivob,17,main
+2022-10-01,law,ags-2022-029,170-450-pkg,1,main
+2022-12-01,law,ags-2022-038,800-110-imv,21,main
+2023-01-01,law,ags-2022-012,870-110-rvzegzsvg,1,main
+2023-01-01,law,ags-2022-027,170-800-pmv,10,main
+2023-01-01,law,ags-2022-028,170-410-pv,8,main
+2023-01-01,law,ags-2022-035,870-110-rvzegzsvg,1,main
+2023-01-01,law,ags-2022-036,870-110-rvzegzsvg 870-130-strassenverkehrsgebuhrenverordnung-strgebv,29,main
+2023-01-01,law,ags-2022-037,877-120-binnenschifffahrtsgebuhrenverordnung-bsgebv,15,main
+2023-01-01,law,ags-2022-042,170-400-personalgesetz-pg,23,main
+2023-01-01,law,ags-2022-041,760-155-fischereibetriebsvorschriften-fbv,5,main
+2023-01-01,law,ags-2022-043,170-410-pv 170-415-azv,36,main
+2023-01-01,law,ags-2022-046,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,7,main
+2023-01-01,law,ags-2022-047,500-100,6,main
+2023-01-01,law,ags-2022-048,720-200-gkstg 872-100-gov,46,main
+2023-01-01,law,ags-2022-049,872-150-vov,43,main
+2023-01-01,law,ags-2022-050,215-050,2,main
+2023-01-01,law,ags-2022-051,710-400,2,main
+2023-02-01,law,ags-2023-001,500-010-vozgesg,3,main
+2023-04-01,start,ags-2023-011,310-210-anwaltsprufungsverordnung-anwpv,15,main
+2023-04-01,law,ags-2023-008,210-300-notg 310-100-anwg,11,main
+2023-04-01,law,ags-2023-007,110-100,1,main
+2023-04-01,law,ags-2023-010,210-350-notv 310-200-anwv,18,main
+2023-06-01,start,ags-2023-013,177-110-vdvg,24,main
+2023-06-01,law,ags-2023-015,807-110-strv,14,main
+2023-07-01,law,ags-2023-006,835-120-vve,4,main
+2023-07-01,law,ags-2023-016,450-250-stipendienverordnung-stipvo,18,main
+2023-07-01,law,ags-2023-021,801-110-krvo,2,main
+2023-08-01,law,ags-2023-012,919-300,6,main
+2023-08-01,law,ags-2023-017,425-100-mittelschulorganisationsverordnung-msov,4,main
+2023-08-01,law,ags-2023-019,425-050-gymv,6,main
+2023-08-01,law,ags-2023-020,425-130-hmsv,14,main
+2023-08-01,law,ags-2023-022,740-025-jagdbetriebsvorschriften-jbv,29,main
+2023-08-01,law,ags-2023-023,425-130-hmsv,1,main
+2023-09-01,law,ags-2023-024,740-200-vwsg,37,main
+2023-09-01,law,ags-2023-028,801-110-krvo,5,main
+2023-10-01,law,ags-2023-008,170-100-grossratsgesetz-grg,1,main
+2023-10-01,law,ags-2023-007,110-100,1,main
+2023-11-01,law,ags-2023-032,496-000-kantonales-natur-und-heimatschutzgesetz-knhg,2,main
+2023-11-01,law,ags-2023-034,500-100,1,main
+2023-12-01,law,ags-2023-031,850-110-vaib,3,main
+2024-01-01,law,ags-2023-025,150-100-gpr,21,main
+2024-01-01,law,ags-2023-026,150-100-gpr,2,main
+2024-01-01,law,ags-2023-029,710-200,23,main
+2024-01-01,law,ags-2023-030,150-200-vpr,21,main
+2024-01-01,law,ags-2023-035,370-100-vrg 542-100-kpvg,6,main
+2024-01-01,law,ags-2023-037,210-370-notgebv,3,main
+2024-01-01,law,ags-2023-038,310-200-anwv,1,main
+2024-01-01,law,ags-2023-039,500-010-vozgesg,1,main
+2024-01-01,law,ags-2023-040,350-110-rvzegzstpo 350-150,8,main
+2024-01-01,law,ags-2024-001,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,6,main
+2024-02-15,start,ags-2024-004,173-010-ogv,20,main
+2024-04-01,start,ags-2024-005,177-100-dvg,28,main
+2024-04-01,start,ags-2024-008,370-130-verv,16,main
+2024-04-01,law,ags-2024-006,370-300-egzssv,1,main
+2024-04-01,law,ags-2024-005,370-100-vrg 490-000-gaa,12,main
+2024-04-01,law,ags-2024-007,177-110-vdvg,25,main
+2024-04-01,law,ags-2024-008,490-010-vaa,1,main
+2024-06-01,law,ags-2024-010,173-010-ogv,6,main
+2024-07-01,law,ags-2023-007,110-100,1,main
+2024-07-01,law,ags-2024-019,432-000-agsg 506-000-krankenpflegegesetz-kpg 542-100-kpvg,12,main
+2024-07-15,law,ags-2024-022,173-010-ogv,1,main
+2024-08-01,start,ags-2024-009,425-150-imsv,24,main
+2024-08-01,law,ags-2024-009,425-060-aufnahmev 425-080-msbgv 425-100-mittelschulorganisationsverordnung-msov 430-400-kbmv,32,main
+2024-08-01,law,ags-2024-020,421-030-tagesstrukturverordnung,1,main
+2024-08-01,law,ags-2024-021,740-025-jagdbetriebsvorschriften-jbv,21,main
+2024-08-01,law,ags-2024-025,425-080-msbgv,3,main
+2024-09-01,law,ags-2024-023,470-010-sportforderungsverordnung 618-110-rvzegzaag 710-110-fhv 710-600-landeslotterie-reglement-llr,53,main
+2024-12-01,law,ags-2023-008,803-100,1,main
+2024-12-01,law,ags-2024-047,170-500-infv,16,main
+2025-01-01,start,ags-2024-049,173-180-rostr,10,main
+2025-01-01,start,ags-2024-033,173-190-schlichtungsbehordenverordnung-sbv,14,main
+2025-01-01,start,ags-2024-034,173-200-jav,28,main
+2025-01-01,start,ags-2024-035,173-210-frjv,30,main
+2025-01-01,start,ags-2024-036,173-400-eswv,10,main
+2025-01-01,start,ags-2024-037,173-510-besoldungsverordnung-bsv,15,main
+2025-01-01,start,ags-2024-038,173-520-vio,19,main
+2025-01-01,start,ags-2025-004,370-140,2,main
+2025-01-01,law,ags-2023-008,130-100-kbug 150-100-gpr 170-050-shg 170-100-grossratsgesetz-grg 170-400-personalgesetz-pg 170-450-pkg 171-000-offentlichkeitsgesetz 171-100-kdsg 173-000-gog 210-100-egzzgb 210-200-egzor 210-300-notg 217-600 220-000-egzschkg 310-100-anwg 350-500-justizvollzugsgesetz-jvg 370-100-vrg 370-300-egzssv 421-000-volksschulgesetz-vsg 427-200-ghf 492-100-spg 496-000-kantonales-natur-und-heimatschutzgesetz-knhg 500-500-einfuhrungsgesetz-zum-heilmittelgesetz-egzhmg 500-900 530-100 538-100 542-100-kpvg 544-300-kantonales-gesetz-uber-erganzungsleistungen 546-250-kantonales-unterstutzungsgesetz-ug 548-100-kfzg 548-200 613-000-polg 618-100-egzaag 620-100-egzwpeg 710-100-finanzhaushaltsgesetz-fhg 710-300-gfa 720-000 720-200-gkstg 801-100-krg 803-100 803-200 810-100-bwrg 815-100-kantonales-gewasserschutzgesetz-kgschg 820-100-kantonales-umweltschutzgesetz-kusg 820-200-beg 850-100-ibg 910-000-landwirtschaftsgesetz 915-100,328,main
+2025-01-01,law,ags-2023-007,110-100,13,main
+2025-01-01,law,ags-2023-009,110-300-kantonale-wappenschutzverordnung-kwschv 215-010-kesv 217-100-kgbv 217-200 220-010-rvzegzschkg 350-520-vev 425-060-aufnahmev 530-300 549-100-vvzohg 710-110-fhv 810-115-vwpst 810-200 820-110-kusv,93,main
+2025-01-01,law,ags-2023-027,150-100-gpr,5,main
+2025-01-01,law,ags-2024-026,430-180-gebvafb,3,main
+2025-01-01,law,ags-2024-027,430-100-bwbgv 430-180-gebvafb,11,main
+2025-01-01,law,ags-2024-028,870-110-rvzegzsvg,1,main
+2025-01-01,law,ags-2024-029,219-300,1,main
+2025-01-01,law,ags-2024-031,173-010-ogv,50,main
+2025-01-01,law,ags-2024-041,427-200-ghf,9,main
+2025-01-01,law,ags-2024-040,430-300-defizitverordnung,5,main
+2025-01-01,law,ags-2024-043,427-210-vh 430-300-defizitverordnung,18,main
+2025-01-01,law,ags-2024-044,427-220-vhf,12,main
+2025-01-01,law,ags-2024-048,820-210-bev,5,main
+2025-01-01,law,ags-2024-053,370-100-vrg,2,main
+2025-01-01,law,ags-2024-050,170-340,1,main
+2025-01-01,law,ags-2024-051,492-110-spv,7,main
+2025-01-01,law,ags-2024-052,215-050,2,main
+2025-01-01,law,ags-2025-001,320-210-vgz,22,main
+2025-01-01,law,ags-2025-002,350-210-vgs,16,main
+2025-01-01,law,ags-2025-003,370-110-vgo,5,main
+2025-01-01,law,ags-2025-005,370-310-vesv,6,main
+2025-01-01,law,ags-2025-017,427-210-vh,10,main
+2025-01-01,law,ags-2025-018,546-250-kantonales-unterstutzungsgesetz-ug,8,main
+2025-01-01,law,ags-2025-020,546-250-kantonales-unterstutzungsgesetz-ug,10,main
+2025-01-01,law,ags-2025-023,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,9,main
+2025-01-01,law,ags-2025-024,500-010-vozgesg,17,main
+2025-01-01,law,ags-2025-026,432-010-vozagsg,12,main
+2025-01-01,law,ags-2025-038,720-000,10,main
+2025-04-01,start,ags-2025-022,507-500-vvztabpg,4,main
+2025-04-01,law,ags-2025-027,370-130-verv,1,main
+2025-05-01,law,ags-2025-028,170-100-grossratsgesetz-grg,2,main
+2025-05-01,law,ags-2025-029,740-020-rjv,2,main
+2025-05-01,law,ags-2025-030,740-330-kstv,12,main
+2025-05-01,law,ags-2025-031,740-350-jhv,15,main
+2025-07-01,law,ags-2025-052,542-120-vozkpvg,1,main
+2025-08-01,law,ags-2025-032,421-000-volksschulgesetz-vsg,20,main
+2025-08-01,law,ags-2025-033,421-010-volksschulverordnung-vsv,18,main
+2025-08-01,law,ags-2025-035,548-300-kibeg,25,main
+2025-08-01,law,ags-2025-036,548-310-kibev,32,main
+2025-08-01,law,ags-2025-037,425-060-aufnahmev,21,main
+2025-08-01,law,ags-2025-039,740-000-kjg,14,main
+2025-08-01,law,ags-2025-040,740-060-jpgv,1,main
+2025-08-01,law,ags-2025-042,740-025-jagdbetriebsvorschriften-jbv,37,main
+2025-10-01,law,ags-2025-048,801-110-krvo,3,main
+2025-12-31,start,ags-2025-056,820-400-bundner-klima-und-innovationsgesetz-bkig,30,main
+2025-12-31,start,ags-2025-057,820-410-bundner-klima-und-innovationsverordnung-bkiv,34,main
+2025-12-31,law,ags-2025-056,433-100-fortbildungsgesetz 807-100-strg 820-200-beg 910-000-landwirtschaftsgesetz 915-100,52,main
+2025-12-31,law,ags-2025-058,820-210-bev,59,main
+2026-01-01,start,ags-2025-053,170-440-ktv-verordnung-ktv-vo,19,main
+2026-01-01,start,ags-2025-050,171-110-kantonale-datenschutzverordnung-vkdsg,26,main
+2026-01-01,law,ags-2025-034,720-000,1,main
+2026-01-01,law,ags-2025-044,150-100-gpr 150-400-grossratswahlgesetz-grwg,12,main
+2026-01-01,law,ags-2025-045,150-100-gpr,5,main
+2026-01-01,law,ags-2025-046,150-200-vpr,1,main
+2026-01-01,law,ags-2025-049,130-100-kbug 171-100-kdsg 171-200-einwohnerregistergesetz-erg 710-300-gfa,49,main
+2026-01-01,law,ags-2025-050,171-120-bilduberwachungsverordnung-vbu 177-110-vdvg,8,main
+2026-01-01,law,ags-2025-053,170-410-pv,5,main
+2026-01-01,law,ags-2025-055,210-100-egzzgb,2,main
+2026-01-01,law,ags-2025-059,830-110-verordnung-zum-gebaudeversicherungsgesetz-vozgebvg,8,main
+2026-01-01,law,ags-2025-060,840-110,23,main
+2026-01-01,law,ags-2025-062,873-450,13,main
+2026-01-01,law,ags-2025-063,760-155-fischereibetriebsvorschriften-fbv,42,main
+2026-01-01,law,ags-2025-067,630-000-bevolkerungsschutzgesetz-bsg,3,main
+2026-01-01,law,ags-2025-069,640-100-zivilschutzgesetz-zsg,5,main
+2026-01-01,law,ags-2025-074,210-100-egzzgb 950-250-gfw,20,main
+2026-01-01,law,ags-2025-071,210-100-egzzgb 350-500-justizvollzugsgesetz-jvg 500-000-gesundheitsgesetz 613-000-polg,50,main
+2026-01-01,law,ags-2025-073,720-000,30,main
+2026-01-01,law,ags-2025-077,170-100-grossratsgesetz-grg,1,main
+2026-01-01,law,ags-2025-065,350-325-kantonale-sprengstoffverordnung-ksprstv,12,main
+2026-01-01,law,ags-2025-066,542-120-vozkpvg,10,main
+2026-01-01,law,ags-2025-068,630-010-vozbsg,13,main
+2026-01-01,law,ags-2025-070,640-110-vozzsg,10,main
+2026-01-01,law,ags-2025-072,350-110-rvzegzstpo 613-100-polv,12,main
+2026-01-01,law,ags-2025-076,950-270-vfw,24,main
+2026-01-01,law,ags-2026-010,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,15,main
+2026-05-01,law,ags-2026-006,370-130-verv,8,main
+2026-05-01,law,ags-2026-008,173-000-gog 613-000-polg,53,main
+2026-05-01,law,ags-2026-009,613-100-polv,21,main
+2026-05-01,law,ags-2026-011,506-060-verordnung-zum-krankenpflegegesetz-vozkpg,12,main
+2026-07-01,law,ags-2026-012,432-010-vozagsg,15,main
+2026-07-01,law,ags-2026-017,710-100-finanzhaushaltsgesetz-fhg 932-100-gwe-wirtschaftsentwicklungsgesetz,22,main
+2026-07-01,law,ags-2026-013,430-400-kbmv,33,main
+2026-07-01,law,ags-2026-014,425-040,2,main
+2026-07-01,law,ags-2026-015,425-080-msbgv 425-130-hmsv,23,main
+2026-07-01,law,ags-2026-016,425-150-imsv,21,main
+2026-07-01,law,ags-2026-018,932-160-vwe-wirtschaftsentwicklungsverordnung,11,main
+2026-07-01,law,ags-2026-019,740-020-rjv,25,main
+2026-08-01,law,ags-2026-007,421-850,10,main
+2026-08-01,law,ags-2026-020,740-025-jagdbetriebsvorschriften-jbv,84,main
+2027-01-01,law,ags-2025-041,492-110-spv,1,zukunft
+2027-01-01,law,ags-2026-002,170-380-ggvr,5,zukunft
+2027-01-01,law,ags-2026-004,310-250-honorarverordnung-hv,2,zukunft
+2027-01-01,law,ags-2026-005,210-350-notv,12,zukunft
+2027-01-01,law,ags-2026-024,730-200-finanzausgleichsgesetz-fag,4,zukunft
+2027-01-01,law,ags-2026-025,730-220-fav,10,zukunft
