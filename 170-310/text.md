@@ -1,0 +1,376 @@
+Regierungs- und Verwaltungsorganisationsverordnung
+(RVOV)
+Gestützt auf Art. 49 der Kantonsverfassung und Art. 24 des Regierungs- und Verwaltungsorganisationsgesetzes
+von der Regierung erlassen am 24. Oktober 2006
+1. Regierung
+Art. 1 Sitzungsort und Sitzungstag
+1 Die Sitzungen finden in der Regel am Dienstag im Regierungsgebäude in Chur statt.
+Art. 1a * Telefon- und Videokonferenzen
+1 Erfordern es die Umstände, können Regierungssitzungen via Telefon- oder Videokonferenz durchgeführt werden.
+2 In begründeten Ausnahmefällen können verhinderte Regierungsmitglieder und die Kanzleidirektorin oder der Kanzleidirektor an Regierungssitzungen via Telefon- oder Videoschaltung teilnehmen.
+Art. 2 Eintritt während der Amtsdauer
+1 Die Regierung setzt den Amtsantritt für ein in einer Ersatzwahl neu gewähltes Mitglied fest.
+Art. 3 Zustellung der Anträge
+1 Beschlussanträge sind von den Departementen bis spätestens zwei Arbeitstage vor der Sitzung schriftlich bei der Standeskanzlei einzureichen. Sie sind in jener Form abzufassen, in welcher sie nach der Beschlussfassung durch die Regierung ausgefertigt werden.
+2 Anträge und Berichte grösseren Umfanges oder grösserer Tragweite, insbesondere Entwürfe von Botschaften an den Grossen Rat und von Regierungsverordnungen, sind spätestens eine Woche vor der Sitzung je in einer Ausfertigung den Regierungsmitgliedern und der Kanzleidirektorin oder dem Kanzleidirektor zuzustellen.
+Art. 4 Traktandenliste
+1 Aufgrund der Meldungen der Departemente erstellt die Standeskanzlei die Traktandenliste für die Regierungssitzung. Sie stellt die Liste umgehend den Regierungsmitgliedern sowie der Kanzleidirektorin oder dem Kanzleidirektor zur Verfügung.
+Art. 5 Aktenauflage
+1 Die Sitzungsakten werden im Regierungsgebäude zur Einsichtnahme aufgelegt. Anträge und Schlüsseldokumente sind zusätzlich elektronisch zur Verfügung zu stellen.
+Art. 6 Verschiebung eines Geschäftes, Rückkommen
+1 Die Beratung eines Geschäftes wird verschoben, wenn:
+a) | das Regierungsmitglied, welches für das Geschäft zuständig ist, dies verlangt;
+b) | bei weiterem Klärungsbedarf oder aus anderen wichtigen Gründen, falls die Mehrheit der Regierungsmitglieder dies beschliesst.
+2 Die Regierung kann auf einen Beschluss zurückkommen, wenn dieser noch nicht zugestellt ist und die Mehrheit der Regierungsmitglieder dem Rückkommensantrag zustimmt.
+Art. 7 Protokoll
+1 Das Protokoll enthält die Wiedergabe der Regierungsbeschlüsse.
+2 Im Protokoll dürfen keine Hinweise auf das Stimmverhältnis festgehalten werden.
+3 Jedes Regierungsmitglied hat das Recht, seine von der Mehrheit abweichende Meinung zu Protokoll zu geben.
+Art. 8 Ausfertigung und Unterzeichnung
+1 Die Beschlüsse werden von der Standeskanzlei ausgefertigt.
+2 Die für das Protokoll bestimmte Beschlussausfertigung wird gestempelt und von der Regierungspräsidentin oder vom Regierungspräsidenten und von der Kanzleidirektorin oder dem Kanzleidirektor handschriftlich oder mit einer qualifizierten elektronischen Signatur gemäss dem Bundesgesetz über die elektronische Signatur (ZertES) unterzeichnet. *
+3 Für die elektronische oder mechanische Wiedergabe der Beschlussausfertigung kann die Unterzeichnung mittels Faksimile-Stempel erfolgen, sofern die handschriftliche Unterzeichnung nicht zwingend vorgeschrieben ist. *
+2. Kantonale Verwaltung
+Art. 9 Gliederung und Benennung
+1 Die Kantonale Verwaltung gliedert sich wie folgt:
+a) | Departement für Volkswirtschaft und Soziales
+b) | Departement für Justiz, Sicherheit und Gesundheit
+c) * | Departement für Bildung, Umwelt und Kultur
+d) | Departement für Finanzen und Gemeinden
+e) * | Departement für Infrastruktur, Energie und Mobilität
+f) | Standeskanzlei als Stabsstelle
+Art. 10 Aufgabenbereiche Departemente und Standeskanzlei
+1 Die Aufgabenbereiche der einzelnen Departemente und der Standeskanzlei werden von der Regierung in Anhang 1 zu dieser Verordnung festgelegt.
+Art. 11 Organisatorische Gliederung Departemente und Standeskanzlei
+1 Die organisatorische Gliederung der Departemente in Ämter und gleichgestellte Organisationseinheiten sowie der Standeskanzlei wird von der Regierung in Anhang 1 zu dieser Verordnung festgelegt. Die weitere Organisation bestimmt die Departementsvorsteherin oder der Departementsvorsteher beziehungsweise die Kanzleidirektorin oder der Kanzleidirektor.
+Art. 12 Unterschriftsberechtigung 1. In den Departementen
+1 Die Departementsvorsteherinnen oder Departementsvorsteher sind für den Aufgabenbereich eines Departementes zeichnungsberechtigt.
+2 Sie können für bestimmte Sachbereiche weitere Unterschriftsberechtigungen festlegen.
+3 Verfügungen und Beschwerdeentscheide des Departementes unterzeichnet im Verhinderungsfalle der Vorsteherin oder des Vorstehers das stellvertretende Regierungsmitglied oder, wenn dieses ebenfalls verhindert ist, ein anderes Mitglied der Regierung.
+Art. 13 2. In den Ämtern
+1 Die Leiterinnen und Leiter sind für den Aufgabenbereich eines Amtes oder einer gleichgestellten Organisationseinheit zeichnungsberechtigt.
+2 Sie können für bestimmte Sachbereiche weitere Unterschriftsberechtigungen festlegen.
+Art. 14 3. Form der Unterschriftsdelegation, Öffentlichkeit
+1 Die Delegation der Unterschriftsberechtigung hat in Form einer generellen Umschreibung zu erfolgen.
+2 Auf Verlangen ist Aussenstehenden Einsicht in die Grundlagen der Unterschriftsdelegation zu geben.
+Art. 15 Unterzeichnungsformen 1. Einzelverfügungen und Beschwerdeentscheide
+1 Einzelverfügungen und Beschwerdeentscheide sind in der Regel handschriftlich oder mit einer qualifizierten elektronischen Signatur gemäss ZertES zu unterzeichnen. *
+2 Die Unterzeichnung kann mit Faksimile-Stempel erfolgen: *
+a) * | in besonderen Fällen, namentlich bei zeitlicher Dringlichkeit oder wenn Einzelverfügungen in grösserer Zahl erlassen werden;
+b) * | bei erstinstanzlichen Entscheiden, die dem Antrag der Parteien vollumfänglich entsprechen und nicht in die Rechte Dritter eingreifen.
+Art. 16 2. Massenverfügungen
+1 Verfügungen, die in grosser Zahl auf elektronischem oder mechanischem Weg erlassen werden, können mit Faksimile-Stempel unterzeichnet werden oder keine Unterschrift tragen. *
+Art. 16a * Verwaltungsinterner Verkehr
+1 Wo im verwaltungsinternen Verkehr eine handschriftliche Unterzeichnung gefordert wird, kann auch eine qualifizierte, elektronische Signatur gemäss ZertES verwendet werden.
+3. Schlussbestimmungen
+Art. 17 Aufhebung bisherigen Rechts
+1 Die nachfolgenden Erlasse werden aufgehoben:
+a) | Beschluss betreffend Zuweisung von Sachgebieten an die Departemente vom 15. Dezember 1986 .
+b) | Verordnung über die Unterschriftsberechtigung für Verfügungen und Beschwerdeentscheide in den Departementen und Ämtern vom 31. Januar 1995 .
+Art. 18 Änderung bisherigen Rechts
+1 Die Änderung von Verordnungen wird in Anhang 2 geregelt.
+Art. 19 Inkrafttreten
+1 Diese Verordnung tritt zusammen mit dem Regierungs- und Verwaltungsorganisationsgesetz in Kraft .
+A1 Anhang 1: Aufgabenbereiche und Gliederung der Departemente (Art. 10 und 11)
+A1.1 Aufgabenbereiche der Departemente und der Standeskanzlei
+Art. A1-1 Departement für Volkswirtschaft und Soziales
+1 Volkswirtschaft:
+a) | Grundbuch:
+ | 1. | Grundbuchaufsicht
+ | 2. | bäuerliches Bodenrecht
+ | 3. | Grundstückserwerb durch Personen im Ausland
+b) | Handelsregister
+c) | Landwirtschaft:
+ | 1. | Agrarmassnahmen
+ | 2. | Kantonale Fördermassnahmen
+ | 3. | Strukturverbesserungen und ländliche Entwicklung
+ | 4. | Landwirtschaftliche Bildung und Beratung (Plantahof)
+d) | Geoinformation und amtliche Vermessung
+e) | Tierseuchen, Tierschutz, Lebensmittel, Chemikalien und Tabak
+f) | Industrie, Gewerbe und Arbeit:
+ | 1. | Arbeitsbedingungen
+ | 2. | Arbeitslosenversicherung und Arbeitsvermittlung
+ | 3. | Arbeitsinspektorat (Gesundheitsschutz, Arbeitssicherheit)
+ | 4. | Wirtschaftliche Landesversorgung
+ | 5. | Preisbekanntgabe und Konsumkredit
+g) | Tourismus:
+ | 1. | Fördermassnahmen
+ | 2. | Schneesport- und Bergführerwesen
+h) | Wirtschaft:
+ | 1. | Fördermassnahmen
+ | 2. | Standortentwicklung
+ | 3. | Regionalentwicklung
+ | 4. | Bestandespflege und Ansiedlungen
+i) | Statistik und Register
+j) | Raumentwicklung:
+ | 1. | Kantonale Raumordnungspolitik
+ | 2. | Richt- und Nutzungsplanungen
+ | 3. | Aufsicht kommunales Bau- und Planungswesen
+ | 4. | Bauen ausserhalb der Bauzonen
+k) | Wohnungsbau und Mietwesen
+l) | Seilbahnwesen
+m) | Europafragen und Welthandel
+2 Soziales:
+a) | Sozialhilfe:
+ | 1. | Persönliche Hilfe
+ | 2. | Materielle Hilfe
+ | 3. | Pflegekinderwesen
+ | 4. | Aufsicht über die Kinderheime
+ | 5. | Integration behinderter Erwachsener
+ | 6. | Familienfragen
+ | 7. | Opferhilfe / Kindesschutz
+ | 8. | Suchthilfe
+ | 9. | Koordination gegen häusliche Gewalt
+b) | Sozialversicherungen:
+ | 1. | AHV-Ausgleichskasse
+ | 2. | IV-Stelle
+ | 3. | Familienausgleichskasse
+Art. A1-2 Departement für Justiz, Sicherheit und Gesundheit
+1 Justiz:
+a) | Justiz:
+ | 1. | Gerichtswesen
+ | 2. | Strafuntersuchung und ‑verfolgung
+ | 3. | Allgemeine Verfassungsfragen
+b) | Strafrecht und Strafvollzug:
+ | 1. | Allgemeines Strafrecht
+ | 2. | Straf- und Massnahmenvollzug
+c) | Bürger- und Zivilrecht:
+ | 1. | Einbürgerungen
+ | 2. | Zivilstandswesen
+ | 3. | Namensänderungen
+ | 4. | Adoptionen
+ | 5. | Kindes- und Erwachsenenschutzrecht
+d) | Anwalts- und Notariatswesen
+2 Sicherheit:
+a) | Kantonspolizei:
+ | 1. | Allgemeine Polizeiaufgaben
+ | 2. | Verkehrspolizei
+ | 3. | Kriminalpolizei
+ | 4. | Sicherheitspolizei
+b) | Ausländerrecht:
+ | 1. | Fremdenpolizei
+ | 2. | Integration
+ | 3. | Asylwesen
+c) | Pass- und Patentwesen
+d) | Polizeiliche Aufsicht über die Kleinspiele
+e) | Eich- und Messwesen
+f) | Strassenverkehr:
+ | 1. | Verkehrssteuern
+ | 2. | Führer- und Fahrzeugprüfungen
+ | 3. | Sonderbewilligungen
+ | 4. | Administrativmassnahmen
+g) | Schifffahrt
+h) | Gebäudeversicherung:
+ | 1. | Gebäudeversicherung
+ | 2. | Elementarschäden
+i) | Feuerpolizei:
+ | 1. | Feuerverhütung
+ | 2. | Feuerbekämpfung
+j) | Militär
+ | 1. | Kreiskommando
+k) | Bevölkerungsschutz
+l) | Zivilschutz
+ | 1. | Bauten
+ | 2. | Ausbildung
+m) | Datenschutz
+n) | Kantonale Sicherheitskooperation
+ | 1. | Kantonaler Führungsstab
+ | 2. | Gemeindeführungsstäbe
+3 Gesundheit:
+a) | Alters- und Pflegeheime:
+ | 1. | Beiträge
+ | 2. | Planung
+b) | Bestattungswesen
+c) | Betäubungsmittel
+d) | Gesundheitsförderung und Prävention
+e) | Gesundheitspolizei:
+ | 1. | Aufsicht
+ | 2. | Bewilligungen
+f) | Gesundheitsschutz
+g) | Heilmittel
+h) | Krankenversicherung:
+ | 1. | Prämienverbilligung
+ | 2. | Versicherungsobligatorium
+ | 3. | Tarife
+ | 4. | Zulassung und Aufsicht der Leistungserbringer
+i) | Psychiatrische Kliniken:
+ | 1. | Beiträge
+ | 2. | Planung
+j) | Rehabilitationskliniken:
+ | 1. | Beiträge
+ | 2. | Planung
+k) | Rettungswesen
+l) | Schularztdienst
+m) | Schulzahnpflege
+n) | Spitäler:
+ | 1. | Beiträge
+ | 2. | Planung
+o) | Spitex
+Art. A1-3 Departement für Bildung, Umwelt und Kultur *
+1 Bildung: *
+a) | Volksschule und Sonderschulung
+b) | Mittelschulen und Tertiärbildung
+c) | Berufsbildung und Berufsberatung
+d) | Sport und Sportförderung
+1 bis Umwelt: *
+a) | Natur und Landschaft
+b) | Wasser und Abwasser
+c) | Abfall, Materialausbeutung und Boden
+d) | Luft, Lärm, Strahlen und Klima
+e) | Störfallvorsorge und Schadendienst
+2 Kultur:
+a) | Kultur und Sprachförderung
+b) | Archäologie und Denkmalpflege
+c) | Staatsarchiv und Kantonsbibliothek
+d) | Kantonale Museen
+3 … *
+Art. A1-4 Departement für Finanzen und Gemeinden
+1 Finanzen:
+a) | Finanzpolitik
+b) | Finanzkontrolle
+c) | Finanzverwaltung:
+ | 1. | Finanz- und Rechnungswesen
+ | 2. | Tresorerie
+ | 3. | Stiftungsaufsicht
+ | 4. | Versicherungswesen
+ | 5. | Fachstelle IKS
+ | 6. | Public Corporate Governance
+d) | Personal
+e) | Pensionskasse
+f) | Steuern:
+ | 1. | Vollzug des kantonalen Steuergesetzes
+ | 2. | Vollzug der direkten Bundessteuer
+ | 3. | Gesetzgebung (allgemeine Steuern)
+ | 4. | Gemeindesteuern
+ | 5. | Unentgeltliche Rechtspflege (Stellungnahme vor Erteilung sowie Verpflichtung zur Rückforderung in verwaltungs-, zivil- und strafrechtlichen Verfahren)
+g) | Informatik
+h) | Immobilienbewertungen
+i) | Digitale Verwaltung
+2 Gemeinden:
+a) | Gemeindeaufsicht
+b) | Gemeindereform
+c) | Finanzausgleich für Gemeinden
+Art. A1-5 Departement für Infrastruktur, Energie und Mobilität
+1 Bau:
+a) | Strassenbau und ‑unterhalt:
+ | 1. | Projektierung
+ | 2. | Strassenerhaltung
+ | 3. | Oberbauleitung
+ | 4. | Landerwerb und Administration
+b) | Wasserbau (Hochwasserschutz)
+c) | Hochbau:
+ | 1. | Bauvorhaben
+ | 2. | Bewirtschaftung für Immobilien
+2 Wasser und Energie:
+a) | Wasserkraftnutzung
+b) | Energienutzung und ‑beratung
+c) | Energieversorgung
+3 Verkehr:
+a) | Koordinierte Verkehrspolitik
+b) | Öffentlicher Verkehr:
+ | 1. | Eisenbahnen
+ | 2. | Busbetriebe
+c) | Langsamverkehr
+d) | Luftverkehr
+4 Wald und Naturgefahren:
+a) | Multifunktionale Waldbewirtschaftung:
+ | 1. | Schutzwald
+ | 2. | Lebensraum
+ | 3. | Holznutzung
+ | 4. | Planung und Erschliessung
+b) | Umgang mit Naturgefahren
+c) | Walderhaltung
+d) | Forstorganisation und Schulung
+5 Jagd, Fischerei, Lebensraum- und Artenschutz:
+a) | Jagdaufsicht
+b) | Jagdplanung
+c) | Wildhege
+d) | Fischereiaufsicht
+e) | Fischereibewirtschaftung
+f) | Fischereibetrieb
+g) | Lebensraum- und Artenschutz
+Art. A1-6 Standeskanzlei
+1 Standeskanzlei:
+a) | Allgemeine Stabsdienste für die Regierung
+b) | Führungsunterstützung für die Regierung
+c) | Informationsdienst für die Regierung
+d) | Koordination Aussenbeziehungen
+e) | Politische Rechte
+f) | Übersetzungsdienst für Regierung und kantonale Verwaltung
+g) | Formelle Gesetzgebung
+h) | Datenschutz (Aufsichtsstelle)
+i) | Zentrale Dienste (Postdienst, Drucksachen und Materialdienst, Legalisationen)
+j) | Protokolldienst für Anlässe der Regierung
+A1.2 Gliederung der Departemente und der Standeskanzlei
+Art. A1-7 Departement für Volkswirtschaft und Soziales
+1 Das Departement für Volkswirtschaft und Soziales gliedert sich wie folgt:
+a) * | Generalsekretariat
+b) * | Amt für Grundbuch und Handelsregister
+c) | Plantahof
+d) | Amt für Landwirtschaft und Geoinformation
+e) * | Veterinär- und Lebensmittelamt
+f) * | Amt für Arbeit
+g) | Amt für Wirtschaft und Tourismus
+h) | Amt für Raumentwicklung
+i) * | Amt für Soziales
+2 Dem Departement für Volkswirtschaft und Soziales ist zugewiesen:
+a) | Sozialversicherungsanstalt
+Art. A1-8 Departement für Justiz, Sicherheit und Gesundheit
+1 Das Departement für Justiz, Sicherheit und Gesundheit gliedert sich wie folgt:
+a) * | Generalsekretariat
+b) | Amt für Justizvollzug
+c) | Kantonspolizei
+d) | Amt für Migration und Zivilrecht
+e) | Strassenverkehrsamt
+f) * | Amt für Bevölkerungsschutz und Militär
+g) | Gesundheitsamt
+h) | Staatsanwaltschaft
+i) | Kindes- und Erwachsenenschutzbehörden
+2 Dem Departement für Justiz, Sicherheit und Gesundheit sind zugewiesen:
+a) | Psychiatrische Dienste Graubünden
+b) | Gebäudeversicherungsanstalt
+Art. A1-9 Departement für Bildung, Umwelt und Kultur *
+1 Das Departement für Bildung, Umwelt und Kultur gliedert sich wie folgt: *
+a) * | Generalsekretariat (inkl. Stabsstelle für Gleichstellung)
+b) | Amt für Volksschule und Sport
+c) * | Amt für Mittelschulen und Tertiärbildung
+d) | Amt für Berufsbildung
+e) | Amt für Kultur
+f) * | Amt für Umwelt
+2 Dem Departement für Bildung, Umwelt und Kultur sind zugewiesen: *
+a) | Bildungszentrum Gesundheit und Soziales
+b) | Pädagogische Hochschule
+c) | Fachhochschule Graubünden
+Art. A1-10 Departement für Finanzen und Gemeinden
+1 Das Departement für Finanzen und Gemeinden gliedert sich wie folgt:
+a) * | Generalsekretariat (inkl. Stabsstelle Digitale Verwaltung)
+b) | Amt für Immobilienbewertung
+c) | Finanzverwaltung
+d) | Personalamt
+e) | Steuerverwaltung
+f) | Amt für Informatik
+g) | Amt für Gemeinden
+h) | Finanzkontrolle (administrativ zugeordnet)
+2 Dem Departement für Finanzen und Gemeinden sind zugewiesen:
+a) | Pensionskasse Graubünden
+b) | Graubündner Kantonalbank
+Art. A1-11 Departement für infrastruktur, Energie und Mobilität
+1 Das Departement für Infrastruktur, Energie und Mobilität gliedert sich wie folgt:
+a) * | Generalsekretariat
+b) | Hochbauamt
+c) | Amt für Energie und Verkehr
+d) | Tiefbauamt
+e) | Amt für Wald und Naturgefahren
+f) | Amt für Jagd und Fischerei
+2 Dem Departement für Infrastruktur, Energie und Mobilität ist zugewiesen:
+a) | Bildungszentrum Wald Maienfeld
+Art. A1-12 Standeskanzlei
+1 Die Standeskanzlei gliedert sich wie folgt:
+a) | Führungsunterstützung
+b) | Allgemeine Dienste
+c) | Sekretariat Kanzleidirektion
+d) | Ratssekretariat
+2 Der Standeskanzlei ist zugewiesen:
+a) | Datenschutzaufsichtsstelle
+Anhänge
+Anhang 1 * : Ausser Kraft
