@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-graubunden-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (311 acts, 899 versions) from the BR",
+  "build": "built: 400 normative acts, 989 sourced versions; 89 current-text single-file additions and labelled BR 217.300 date correction; normative images incomplete in four acts",
   "language": "de",
   "sources": 1
 }

@@ -1,6 +1,6 @@
 # Kantonales Geoinformationsgesetz
 
-KGeoIG · 1 versions, from 2012-01-01 (latest in force: 2012-01-01) · <https://www.gr-lex.gr.ch/app/de/texts_of_law/217.300>
+KGeoIG · 2 versions, from 2012-01-01 (latest in force: 2016-06-01) · <https://www.gr-lex.gr.ch/app/de/texts_of_law/217.300>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -42,8 +42,8 @@ KGeoIG · 1 versions, from 2012-01-01 (latest in force: 2012-01-01) · <https://
 | Art. 36 | [art-036.md](art-036.md) | 0 |  |
 | Art. 37 | [art-037.md](art-037.md) | 0 |  |
 | Art. 38 | [art-038.md](art-038.md) | 0 |  |
-| Art. 39 | [art-039.md](art-039.md) | 0 |  |
-| Art. 40 | [art-040.md](art-040.md) | 0 |  |
+| Art. 39 | [art-039.md](art-039.md) | 1 | 2016-06-01 |
+| Art. 40 | [art-040.md](art-040.md) | 1 | 2016-06-01 |
 | Art. 41 | [art-041.md](art-041.md) | 0 |  |
 | Art. 42 | [art-042.md](art-042.md) | 0 |  |
 | Art. 43 | [art-043.md](art-043.md) | 0 |  |

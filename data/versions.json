@@ -777,9 +777,15 @@
    "versions": [
     {
      "from": "2012-01-01",
-     "units": 45,
+     "units": 43,
      "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/217.300/versions/2313",
      "sha256": "5622fc851dec62d44961dc8df9e7ac80df629091e982555d98d2a7de87cfdbdc"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 45,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/217.300",
+     "sha256": "39ad726bf00195916f1c86f418796ff6c09180eb3517a2999bb67aa67cfd32c7"
     }
    ]
   },
@@ -7880,6 +7886,1252 @@
      "units": 7,
      "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/960.110",
      "sha256": "60ce864a825677279a879d01635d62af8ce46a45f4d0ab1b6008f8b565b0b546"
+    }
+   ]
+  },
+  {
+   "slug": "170-140",
+   "short": "BR 170.140",
+   "title": "Geschäftsordnung des Grossen Rates",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.140",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/170.140",
+     "sha256": "54b5c40f6c40f25ce4f113a34941599f714c26da8885644429f7afc0bebd848a"
+    }
+   ]
+  },
+  {
+   "slug": "170-310",
+   "short": "BR 170.310",
+   "title": "Regierungs- und Verwaltungsorganisationsverordnung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.310",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/170.310",
+     "sha256": "e5208aa264a825900a3468a6b41608adeaa5176c8c86a0e3d530f6fb2a78b17c"
+    }
+   ]
+  },
+  {
+   "slug": "173-020",
+   "short": "BR 173.020",
+   "title": "Geschäftsordnung des Justizgerichts",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.020",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.020",
+     "sha256": "6ab35097e7eecc2fa2c17e5e37f2f3b09584cba7c38f9b7db5df471ae54c0778"
+    }
+   ]
+  },
+  {
+   "slug": "173-120",
+   "short": "BR 173.120",
+   "title": "Geschäftsordnung des Regionalgerichts Albula",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.120",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.120",
+     "sha256": "7208ac975bf8903da82ee5e0f4b44f4cf2c3b9b89d643f6cd7694d3916eac032"
+    }
+   ]
+  },
+  {
+   "slug": "173-125",
+   "short": "BR 173.125",
+   "title": "Geschäftsordnung des Regionalgerichts Bernina",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.125",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.125",
+     "sha256": "12d850b8c44ca62c02cd75691a79aaaf254164506189ad1f13f4729c7a8fd483"
+    }
+   ]
+  },
+  {
+   "slug": "173-130",
+   "short": "BR 173.130",
+   "title": "Geschäftsordnung des Regionalgerichts Engiadina Bassa/Val Müstair",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.130",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.130",
+     "sha256": "405b668fbfe71a9f2789a166e69bb55505c3ce5dcdf522d01be8ae119630d855"
+    }
+   ]
+  },
+  {
+   "slug": "173-135",
+   "short": "BR 173.135",
+   "title": "Geschäftsordnung des Regionalgerichts Imboden",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.135",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.135",
+     "sha256": "851f1964de15ccbb27852ff62c65dc3ba10b11b7273a7491e8acf91da3c0848f"
+    }
+   ]
+  },
+  {
+   "slug": "173-140",
+   "short": "BR 173.140",
+   "title": "Geschäftsordnung des Regionalgerichts Landquart",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.140",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.140",
+     "sha256": "76249b7be70098cbdf9cb392f8681ae8dc27a1f3c1412f7d9be10f045789851c"
+    }
+   ]
+  },
+  {
+   "slug": "173-145",
+   "short": "BR 173.145",
+   "title": "Geschäftsordnung des Regionalgerichts Moesa",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.145",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.145",
+     "sha256": "053b7f7c24dc24477b64e514d068dbc92cad28f13e83be72657e84cd8688cfe4"
+    }
+   ]
+  },
+  {
+   "slug": "173-150",
+   "short": "BR 173.150",
+   "title": "Geschäftsordnung des Regionalgerichts Maloja",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.150",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.150",
+     "sha256": "103490ded7051ab950e621db3ef38976af600f3b03c14671c6e8be8263c36945"
+    }
+   ]
+  },
+  {
+   "slug": "173-155",
+   "short": "BR 173.155",
+   "title": "Geschäftsordnung des Regionalgerichts Plessur",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.155",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.155",
+     "sha256": "4b4c6e31135510d9df68a2f32263566adc970dae191d614f7c6a87c9a6199c75"
+    }
+   ]
+  },
+  {
+   "slug": "173-160",
+   "short": "BR 173.160",
+   "title": "Geschäftsordnung des Regionalgerichts Prättigau/Davos",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.160",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.160",
+     "sha256": "5ebe09d55026c6e7946f7f73f60c75e0f19647d11a9dbed0b1f18006f38d73de"
+    }
+   ]
+  },
+  {
+   "slug": "173-165",
+   "short": "BR 173.165",
+   "title": "Geschäftsordnung des Regionalgerichts Surselva",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.165",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.165",
+     "sha256": "32f2ee3e341901519ed7b458d0dd7b41fc04f5221acf904cdabfdb9c8b9df152"
+    }
+   ]
+  },
+  {
+   "slug": "173-170",
+   "short": "BR 173.170",
+   "title": "Geschäftsordnung des Regionalgerichts Viamala",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.170",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/173.170",
+     "sha256": "78d3905496ce158ff8e61c5cd415baa32dcd5f9e57b4d55b3e29af79faba7572"
+    }
+   ]
+  },
+  {
+   "slug": "219-140",
+   "short": "BR 219.140",
+   "title": "Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/219.140",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3589/pdf_file",
+     "sha256": "3f082206a4ad4c8ff3dfd75c7beccddf570f1de78221803f0457f10ebd36b940"
+    }
+   ]
+  },
+  {
+   "slug": "219-400",
+   "short": "BR 219.400",
+   "title": "Ausführungsbestimmungen zur eidgenössischen Verordnung vom 30. Oktober 1917 betreffend die Viehverpfändung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/219.400",
+   "versions": [
+    {
+     "from": "1994-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/219.400",
+     "sha256": "101a9317377e2a2813435c1b6977af53135c07f81d4873eb58540099af7a20d4"
+    }
+   ]
+  },
+  {
+   "slug": "320-100",
+   "short": "BR 320.100",
+   "title": "Einführungsgesetz zur Schweizerischen Zivilprozessordnung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/320.100",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/320.100",
+     "sha256": "8885635dc935a6509a8fc578319855b8eb6d4c9337a36fe24a3a630e836c9f57"
+    }
+   ]
+  },
+  {
+   "slug": "350-100",
+   "short": "BR 350.100",
+   "title": "Einführungsgesetz zur Schweizerischen Strafprozessordnung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.100",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/350.100",
+     "sha256": "9482d839eba068efd52479c0e4d652f56e39903113c54fdbf8895a9ebe7336b4"
+    }
+   ]
+  },
+  {
+   "slug": "350-345",
+   "short": "BR 350.345",
+   "title": "Ausführungsbestimmungen zum Bundesgesetz über Waffen, Waffenzubehör und Munition",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.345",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/350.345",
+     "sha256": "2bf02ea85b6a79b38f5840ac6efd8622a36476d154475503f67196b03886504c"
+    }
+   ]
+  },
+  {
+   "slug": "350-400",
+   "short": "BR 350.400",
+   "title": "Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen vom 29. Oktober 2004",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.400",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/122/pdf_file",
+     "sha256": "d71d4b1abd557f583650a95838e2b170d14f4164e2dc6b61bc44ab49974e0ed7"
+    }
+   ]
+  },
+  {
+   "slug": "410-100",
+   "short": "BR 410.100",
+   "title": "Neuregelung der Aufsicht über die Klosterverwaltungen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/410.100",
+   "versions": [
+    {
+     "from": "1956-05-29",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/410.100",
+     "sha256": "e5310df2df7aca79c7e06092aead0da3154122f922799a2995255e6910adeadd"
+    }
+   ]
+  },
+  {
+   "slug": "420-575",
+   "short": "BR 420.575",
+   "title": "Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/420.575",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/2902/pdf_file",
+     "sha256": "37bd5a74137e7347856760895af0821ba31473bc9ced816a11d319554cadb3a5"
+    }
+   ]
+  },
+  {
+   "slug": "421-160",
+   "short": "BR 421.160",
+   "title": "Konkordat über die Schulkoordination",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.160",
+   "versions": [
+    {
+     "from": "1971-06-09",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/154/pdf_file",
+     "sha256": "803f4f9478af4ac2f5762ff152db1503905113c066dca8f03977fbedc8f3a330"
+    }
+   ]
+  },
+  {
+   "slug": "425-110",
+   "short": "BR 425.110",
+   "title": "Schulordnung der Bündner Kantonsschule als kantonale Mittelschule am Standort Chur",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.110",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/425.110",
+     "sha256": "df91fd8c43c88328c9fca21c669f56e1a1b7c48910d25da7a19e3a097e6420d9"
+    }
+   ]
+  },
+  {
+   "slug": "425-500",
+   "short": "BR 425.500",
+   "title": "Benützungs- und Gebührenverordnung für die Mittelschulen mit kantonaler Trägerschaft",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.500",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/425.500",
+     "sha256": "c2dbe347b325257121589483dfd3f39a73d037945cfaa5599994e0d208eaa9c9"
+    }
+   ]
+  },
+  {
+   "slug": "427-010",
+   "short": "BR 427.010",
+   "title": "Interkantonale Vereinbarung über den schweizerischen Hochschulbereich",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/427.010",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/2458/pdf_file",
+     "sha256": "be03b06647d2ba3e9002a379256e42e625af33d7cfd8ab9f17a7274153bc8e27"
+    }
+   ]
+  },
+  {
+   "slug": "433-170",
+   "short": "BR 433.170",
+   "title": "Rahmenlehrplan zum Fortbildungsgesetz",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/433.170",
+   "versions": [
+    {
+     "from": "1976-07-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/433.170",
+     "sha256": "f5c4a31f652b0c22d6de3cc324502c3351952c464f681c8a68bd21c21b4e118c"
+    }
+   ]
+  },
+  {
+   "slug": "450-110",
+   "short": "BR 450.110",
+   "title": "Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/450.110",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3355/pdf_file",
+     "sha256": "b0332b9b8dfac6bef499ac0b4f502aa8e74aab9922c6ddb43d2c0296f8ea428d"
+    }
+   ]
+  },
+  {
+   "slug": "490-250",
+   "short": "BR 490.250",
+   "title": "Benutzungsordnung der Kantonsbibliothek Graubünden",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/490.250",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/490.250",
+     "sha256": "d40667bf458bdaa0eec20b2a1fdc03260b7cf55f6de2475a4a64154e43733555"
+    }
+   ]
+  },
+  {
+   "slug": "496-100",
+   "short": "BR 496.100",
+   "title": "Kantonale Natur- und Heimatschutzverordnung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/496.100",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/496.100",
+     "sha256": "f8ab84c5ca1ae1017ae93b31de2ecd56a44e2c4a5a045021661895ee04f7a851"
+    }
+   ]
+  },
+  {
+   "slug": "506-810",
+   "short": "BR 506.810",
+   "title": "Interkantonale Vereinbarung über die hochspezialisierte Medizin",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.810",
+   "versions": [
+    {
+     "from": "2009-02-17",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/798/pdf_file",
+     "sha256": "642169c774cbc7650cad8c57906011bd0b82b075c584866014f1815b5e678077"
+    }
+   ]
+  },
+  {
+   "slug": "507-410",
+   "short": "BR 507.410",
+   "title": "Entschädigungstarif für die Schlachttier- und Fleischuntersuchung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/507.410",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/507.410",
+     "sha256": "209aaa6a9cc8cd1d7b52fe15e6dba6823dee2bf9b646e12d3bfdbb5bc8016dfe"
+    }
+   ]
+  },
+  {
+   "slug": "507-420",
+   "short": "BR 507.420",
+   "title": "Gebührentarif für die Schlachttier- und Fleischuntersuchung sowie für Betriebsbewilligungen von Schlachtanlagen und Zerlegebetrieben",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/507.420",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/507.420",
+     "sha256": "4ecd34ab1e76554b1a64b7ccccf508561d21811767524dc20fd540502b1605c3"
+    }
+   ]
+  },
+  {
+   "slug": "530-200",
+   "short": "BR 530.200",
+   "title": "Ausführungsbestimmungen zum Heimarbeitsgesetz",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/530.200",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/530.200",
+     "sha256": "7a75f8fd9dcfda1bd6eff67bac8d21359153079a55e674bcede22b5bb70aa40b"
+    }
+   ]
+  },
+  {
+   "slug": "535-100",
+   "short": "BR 535.100",
+   "title": "Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/535.100",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/535.100",
+     "sha256": "530b8a68b53bf9ffe51f0f8cc7d97ba7c2676cc092ad1b7811bc65b15c842c5c"
+    }
+   ]
+  },
+  {
+   "slug": "535-200",
+   "short": "BR 535.200",
+   "title": "Normalarbeitsvertrag für das hauswirtschaftliche Arbeitsverhältnis",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/535.200",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/535.200",
+     "sha256": "4a204f639035f57ac212d192e111795fd25941fc36aea9ff7d99371f39dd65a6"
+    }
+   ]
+  },
+  {
+   "slug": "535-230",
+   "short": "BR 535.230",
+   "title": "Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/535.230",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/535.230",
+     "sha256": "0ec2dd5252fca6eafd846dbe5288f57664a26814764db27e36431c5323b1c1ec"
+    }
+   ]
+  },
+  {
+   "slug": "535-250",
+   "short": "BR 535.250",
+   "title": "Normalarbeitsvertrag für das Alp- und Hirtschaftspersonal",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/535.250",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/535.250",
+     "sha256": "edc391b10f423e1ca89139c3c75445365512d157d5a498fdb37eaf42a05f4fae"
+    }
+   ]
+  },
+  {
+   "slug": "544-320",
+   "short": "BR 544.320",
+   "title": "Ausführungsbestimmungen zum kantonalen Gesetz über Ergänzungsleistungen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/544.320",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/544.320",
+     "sha256": "3762f039576fcfcdb2fbf7f83e128caf91fc137b4744197d173ba928e294734f"
+    }
+   ]
+  },
+  {
+   "slug": "546-270",
+   "short": "BR 546.270",
+   "title": "Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.270",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/546.270",
+     "sha256": "c8a3ac6d4f693e4cddbf8db66967755970641c650ba05c4a685b36c3d21614d0"
+    }
+   ]
+  },
+  {
+   "slug": "546-710",
+   "short": "BR 546.710",
+   "title": "Interkantonale Vereinbarung für soziale Einrichtungen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.710",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3058/pdf_file",
+     "sha256": "048bcb454149424d96b43d54dcbf16ca9a0986e14de671d439e02d3489617993"
+    }
+   ]
+  },
+  {
+   "slug": "548-120",
+   "short": "BR 548.120",
+   "title": "Ausführungsbestimmungen zum Gesetz über die Familienzulagen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.120",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/548.120",
+     "sha256": "8661656f5c0cea520e9a3c0ec6ce4c96b6275db9911ddc75fd61a2002c6ae98d"
+    }
+   ]
+  },
+  {
+   "slug": "548-130",
+   "short": "BR 548.130",
+   "title": "Interkantonale Vereinbarung vom 20. Februar 1989 über die Zuständigkeit der Familienausgleichskassen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.130",
+   "versions": [
+    {
+     "from": "1989-02-20",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/328/pdf_file",
+     "sha256": "3ea8c1510bc06ace122e39cc6ad5675bef35b98318b676d9c98fc5f4311bc44b"
+    }
+   ]
+  },
+  {
+   "slug": "548-210",
+   "short": "BR 548.210",
+   "title": "Ausführungsbestimmungen zum Gesetz über Mutterschaftsbeiträge",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.210",
+   "versions": [
+    {
+     "from": "1998-12-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/548.210",
+     "sha256": "6b31fd9854654705b83a2cbb5e85fc8824e076ab699042dcf7ec83c0b031fd6d"
+    }
+   ]
+  },
+  {
+   "slug": "613-160",
+   "short": "BR 613.160",
+   "title": "Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.160",
+   "versions": [
+    {
+     "from": "1977-12-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/339/pdf_file",
+     "sha256": "2daaf98d95582d349e3eb361e7d0fe4a7722471111a25b8a2f8d872d859a8aff"
+    }
+   ]
+  },
+  {
+   "slug": "613-180",
+   "short": "BR 613.180",
+   "title": "Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.180",
+   "versions": [
+    {
+     "from": "2015-05-21",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/2602/pdf_file",
+     "sha256": "df94d41df40ff37a26ec17deeeadb8bd7659d530e80542f96bd587606dcd3542"
+    }
+   ]
+  },
+  {
+   "slug": "618-150",
+   "short": "BR 618.150",
+   "title": "Gebührentarif zur Ausländer- und Asylgesetzgebung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/618.150",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/618.150",
+     "sha256": "b9b9b328d0bd0ae143a3d1e861f4a8a2749ae04f303d95736af563f39ec7983d"
+    }
+   ]
+  },
+  {
+   "slug": "618-170",
+   "short": "BR 618.170",
+   "title": "Gebührentarif für arbeitsmarktliche Überprüfung von Ausländergesuchen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/618.170",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/618.170",
+     "sha256": "0fd212220ad341c446a76404a440a40c452c61331924dff9566174a5ca0f254e"
+    }
+   ]
+  },
+  {
+   "slug": "720-015",
+   "short": "BR 720.015",
+   "title": "Ausführungsbestimmungen zur Steuergesetzgebung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.015",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/720.015",
+     "sha256": "53bdf95daa1da1b2e6e30e07df3ef9d9b1729b64da1d4f410b0c484e12fd2081"
+    }
+   ]
+  },
+  {
+   "slug": "720-110",
+   "short": "BR 720.110",
+   "title": "Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.110",
+   "versions": [
+    {
+     "from": "1963-05-28",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1753/pdf_file",
+     "sha256": "e319bc39e753e0a006ee5d11c3f23132ca94d465fcae4c59df4ccc48bbc339c1"
+    }
+   ]
+  },
+  {
+   "slug": "720-250",
+   "short": "BR 720.250",
+   "title": "Gegenrechtsvereinbarungen mit den Kantonen Zürich, St. Gallen, Appenzell A.-Rh., Freiburg, Basel-Stadt, Zug, Waadt und Bern über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen und wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.250",
+   "versions": [
+    {
+     "from": "1955-10-13",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1754/pdf_file",
+     "sha256": "ccdb75b725d44b832f4050e9d65e2b6fafd85a83b80be05d52b9f64cbd98fac0"
+    }
+   ]
+  },
+  {
+   "slug": "720-255",
+   "short": "BR 720.255",
+   "title": "Gegenrechtsvereinbarung zwischen der Regierung des Fürstentums Liechtenstein und der Regierung des Kantons Graubünden über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von den Erbschafts- und Schenkungssteuern",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.255",
+   "versions": [
+    {
+     "from": "1957-08-08",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1755/pdf_file",
+     "sha256": "4a958872889053e3f1795df7014530c23bfa12d78cbdf3d45c94e83550a9a129"
+    }
+   ]
+  },
+  {
+   "slug": "720-260",
+   "short": "BR 720.260",
+   "title": "Gegenrechtsvereinbarung zwischen der Regierung des Kantons Graubünden und dem Regierungsrat des Kantons Thurgau über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.260",
+   "versions": [
+    {
+     "from": "1958-05-19",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1756/pdf_file",
+     "sha256": "74c07648e9960137cf8469b1fadeda741718155a076c0a822318839d4a64c5cf"
+    }
+   ]
+  },
+  {
+   "slug": "720-265",
+   "short": "BR 720.265",
+   "title": "Gegenseitigkeitserklärung zwischen der Bundesrepublik Deutschland und dem Kanton Graubünden über die Befreiung von Zuwendungen zu gemeinnützigen und mildtätigen (wohltätigen) Zwecken von den Erbschafts- und Schenkungssteuern",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.265",
+   "versions": [
+    {
+     "from": "1975-08-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1757/pdf_file",
+     "sha256": "7138a707142db0fed52748e45481c9b417fe0d95234b2fbd52590d73daadd166"
+    }
+   ]
+  },
+  {
+   "slug": "720-270",
+   "short": "BR 720.270",
+   "title": "Gegenrechtsvereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Graubünden betreffend die Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.270",
+   "versions": [
+    {
+     "from": "1976-08-10",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3074/pdf_file",
+     "sha256": "f50254080706430b5fd64f7eed63adf0ea14cd9908d76de5ce7f53cc820bc4d2"
+    }
+   ]
+  },
+  {
+   "slug": "720-275",
+   "short": "BR 720.275",
+   "title": "Gegenrechtsvereinbarung zwischen dem Kanton Wallis und dem Kanton Graubünden betreffend die Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.275",
+   "versions": [
+    {
+     "from": "1978-08-21",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1759/pdf_file",
+     "sha256": "a9c99e97d8f1547e01fab0a4ed25a41b95d85199b50b37310b34f591698a4ae2"
+    }
+   ]
+  },
+  {
+   "slug": "720-280",
+   "short": "BR 720.280",
+   "title": "Gegenrechtsvereinbarung zwischen der Regierung des Kantons Jura und der Regierung des Kantons Graubünden über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von den Erbschafts- und Schenkungssteuern",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.280",
+   "versions": [
+    {
+     "from": "1979-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1760/pdf_file",
+     "sha256": "98ed5f247b593684dce854cb8a6fb892e95cd4dd40b49abe9113218cfb925e20"
+    }
+   ]
+  },
+  {
+   "slug": "720-290",
+   "short": "BR 720.290",
+   "title": "Gegenrechtsvereinbarung betreffend die Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.290",
+   "versions": [
+    {
+     "from": "1994-12-19",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1761/pdf_file",
+     "sha256": "0e79e885cd3a5135a3f7e1cacae4a019d03d5606ef1b47151539a714f85e8bc2"
+    }
+   ]
+  },
+  {
+   "slug": "720-300",
+   "short": "BR 720.300",
+   "title": "Gegenrechtsvereinbarung betreffend die Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.300",
+   "versions": [
+    {
+     "from": "1998-04-21",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1762/pdf_file",
+     "sha256": "006f788bd4927c69eebb22cb5e2558cd7e9a40bed8520d2792c2c4a653298a2d"
+    }
+   ]
+  },
+  {
+   "slug": "720-310",
+   "short": "BR 720.310",
+   "title": "Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und der Regierung des Kantons Graubünden betreffend Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.310",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1763/pdf_file",
+     "sha256": "d49f8597610a422ed5778c35cb3139617d654094eb5883cdcc4daeea070e23ea"
+    }
+   ]
+  },
+  {
+   "slug": "730-110",
+   "short": "BR 730.110",
+   "title": "Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/730.110",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/551/pdf_file",
+     "sha256": "b85d89fd74019b5955c720208291ef5b238e56a645dd6211b56c24f1de5a04e6"
+    }
+   ]
+  },
+  {
+   "slug": "780-200",
+   "short": "BR 780.200",
+   "title": "Interkantonale Vereinbarung über den Salzverkauf in der Schweiz",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/780.200",
+   "versions": [
+    {
+     "from": "1975-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1788/pdf_file",
+     "sha256": "a44a0b1ae0dfb29a3315d9fa7c26493c0245b319f68936fd34538eefd84a8edc"
+    }
+   ]
+  },
+  {
+   "slug": "803-210",
+   "short": "BR 803.210",
+   "title": "Richtlinien für die von der Regierung gewählten Perimeterkommissionen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.210",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/803.210",
+     "sha256": "15d16ebd35e26197f6a463d9a212d6f4a949224bfb6cde072b04529059c5456d"
+    }
+   ]
+  },
+  {
+   "slug": "803-510",
+   "short": "BR 803.510",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.510",
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1395/pdf_file",
+     "sha256": "019dca93944ee6f7e808a079b7e12363df8863065679ae21e8d2791b2c3c4c57"
+    }
+   ]
+  },
+  {
+   "slug": "803-600",
+   "short": "BR 803.600",
+   "title": "Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.600",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/803.600",
+     "sha256": "07db1949db776bd1c0e8aca0363792878f9c93e7b20ff4a2d6ba23753a844135"
+    }
+   ]
+  },
+  {
+   "slug": "803-710",
+   "short": "BR 803.710",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.710",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3264/pdf_file",
+     "sha256": "c434537d7b7d5e7aafd4e44841608a7f72e9d8e654625e6ab9524398d7704191"
+    }
+   ]
+  },
+  {
+   "slug": "815-210",
+   "short": "BR 815.210",
+   "title": "Ausführungsbestimmungen zur Kantonalen Gewässerschutzverordnung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/815.210",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/815.210",
+     "sha256": "b5d8ab8979467d260c5237da5342a57b78439b41e3d71c17b526de125e3e8724"
+    }
+   ]
+  },
+  {
+   "slug": "815-700",
+   "short": "BR 815.700",
+   "title": "Interkantonale Vereinbarung über den Anschluss der Gemeinden Fläsch, Jenins und Maienfeld an die Abwasserreinigungsanlage Bad Ragaz",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/815.700",
+   "versions": [
+    {
+     "from": "1985-04-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/419/pdf_file",
+     "sha256": "cc6f23e7efeeb8321ebacca697d6bd67145fc893b890d8fe59f4a693c404bd13"
+    }
+   ]
+  },
+  {
+   "slug": "815-710",
+   "short": "BR 815.710",
+   "title": "Interkantonale Vereinbarung zwischen den Kantonen Tessin und Graubünden über den Anschluss des Unteren Misox an die Abwasserreinigungsanlage des Consorzio depurazione acque di Bellinzona e dintorni",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/815.710",
+   "versions": [
+    {
+     "from": "1988-06-07",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/420/pdf_file",
+     "sha256": "5b8f2f77777824358c218d918a4798e1d483ed917dcc4300859e68a04c1ba44a"
+    }
+   ]
+  },
+  {
+   "slug": "830-100",
+   "short": "BR 830.100",
+   "title": "Gesetz über die Gebäudeversicherung im Kanton Graubünden",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/830.100",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/830.100",
+     "sha256": "f2649d3d2e29c503413a20f954dc89f9c0a371032271e7cb36578125d94655af"
+    }
+   ]
+  },
+  {
+   "slug": "870-300",
+   "short": "BR 870.300",
+   "title": "Regelung der Benützung von Motorschlitten",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/870.300",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/870.300",
+     "sha256": "33a8b0036c9288a904774806d6b199d3eb16e75541e15d53276eafb65a3939b9"
+    }
+   ]
+  },
+  {
+   "slug": "873-400",
+   "short": "BR 873.400",
+   "title": "Konkordat über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/873.400",
+   "versions": [
+    {
+     "from": "1973-06-18",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3270/pdf_file",
+     "sha256": "bafe1435da66a2632c4ce8fbfc8fcc9e5bb2444978e87d13f7811af00e636fc7"
+    }
+   ]
+  },
+  {
+   "slug": "877-110",
+   "short": "BR 877.110",
+   "title": "Ausführungsbestimmungen zum Einführungsgesetz zum Bundesgesetz über die Binnenschifffahrt",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/877.110",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/877.110",
+     "sha256": "ceb762e85f89c9076878329f6ff99debf45ab18173707e2429f9b570af405f88"
+    }
+   ]
+  },
+  {
+   "slug": "910-400",
+   "short": "BR 910.400",
+   "title": "Ausführungsbestimmungen für die Landwirtschaftliche Kreditgenossenschaft Graubünden",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/910.400",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/910.400",
+     "sha256": "db4d1319d323a0dbc873f1225a3e3253d9ce95b77a14bf0498de7c78ffc380c4"
+    }
+   ]
+  },
+  {
+   "slug": "910-810",
+   "short": "BR 910.810",
+   "title": "Vorpachtrecht für Alpen und Nutzungsrecht für ausserkantonale Bewerber",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/910.810",
+   "versions": [
+    {
+     "from": "1996-09-03",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/910.810",
+     "sha256": "e0d899cd7121c66df20083b765bf9df6ba515a404439a2299f699f14192ea6d6"
+    }
+   ]
+  },
+  {
+   "slug": "914-350",
+   "short": "BR 914.350",
+   "title": "Entschädigungstarif für Aufgaben im Bereich der Tiergesundheit",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/914.350",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/914.350",
+     "sha256": "a01472675de62c8d099085dd5465a726b496bd332681bc8d0297f0e46734644b"
+    }
+   ]
+  },
+  {
+   "slug": "915-120",
+   "short": "BR 915.120",
+   "title": "Ausführungsbestimmungen zum Meliorationsgesetz des Kantons Graubünden",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/915.120",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/915.120",
+     "sha256": "97457ddb538ed5f11365df9ade258a95428dfb60b4ac76b51553724235eca30c"
+    }
+   ]
+  },
+  {
+   "slug": "917-400",
+   "short": "BR 917.400",
+   "title": "Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/917.400",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/917.400",
+     "sha256": "cd953abddcd1d5a7dca77f3c5d5b534664faa57f8ce6431a6314c1563107b7c3"
+    }
+   ]
+  },
+  {
+   "slug": "919-200",
+   "short": "BR 919.200",
+   "title": "Schulordnung für den Plantahof",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/919.200",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/919.200",
+     "sha256": "b232309c23a0f7f0e7be54a9362569dfbc71cee77effa324848a625a006a6e41"
+    }
+   ]
+  },
+  {
+   "slug": "920-750",
+   "short": "BR 920.750",
+   "title": "Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/920.750",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1799/pdf_file",
+     "sha256": "dc1c458b24001e56935f65399f9ab2a74dce34df89edabdf020644b0c3164ae0"
+    }
+   ]
+  },
+  {
+   "slug": "920-760",
+   "short": "BR 920.760",
+   "title": "Öffentliche Urkunde über die Errichtung der Stiftung Interkantonale Försterschule Maienfeld",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/920.760",
+   "versions": [
+    {
+     "from": "1972-10-11",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/1800/pdf_file",
+     "sha256": "ed6adddbbce0c2d676cd7d1a235e8a3d2f9e0d8fa68409594b075e2e9ce7eddc"
+    }
+   ]
+  },
+  {
+   "slug": "920-800",
+   "short": "BR 920.800",
+   "title": "Richtlinien für die Durchführung von organisierten Veranstaltungen im Wald",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/920.800",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/920.800",
+     "sha256": "eebdbfcf5a166b95b907e57435a97db4172838f733e6a2f40eefb6306565180d"
+    }
+   ]
+  },
+  {
+   "slug": "935-310",
+   "short": "BR 935.310",
+   "title": "Gebührentarif für das Messwesen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/935.310",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/935.310",
+     "sha256": "eb2c3ff4d145bd7623ed1f979987c41d8c6ebfcb6892a93d4a8e3533de8ccdb8"
+    }
+   ]
+  },
+  {
+   "slug": "935-710",
+   "short": "BR 935.710",
+   "title": "Gesamtschweizerisches Geldspielkonkordat",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/935.710",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3126/pdf_file",
+     "sha256": "8933e8f4688d068537382a2e46ff1248324d8a78aa86430d8d7fb8c2da1c5005"
+    }
+   ]
+  },
+  {
+   "slug": "935-810",
+   "short": "BR 935.810",
+   "title": "Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/935.810",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/versions/3128/pdf_file",
+     "sha256": "669dc3f5fb6b9cdc1a688141a096cfcbb96048f5367e912acb69380a9093d89f"
+    }
+   ]
+  },
+  {
+   "slug": "938-220",
+   "short": "BR 938.220",
+   "title": "Grossratsbeschluss betreffend Festlegung der maximalen Höhe des Dotationskapitals der Graubündner Kantonalbank",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/938.220",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/938.220",
+     "sha256": "14672728e13e57db8089297fd0b23b67dd957ec892ac32fbe346843dadb64037"
+    }
+   ]
+  },
+  {
+   "slug": "945-110",
+   "short": "BR 945.110",
+   "title": "Ausführungsbestimmungen zum Gastwirtschaftsgesetz",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/945.110",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/945.110",
+     "sha256": "fe07be618f1f9726fe666ca606e541f498cc34dd4774127a0bb5150631731f97"
+    }
+   ]
+  },
+  {
+   "slug": "947-200",
+   "short": "BR 947.200",
+   "title": "Ausführungsbestimmungen zum Gesetz über das Berg- und Schneesportwesen",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/947.200",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/947.200",
+     "sha256": "5726d336304b095425f80819626b91d3ea300069aa05e8a54c34916448ea3bcb"
+    }
+   ]
+  },
+  {
+   "slug": "950-000",
+   "short": "BR 950.000",
+   "title": "Zuständige kantonale Stelle für die Preisüberwachung",
+   "url": "https://www.gr-lex.gr.ch/app/de/texts_of_law/950.000",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://www.gr-lex.gr.ch/api/de/texts_of_law/950.000",
+     "sha256": "5e902eba623934e841133fed622429d9950e00522b3d9010a4b22766665a6400"
     }
    ]
   }

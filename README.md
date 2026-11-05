@@ -8,7 +8,7 @@ The text is in German, the canton's first official language in the collection, e
 
 ## What this repository holds
 
-311 acts with 899 versions so far: the cantonal constitution, the cantonal laws (Gesetze) in force and 209 Verordnungen and Reglemente in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
+400 acts with 989 versions: the constitution, cantonal laws, ordinances, regulations, decrees and intercantonal agreements with normative text in force in the official BR listing. Nineteen one-off approval, recognition or contribution instruments are excluded. The 89 newly added acts each hold one current version as a single-file text. Normative images remain incomplete in four acts.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -33,7 +33,7 @@ The text is in German, the canton's first official language in the collection, e
 | `210-100-egzzgb/` | Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (BR 210.100) | 9 | oldest version available, then each consolidated version: 1 January 2015 to 1 January 2026 |
 | `210-200-egzor/` | Einführungsgesetz zum Schweizerischen Obligationenrecht (BR 210.200) | 4 | oldest version available, then each consolidated version: 1 January 2011 to 1 January 2025 |
 | `210-300-notg/` | Notariatsgesetz (BR 210.300) | 5 | oldest version available, then each consolidated version: 1 January 2008 to 1 January 2025 |
-| `217-300-kgeoig/` | Kantonales Geoinformationsgesetz (BR 217.300) | 1 | as enacted, 1 January 2012 |
+| `217-300-kgeoig/` | Kantonales Geoinformationsgesetz (BR 217.300) | 2 | corrected 2012 baseline, then current consolidated version: 1 January 2012 to 1 June 2016 |
 | `217-600/` | Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland (BewG) (BR 217.600) | 2 | oldest version available, then each consolidated version: 1 January 2007 to 1 January 2025 |
 | `219-050/` | Pflegekindergesetz (BR 219.050) | 1 | one version (the oldest available), 1 January 2013 |
 | `220-000-egzschkg/` | Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs (BR 220.000) | 3 | as enacted, then each consolidated version: 1 January 2016 to 1 January 2025 |
@@ -323,6 +323,95 @@ The text is in German, the canton's first official language in the collection, e
 | `935-510-geldspielverordnung-vkgs/` | Verordnung zum Geldspielgesetz des Kantons Graubünden (BR 935.510) | 1 | as enacted, 1 January 2021 |
 | `950-270-vfw/` | Verordnung über die Förderung von Wohnraum (BR 950.270) | 3 | oldest version available, then each consolidated version: 1 January 2008 to 1 January 2026 |
 | `960-110-vdt/` | Verordnung zur Förderung der digitalen Transformation in Graubünden (BR 960.110) | 1 | as enacted, 1 January 2021 |
+| `170-140/` | Geschäftsordnung des Grossen Rates (BR 170.140) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `170-310/` | Regierungs- und Verwaltungsorganisationsverordnung (BR 170.310) | 1 | current text, oldest version available, 2026-11-02; single-file act |
+| `173-020/` | Geschäftsordnung des Justizgerichts (BR 173.020) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-120/` | Geschäftsordnung des Regionalgerichts Albula (BR 173.120) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-125/` | Geschäftsordnung des Regionalgerichts Bernina (BR 173.125) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-130/` | Geschäftsordnung des Regionalgerichts Engiadina Bassa/Val Müstair (BR 173.130) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-135/` | Geschäftsordnung des Regionalgerichts Imboden (BR 173.135) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-140/` | Geschäftsordnung des Regionalgerichts Landquart (BR 173.140) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-145/` | Geschäftsordnung des Regionalgerichts Moesa (BR 173.145) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-150/` | Geschäftsordnung des Regionalgerichts Maloja (BR 173.150) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-155/` | Geschäftsordnung des Regionalgerichts Plessur (BR 173.155) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-160/` | Geschäftsordnung des Regionalgerichts Prättigau/Davos (BR 173.160) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-165/` | Geschäftsordnung des Regionalgerichts Surselva (BR 173.165) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `173-170/` | Geschäftsordnung des Regionalgerichts Viamala (BR 173.170) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `219-140/` | Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin (BR 219.140) | 1 | current text, oldest version available, 2026-01-01; single-file act |
+| `219-400/` | Ausführungsbestimmungen zur eidgenössischen Verordnung vom 30. Oktober 1917 betreffend die Viehverpfändung (BR 219.400) | 1 | current text, oldest version available, 1994-10-01; single-file act |
+| `320-100/` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung (BR 320.100) | 1 | current text, oldest version available, 2026-01-01; single-file act |
+| `350-100/` | Einführungsgesetz zur Schweizerischen Strafprozessordnung (BR 350.100) | 1 | current text, oldest version available, 2026-01-01; single-file act |
+| `350-345/` | Ausführungsbestimmungen zum Bundesgesetz über Waffen, Waffenzubehör und Munition (BR 350.345) | 1 | current text, oldest version available, 2020-06-01; single-file act |
+| `350-400/` | Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen vom 29. Oktober 2004 (BR 350.400) | 1 | current text, oldest version available, 2007-01-01; single-file act |
+| `410-100/` | Neuregelung der Aufsicht über die Klosterverwaltungen (BR 410.100) | 1 | current text, oldest version available, 1956-05-29; single-file act |
+| `420-575/` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (BR 420.575) | 1 | current text, oldest version available, 2017-01-01; single-file act |
+| `421-160/` | Konkordat über die Schulkoordination (BR 421.160) | 1 | current text, oldest version available, 1971-06-09; single-file act |
+| `425-110/` | Schulordnung der Bündner Kantonsschule als kantonale Mittelschule am Standort Chur (BR 425.110) | 1 | current text, oldest version available, 2019-08-01; single-file act |
+| `425-500/` | Benützungs- und Gebührenverordnung für die Mittelschulen mit kantonaler Trägerschaft (BR 425.500) | 1 | current text, oldest version available, 2022-08-01; single-file act |
+| `427-010/` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (BR 427.010) | 1 | current text, oldest version available, 2015-01-01; single-file act |
+| `433-170/` | Rahmenlehrplan zum Fortbildungsgesetz (BR 433.170) | 1 | current text, oldest version available, 1976-07-01; single-file act |
+| `450-110/` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen (BR 450.110) | 1 | current text, oldest version available, 2013-03-01; single-file act |
+| `490-250/` | Benutzungsordnung der Kantonsbibliothek Graubünden (BR 490.250) | 1 | current text, oldest version available, 2023-07-01; single-file act |
+| `496-100/` | Kantonale Natur- und Heimatschutzverordnung (BR 496.100) | 1 | current text, oldest version available, 2024-09-01; single-file act |
+| `506-810/` | Interkantonale Vereinbarung über die hochspezialisierte Medizin (BR 506.810) | 1 | current text, oldest version available, 2009-02-17; single-file act |
+| `507-410/` | Entschädigungstarif für die Schlachttier- und Fleischuntersuchung (BR 507.410) | 1 | current text, oldest version available, 2025-10-01; single-file act |
+| `507-420/` | Gebührentarif für die Schlachttier- und Fleischuntersuchung sowie für Betriebsbewilligungen von Schlachtanlagen und Zerlegebetrieben (BR 507.420) | 1 | current text, oldest version available, 2013-10-01; single-file act |
+| `530-200/` | Ausführungsbestimmungen zum Heimarbeitsgesetz (BR 530.200) | 1 | current text, oldest version available, 2011-01-01; single-file act |
+| `535-100/` | Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen (BR 535.100) | 1 | current text, oldest version available, 2007-01-01; single-file act |
+| `535-200/` | Normalarbeitsvertrag für das hauswirtschaftliche Arbeitsverhältnis (BR 535.200) | 1 | current text, oldest version available, 2020-01-01; single-file act |
+| `535-230/` | Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis (BR 535.230) | 1 | current text, oldest version available, 2022-03-01; single-file act |
+| `535-250/` | Normalarbeitsvertrag für das Alp- und Hirtschaftspersonal (BR 535.250) | 1 | current text, oldest version available, 2022-03-01; single-file act |
+| `544-320/` | Ausführungsbestimmungen zum kantonalen Gesetz über Ergänzungsleistungen (BR 544.320) | 1 | current text, oldest version available, 2021-01-01; single-file act |
+| `546-270/` | Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz (BR 546.270) | 1 | current text, oldest version available, 2026-02-01; single-file act |
+| `546-710/` | Interkantonale Vereinbarung für soziale Einrichtungen (BR 546.710) | 1 | current text, oldest version available, 2020-06-01; single-file act |
+| `548-120/` | Ausführungsbestimmungen zum Gesetz über die Familienzulagen (BR 548.120) | 1 | current text, oldest version available, 2026-01-01; single-file act |
+| `548-130/` | Interkantonale Vereinbarung vom 20. Februar 1989 über die Zuständigkeit der Familienausgleichskassen (BR 548.130) | 1 | current text, oldest version available, 1989-02-20; single-file act |
+| `548-210/` | Ausführungsbestimmungen zum Gesetz über Mutterschaftsbeiträge (BR 548.210) | 1 | current text, oldest version available, 1998-12-01; single-file act |
+| `613-160/` | Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit (BR 613.160) | 1 | current text, oldest version available, 1977-12-01; single-file act |
+| `613-180/` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (BR 613.180) | 1 | current text, oldest version available, 2015-05-21; single-file act |
+| `618-150/` | Gebührentarif zur Ausländer- und Asylgesetzgebung (BR 618.150) | 1 | current text, oldest version available, 2020-06-01; single-file act |
+| `618-170/` | Gebührentarif für arbeitsmarktliche Überprüfung von Ausländergesuchen (BR 618.170) | 1 | current text, oldest version available, 2013-01-01; single-file act |
+| `720-015/` | Ausführungsbestimmungen zur Steuergesetzgebung (BR 720.015) | 1 | current text, oldest version available, 2026-01-01; single-file act |
+| `720-110/` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen (BR 720.110) | 1 | current text, oldest version available, 1963-05-28; single-file act |
+| `720-250/` | Gegenrechtsvereinbarungen mit den Kantonen Zürich, St. Gallen, Appenzell A.-Rh., Freiburg, Basel-Stadt, Zug, Waadt und Bern über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen und wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer (BR 720.250) | 1 | current text, oldest version available, 1955-10-13; single-file act |
+| `720-255/` | Gegenrechtsvereinbarung zwischen der Regierung des Fürstentums Liechtenstein und der Regierung des Kantons Graubünden über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von den Erbschafts- und Schenkungssteuern (BR 720.255) | 1 | current text, oldest version available, 1957-08-08; single-file act |
+| `720-260/` | Gegenrechtsvereinbarung zwischen der Regierung des Kantons Graubünden und dem Regierungsrat des Kantons Thurgau über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer (BR 720.260) | 1 | current text, oldest version available, 1958-05-19; single-file act |
+| `720-265/` | Gegenseitigkeitserklärung zwischen der Bundesrepublik Deutschland und dem Kanton Graubünden über die Befreiung von Zuwendungen zu gemeinnützigen und mildtätigen (wohltätigen) Zwecken von den Erbschafts- und Schenkungssteuern (BR 720.265) | 1 | current text, oldest version available, 1975-08-01; single-file act |
+| `720-270/` | Gegenrechtsvereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Graubünden betreffend die Befreiung von der Erbschafts- und Schenkungssteuer (BR 720.270) | 1 | current text, oldest version available, 1976-08-10; single-file act |
+| `720-275/` | Gegenrechtsvereinbarung zwischen dem Kanton Wallis und dem Kanton Graubünden betreffend die Befreiung von der Erbschafts- und Schenkungssteuer (BR 720.275) | 1 | current text, oldest version available, 1978-08-21; single-file act |
+| `720-280/` | Gegenrechtsvereinbarung zwischen der Regierung des Kantons Jura und der Regierung des Kantons Graubünden über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von den Erbschafts- und Schenkungssteuern (BR 720.280) | 1 | current text, oldest version available, 1979-01-01; single-file act |
+| `720-290/` | Gegenrechtsvereinbarung betreffend die Befreiung von der Erbschafts- und Schenkungssteuer (BR 720.290) | 1 | current text, oldest version available, 1994-12-19; single-file act |
+| `720-300/` | Gegenrechtsvereinbarung betreffend die Befreiung von der Erbschafts- und Schenkungssteuer (BR 720.300) | 1 | current text, oldest version available, 1998-04-21; single-file act |
+| `720-310/` | Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und der Regierung des Kantons Graubünden betreffend Befreiung von der Erbschafts- und Schenkungssteuer (BR 720.310) | 1 | current text, oldest version available, 1999-01-01; single-file act |
+| `730-110/` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (BR 730.110) | 1 | current text, oldest version available, 2008-01-01; single-file act |
+| `780-200/` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz (BR 780.200) | 1 | current text, oldest version available, 1975-10-01; single-file act |
+| `803-210/` | Richtlinien für die von der Regierung gewählten Perimeterkommissionen (BR 803.210) | 1 | current text, oldest version available, 2008-01-01; single-file act |
+| `803-510/` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (BR 803.510) | 1 | current text, oldest version available, 2004-05-25; single-file act |
+| `803-600/` | Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (BR 803.600) | 1 | current text, oldest version available, 2022-10-01; single-file act |
+| `803-710/` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (BR 803.710) | 1 | current text, oldest version available, 2022-10-01; single-file act |
+| `815-210/` | Ausführungsbestimmungen zur Kantonalen Gewässerschutzverordnung (BR 815.210) | 1 | current text, oldest version available, 2025-01-01; single-file act |
+| `815-700/` | Interkantonale Vereinbarung über den Anschluss der Gemeinden Fläsch, Jenins und Maienfeld an die Abwasserreinigungsanlage Bad Ragaz (BR 815.700) | 1 | current text, oldest version available, 1985-04-01; single-file act |
+| `815-710/` | Interkantonale Vereinbarung zwischen den Kantonen Tessin und Graubünden über den Anschluss des Unteren Misox an die Abwasserreinigungsanlage des Consorzio depurazione acque di Bellinzona e dintorni (BR 815.710) | 1 | current text, oldest version available, 1988-06-07; single-file act |
+| `830-100/` | Gesetz über die Gebäudeversicherung im Kanton Graubünden (BR 830.100) | 1 | current text, oldest version available, 2022-10-01; single-file act |
+| `870-300/` | Regelung der Benützung von Motorschlitten (BR 870.300) | 1 | current text, oldest version available, 2011-01-01; single-file act |
+| `873-400/` | Konkordat über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte (BR 873.400) | 1 | current text, oldest version available, 1973-06-18; single-file act |
+| `877-110/` | Ausführungsbestimmungen zum Einführungsgesetz zum Bundesgesetz über die Binnenschifffahrt (BR 877.110) | 1 | current text, oldest version available, 2020-01-01; single-file act |
+| `910-400/` | Ausführungsbestimmungen für die Landwirtschaftliche Kreditgenossenschaft Graubünden (BR 910.400) | 1 | current text, oldest version available, 2023-07-01; single-file act |
+| `910-810/` | Vorpachtrecht für Alpen und Nutzungsrecht für ausserkantonale Bewerber (BR 910.810) | 1 | current text, oldest version available, 1996-09-03; single-file act |
+| `914-350/` | Entschädigungstarif für Aufgaben im Bereich der Tiergesundheit (BR 914.350) | 1 | current text, oldest version available, 2023-01-01; single-file act |
+| `915-120/` | Ausführungsbestimmungen zum Meliorationsgesetz des Kantons Graubünden (BR 915.120) | 1 | current text, oldest version available, 2026-01-01; single-file act |
+| `917-400/` | Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein (BR 917.400) | 1 | current text, oldest version available, 2019-07-01; single-file act |
+| `919-200/` | Schulordnung für den Plantahof (BR 919.200) | 1 | current text, oldest version available, 2018-03-01; single-file act |
+| `920-750/` | Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld (BR 920.750) | 1 | current text, oldest version available, 1993-01-01; single-file act |
+| `920-760/` | Öffentliche Urkunde über die Errichtung der Stiftung Interkantonale Försterschule Maienfeld (BR 920.760) | 1 | current text, oldest version available, 1972-10-11; single-file act |
+| `920-800/` | Richtlinien für die Durchführung von organisierten Veranstaltungen im Wald (BR 920.800) | 1 | current text, oldest version available, 2013-01-01; single-file act |
+| `935-310/` | Gebührentarif für das Messwesen (BR 935.310) | 1 | current text, oldest version available, 2010-05-01; single-file act |
+| `935-710/` | Gesamtschweizerisches Geldspielkonkordat (BR 935.710) | 1 | current text, oldest version available, 2021-01-01; single-file act |
+| `935-810/` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (BR 935.810) | 1 | current text, oldest version available, 2021-01-01; single-file act |
+| `938-220/` | Grossratsbeschluss betreffend Festlegung der maximalen Höhe des Dotationskapitals der Graubündner Kantonalbank (BR 938.220) | 1 | current text, oldest version available, 2005-08-01; single-file act |
+| `945-110/` | Ausführungsbestimmungen zum Gastwirtschaftsgesetz (BR 945.110) | 1 | current text, oldest version available, 2013-01-01; single-file act |
+| `947-200/` | Ausführungsbestimmungen zum Gesetz über das Berg- und Schneesportwesen (BR 947.200) | 1 | current text, oldest version available, 2019-10-01; single-file act |
+| `950-000/` | Zuständige kantonale Stelle für die Preisüberwachung (BR 950.000) | 1 | current text, oldest version available, 2020-01-01; single-file act |
 
 ## Source
 

@@ -1,12 +1,13 @@
 # How this repository was made (Graubünden)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Kanton Graubünden: BR (LexWork) | <https://www.gr-lex.gr.ch/> | 2026-10-30 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Kanton Graubünden: BR (LexWork) | <https://www.gr-lex.gr.ch/> | 2026-11-05 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -35,7 +36,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `210-100-egzzgb` | Einführungsgesetz zum Schweizerischen Zivilgesetzbuch | 9 | 2015-01-01 to 2026-01-01 |
 | `210-200-egzor` | Einführungsgesetz zum Schweizerischen Obligationenrecht | 4 | 2011-01-01 to 2025-01-01 |
 | `210-300-notg` | Notariatsgesetz | 5 | 2008-01-01 to 2025-01-01 |
-| `217-300-kgeoig` | Kantonales Geoinformationsgesetz | 1 | 2012-01-01 to 2012-01-01 |
+| `217-300-kgeoig` | Kantonales Geoinformationsgesetz | 2 | 2012-01-01 to 2016-06-01 |
 | `217-600` | Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland (BewG) | 2 | 2007-01-01 to 2025-01-01 |
 | `219-050` | Pflegekindergesetz | 1 | 2013-01-01 to 2013-01-01 |
 | `220-000-egzschkg` | Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs | 3 | 2016-01-01 to 2025-01-01 |
@@ -325,20 +326,109 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `935-510-geldspielverordnung-vkgs` | Verordnung zum Geldspielgesetz des Kantons Graubünden | 1 | 2021-01-01 to 2021-01-01 |
 | `950-270-vfw` | Verordnung über die Förderung von Wohnraum | 3 | 2008-01-01 to 2026-01-01 |
 | `960-110-vdt` | Verordnung zur Förderung der digitalen Transformation in Graubünden | 1 | 2021-01-01 to 2021-01-01 |
+| `170-140` | Geschäftsordnung des Grossen Rates | 1 | 2025-01-01 to 2025-01-01 |
+| `170-310` | Regierungs- und Verwaltungsorganisationsverordnung | 1 | 2026-11-02 to 2026-11-02 |
+| `173-020` | Geschäftsordnung des Justizgerichts | 1 | 2025-01-01 to 2025-01-01 |
+| `173-120` | Geschäftsordnung des Regionalgerichts Albula | 1 | 2025-01-01 to 2025-01-01 |
+| `173-125` | Geschäftsordnung des Regionalgerichts Bernina | 1 | 2025-01-01 to 2025-01-01 |
+| `173-130` | Geschäftsordnung des Regionalgerichts Engiadina Bassa/Val Müstair | 1 | 2025-01-01 to 2025-01-01 |
+| `173-135` | Geschäftsordnung des Regionalgerichts Imboden | 1 | 2025-01-01 to 2025-01-01 |
+| `173-140` | Geschäftsordnung des Regionalgerichts Landquart | 1 | 2025-01-01 to 2025-01-01 |
+| `173-145` | Geschäftsordnung des Regionalgerichts Moesa | 1 | 2025-01-01 to 2025-01-01 |
+| `173-150` | Geschäftsordnung des Regionalgerichts Maloja | 1 | 2025-01-01 to 2025-01-01 |
+| `173-155` | Geschäftsordnung des Regionalgerichts Plessur | 1 | 2025-01-01 to 2025-01-01 |
+| `173-160` | Geschäftsordnung des Regionalgerichts Prättigau/Davos | 1 | 2025-01-01 to 2025-01-01 |
+| `173-165` | Geschäftsordnung des Regionalgerichts Surselva | 1 | 2025-01-01 to 2025-01-01 |
+| `173-170` | Geschäftsordnung des Regionalgerichts Viamala | 1 | 2025-01-01 to 2025-01-01 |
+| `219-140` | Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin | 1 | 2026-01-01 to 2026-01-01 |
+| `219-400` | Ausführungsbestimmungen zur eidgenössischen Verordnung vom 30. Oktober 1917 betreffend die Viehverpfändung | 1 | 1994-10-01 to 1994-10-01 |
+| `320-100` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung | 1 | 2026-01-01 to 2026-01-01 |
+| `350-100` | Einführungsgesetz zur Schweizerischen Strafprozessordnung | 1 | 2026-01-01 to 2026-01-01 |
+| `350-345` | Ausführungsbestimmungen zum Bundesgesetz über Waffen, Waffenzubehör und Munition | 1 | 2020-06-01 to 2020-06-01 |
+| `350-400` | Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen vom 29. Oktober 2004 | 1 | 2007-01-01 to 2007-01-01 |
+| `410-100` | Neuregelung der Aufsicht über die Klosterverwaltungen | 1 | 1956-05-29 to 1956-05-29 |
+| `420-575` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 1 | 2017-01-01 to 2017-01-01 |
+| `421-160` | Konkordat über die Schulkoordination | 1 | 1971-06-09 to 1971-06-09 |
+| `425-110` | Schulordnung der Bündner Kantonsschule als kantonale Mittelschule am Standort Chur | 1 | 2019-08-01 to 2019-08-01 |
+| `425-500` | Benützungs- und Gebührenverordnung für die Mittelschulen mit kantonaler Trägerschaft | 1 | 2022-08-01 to 2022-08-01 |
+| `427-010` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `433-170` | Rahmenlehrplan zum Fortbildungsgesetz | 1 | 1976-07-01 to 1976-07-01 |
+| `450-110` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2013-03-01 to 2013-03-01 |
+| `490-250` | Benutzungsordnung der Kantonsbibliothek Graubünden | 1 | 2023-07-01 to 2023-07-01 |
+| `496-100` | Kantonale Natur- und Heimatschutzverordnung | 1 | 2024-09-01 to 2024-09-01 |
+| `506-810` | Interkantonale Vereinbarung über die hochspezialisierte Medizin | 1 | 2009-02-17 to 2009-02-17 |
+| `507-410` | Entschädigungstarif für die Schlachttier- und Fleischuntersuchung | 1 | 2025-10-01 to 2025-10-01 |
+| `507-420` | Gebührentarif für die Schlachttier- und Fleischuntersuchung sowie für Betriebsbewilligungen von Schlachtanlagen und Zerlegebetrieben | 1 | 2013-10-01 to 2013-10-01 |
+| `530-200` | Ausführungsbestimmungen zum Heimarbeitsgesetz | 1 | 2011-01-01 to 2011-01-01 |
+| `535-100` | Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen | 1 | 2007-01-01 to 2007-01-01 |
+| `535-200` | Normalarbeitsvertrag für das hauswirtschaftliche Arbeitsverhältnis | 1 | 2020-01-01 to 2020-01-01 |
+| `535-230` | Normalarbeitsvertrag für das landwirtschaftliche Arbeitsverhältnis | 1 | 2022-03-01 to 2022-03-01 |
+| `535-250` | Normalarbeitsvertrag für das Alp- und Hirtschaftspersonal | 1 | 2022-03-01 to 2022-03-01 |
+| `544-320` | Ausführungsbestimmungen zum kantonalen Gesetz über Ergänzungsleistungen | 1 | 2021-01-01 to 2021-01-01 |
+| `546-270` | Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz | 1 | 2026-02-01 to 2026-02-01 |
+| `546-710` | Interkantonale Vereinbarung für soziale Einrichtungen | 1 | 2020-06-01 to 2020-06-01 |
+| `548-120` | Ausführungsbestimmungen zum Gesetz über die Familienzulagen | 1 | 2026-01-01 to 2026-01-01 |
+| `548-130` | Interkantonale Vereinbarung vom 20. Februar 1989 über die Zuständigkeit der Familienausgleichskassen | 1 | 1989-02-20 to 1989-02-20 |
+| `548-210` | Ausführungsbestimmungen zum Gesetz über Mutterschaftsbeiträge | 1 | 1998-12-01 to 1998-12-01 |
+| `613-160` | Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 1977-12-01 to 1977-12-01 |
+| `613-180` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2015-05-21 to 2015-05-21 |
+| `618-150` | Gebührentarif zur Ausländer- und Asylgesetzgebung | 1 | 2020-06-01 to 2020-06-01 |
+| `618-170` | Gebührentarif für arbeitsmarktliche Überprüfung von Ausländergesuchen | 1 | 2013-01-01 to 2013-01-01 |
+| `720-015` | Ausführungsbestimmungen zur Steuergesetzgebung | 1 | 2026-01-01 to 2026-01-01 |
+| `720-110` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1963-05-28 to 1963-05-28 |
+| `720-250` | Gegenrechtsvereinbarungen mit den Kantonen Zürich, St. Gallen, Appenzell A.-Rh., Freiburg, Basel-Stadt, Zug, Waadt und Bern über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen und wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer | 1 | 1955-10-13 to 1955-10-13 |
+| `720-255` | Gegenrechtsvereinbarung zwischen der Regierung des Fürstentums Liechtenstein und der Regierung des Kantons Graubünden über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von den Erbschafts- und Schenkungssteuern | 1 | 1957-08-08 to 1957-08-08 |
+| `720-260` | Gegenrechtsvereinbarung zwischen der Regierung des Kantons Graubünden und dem Regierungsrat des Kantons Thurgau über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von der Erbschafts- und Schenkungssteuer | 1 | 1958-05-19 to 1958-05-19 |
+| `720-265` | Gegenseitigkeitserklärung zwischen der Bundesrepublik Deutschland und dem Kanton Graubünden über die Befreiung von Zuwendungen zu gemeinnützigen und mildtätigen (wohltätigen) Zwecken von den Erbschafts- und Schenkungssteuern | 1 | 1975-08-01 to 1975-08-01 |
+| `720-270` | Gegenrechtsvereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Graubünden betreffend die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1976-08-10 to 1976-08-10 |
+| `720-275` | Gegenrechtsvereinbarung zwischen dem Kanton Wallis und dem Kanton Graubünden betreffend die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1978-08-21 to 1978-08-21 |
+| `720-280` | Gegenrechtsvereinbarung zwischen der Regierung des Kantons Jura und der Regierung des Kantons Graubünden über die Befreiung von Zuwendungen zu öffentlichen, gemeinnützigen oder wohltätigen Zwecken von den Erbschafts- und Schenkungssteuern | 1 | 1979-01-01 to 1979-01-01 |
+| `720-290` | Gegenrechtsvereinbarung betreffend die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1994-12-19 to 1994-12-19 |
+| `720-300` | Gegenrechtsvereinbarung betreffend die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1998-04-21 to 1998-04-21 |
+| `720-310` | Vereinbarung zwischen dem Regierungsrat des Kantons Aargau und der Regierung des Kantons Graubünden betreffend Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1999-01-01 to 1999-01-01 |
+| `730-110` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2008-01-01 to 2008-01-01 |
+| `780-200` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `803-210` | Richtlinien für die von der Regierung gewählten Perimeterkommissionen | 1 | 2008-01-01 to 2008-01-01 |
+| `803-510` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2004-05-25 to 2004-05-25 |
+| `803-600` | Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2022-10-01 to 2022-10-01 |
+| `803-710` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2022-10-01 to 2022-10-01 |
+| `815-210` | Ausführungsbestimmungen zur Kantonalen Gewässerschutzverordnung | 1 | 2025-01-01 to 2025-01-01 |
+| `815-700` | Interkantonale Vereinbarung über den Anschluss der Gemeinden Fläsch, Jenins und Maienfeld an die Abwasserreinigungsanlage Bad Ragaz | 1 | 1985-04-01 to 1985-04-01 |
+| `815-710` | Interkantonale Vereinbarung zwischen den Kantonen Tessin und Graubünden über den Anschluss des Unteren Misox an die Abwasserreinigungsanlage des Consorzio depurazione acque di Bellinzona e dintorni | 1 | 1988-06-07 to 1988-06-07 |
+| `830-100` | Gesetz über die Gebäudeversicherung im Kanton Graubünden | 1 | 2022-10-01 to 2022-10-01 |
+| `870-300` | Regelung der Benützung von Motorschlitten | 1 | 2011-01-01 to 2011-01-01 |
+| `873-400` | Konkordat über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte | 1 | 1973-06-18 to 1973-06-18 |
+| `877-110` | Ausführungsbestimmungen zum Einführungsgesetz zum Bundesgesetz über die Binnenschifffahrt | 1 | 2020-01-01 to 2020-01-01 |
+| `910-400` | Ausführungsbestimmungen für die Landwirtschaftliche Kreditgenossenschaft Graubünden | 1 | 2023-07-01 to 2023-07-01 |
+| `910-810` | Vorpachtrecht für Alpen und Nutzungsrecht für ausserkantonale Bewerber | 1 | 1996-09-03 to 1996-09-03 |
+| `914-350` | Entschädigungstarif für Aufgaben im Bereich der Tiergesundheit | 1 | 2023-01-01 to 2023-01-01 |
+| `915-120` | Ausführungsbestimmungen zum Meliorationsgesetz des Kantons Graubünden | 1 | 2026-01-01 to 2026-01-01 |
+| `917-400` | Ausführungsbestimmungen zur Verordnung über den Rebbau und die Einfuhr von Wein | 1 | 2019-07-01 to 2019-07-01 |
+| `919-200` | Schulordnung für den Plantahof | 1 | 2018-03-01 to 2018-03-01 |
+| `920-750` | Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld | 1 | 1993-01-01 to 1993-01-01 |
+| `920-760` | Öffentliche Urkunde über die Errichtung der Stiftung Interkantonale Försterschule Maienfeld | 1 | 1972-10-11 to 1972-10-11 |
+| `920-800` | Richtlinien für die Durchführung von organisierten Veranstaltungen im Wald | 1 | 2013-01-01 to 2013-01-01 |
+| `935-310` | Gebührentarif für das Messwesen | 1 | 2010-05-01 to 2010-05-01 |
+| `935-710` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `935-810` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `938-220` | Grossratsbeschluss betreffend Festlegung der maximalen Höhe des Dotationskapitals der Graubündner Kantonalbank | 1 | 2005-08-01 to 2005-08-01 |
+| `945-110` | Ausführungsbestimmungen zum Gastwirtschaftsgesetz | 1 | 2013-01-01 to 2013-01-01 |
+| `947-200` | Ausführungsbestimmungen zum Gesetz über das Berg- und Schneesportwesen | 1 | 2019-10-01 to 2019-10-01 |
+| `950-000` | Zuständige kantonale Stelle für die Preisüberwachung | 1 | 2020-01-01 to 2020-01-01 |
 
-The build made 709 commits:
+The build made 800 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 311 | first version of an act |
-| 398 | one law on its in-force day |
+| 400 | first version of an act |
+| 399 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 6 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 901 laws in the record.
-- 1377 tags.
+- 6 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
+- 6 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 902 laws in the record.
+- 1469 tags.
 
 ## Dates
 
@@ -350,15 +440,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f042596fee35cd1e5ad905ddb7fe4ddd27d280dfa98afdb2f931879df6e562f6` (9810811 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `d9243d106f84892e4ddc0b9df51781c5089d9a5ccd27da7656dd833ea616c54c` (10923479 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-899 versions of 311 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+989 versions of 400 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 793 history commits and 1468 tags (history tip `1b650c1751946942aaf92c74fd134bd2dd2c5ed0`).
 
 ## Decisions made by hand
 
@@ -367,6 +457,96 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- BR 170.140: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 14.06.2022).
+- BR 170.310: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 02.11.2026 (Beschlussdatum: 22.09.2026).
+- BR 173.020: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 31.10.2024).
+- BR 173.120: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.125: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.130: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.135: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.140: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.145: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.150: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.155: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.160: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.165: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 173.170: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 02.01.2025).
+- BR 219.140: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2026 (Beschlussdatum: 22.05.2024).
+- BR 219.400: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.1994 (Beschlussdatum: 01.12.1993).
+- BR 320.100: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2026 (Beschlussdatum: 10.02.2025).
+- BR 350.100: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2026 (Beschlussdatum: 10.02.2025).
+- BR 350.345: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.06.2020 (Beschlussdatum: 26.05.2020).
+- BR 350.400: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2007 (Beschlussdatum: 24.04.2006).
+- BR 410.100: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 29.05.1956 (Beschlussdatum: 29.05.1956).
+- BR 420.575: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2017 (Beschlussdatum: 21.04.2015).
+- BR 421.160: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 09.06.1971 (Beschlussdatum: 29.10.1970).
+- BR 425.110: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.08.2019 (Beschlussdatum: 25.06.2019).
+- BR 425.500: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.08.2022 (Beschlussdatum: 01.02.2022).
+- BR 427.010: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2015 (Beschlussdatum: 20.10.2014).
+- BR 433.170: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.07.1976 (Beschlussdatum: 01.07.1976).
+- BR 450.110: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.03.2013 (Beschlussdatum: 20.04.2010).
+- BR 490.250: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.07.2023 (Beschlussdatum: 09.05.2023).
+- BR 496.100: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.09.2024 (Beschlussdatum: 20.08.2024).
+- BR 506.810: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 17.02.2009 (Beschlussdatum: 21.10.2008).
+- BR 507.410: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.2025 (Beschlussdatum: 02.09.2025).
+- BR 507.420: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.2013 (Beschlussdatum: 03.09.2013).
+- BR 530.200: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2011 (Beschlussdatum: 21.12.2010).
+- BR 535.100: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2007 (Beschlussdatum: 24.10.2006).
+- BR 535.200: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2020 (Beschlussdatum: 26.11.2019).
+- BR 535.230: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.03.2022 (Beschlussdatum: 01.02.2022).
+- BR 535.250: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.03.2022 (Beschlussdatum: 01.02.2022).
+- BR 544.320: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2021 (Beschlussdatum: 17.11.2020).
+- BR 546.270: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.02.2026 (Beschlussdatum: 19.01.2026).
+- BR 546.710: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.06.2020 (Beschlussdatum: 04.12.2019).
+- BR 548.120: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2026 bis: 31.12.2026 (Beschlussdatum: 14.10.2025).
+- BR 548.130: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 20.02.1989 (Beschlussdatum: 20.02.1989).
+- BR 548.210: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.12.1998 (Beschlussdatum: 27.10.1998).
+- BR 613.160: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.12.1977 (Beschlussdatum: 08.02.1977).
+- BR 613.180: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 21.05.2015 (Beschlussdatum: 26.05.2015).
+- BR 618.150: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.06.2020 (Beschlussdatum: 26.05.2020).
+- BR 618.170: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2013 (Beschlussdatum: 27.11.2012).
+- BR 720.015: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2026 (Beschlussdatum: 17.02.2026).
+- BR 720.110: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 28.05.1963 (Beschlussdatum: 10.12.1948).
+- BR 720.250: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 13.10.1955 (Beschlussdatum: 13.10.1955).
+- BR 720.255: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 08.08.1957 (Beschlussdatum: 29.05.1957).
+- BR 720.260: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 19.05.1958 (Beschlussdatum: 07.05.1958).
+- BR 720.265: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.08.1975 (Beschlussdatum: 05.05.1975).
+- BR 720.270: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 10.08.1976 (Beschlussdatum: 19.07.1976).
+- BR 720.275: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 21.08.1978 (Beschlussdatum: 21.08.1978).
+- BR 720.280: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.1979 (Beschlussdatum: 15.01.1979).
+- BR 720.290: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 19.12.1994 (Beschlussdatum: 13.12.1994).
+- BR 720.300: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 21.04.1998 (Beschlussdatum: 21.04.1998).
+- BR 720.310: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.1999 (Beschlussdatum: 15.06.1999).
+- BR 730.110: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2008 (Beschlussdatum: 24.05.2005).
+- BR 780.200: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.1975 (Beschlussdatum: 22.11.1973).
+- BR 803.210: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2008 (Beschlussdatum: 20.03.2007).
+- BR 803.510: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 25.05.2004 (Beschlussdatum: 10.02.2004).
+- BR 803.600: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.2022 (Beschlussdatum: 07.12.2021).
+- BR 803.710: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.2022 (Beschlussdatum: 15.11.2019).
+- BR 815.210: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2025 (Beschlussdatum: 17.12.2024).
+- BR 815.700: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.04.1985 (Beschlussdatum: 01.04.1985).
+- BR 815.710: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 07.06.1988 (Beschlussdatum: 07.06.1988).
+- BR 830.100: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.2022 (Beschlussdatum: 07.12.2021).
+- BR 870.300: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2011 (Beschlussdatum: 21.12.2010).
+- BR 873.400: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 18.06.1973 (Beschlussdatum: 27.10.1972).
+- BR 877.110: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2020 (Beschlussdatum: 10.12.2019).
+- BR 910.400: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.07.2023 (Beschlussdatum: 30.05.2023).
+- BR 910.810: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 03.09.1996 (Beschlussdatum: 03.09.1996).
+- BR 914.350: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2023 (Beschlussdatum: 13.12.2022).
+- BR 915.120: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2026 (Beschlussdatum: 11.11.2025).
+- BR 917.400: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.07.2019 (Beschlussdatum: 18.06.2019).
+- BR 919.200: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.03.2018 (Beschlussdatum: 27.02.2018).
+- BR 920.750: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.1993 (Beschlussdatum: 01.01.1993).
+- BR 920.760: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 11.10.1972 (Beschlussdatum: 11.10.1972).
+- BR 920.800: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2013 (Beschlussdatum: 06.11.2012).
+- BR 935.310: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.05.2010 (Beschlussdatum: 27.04.2010).
+- BR 935.710: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2021 (Beschlussdatum: 20.05.2019).
+- BR 935.810: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2021 (Beschlussdatum: 20.05.2019).
+- BR 938.220: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.08.2005 (Beschlussdatum: 18.04.2005).
+- BR 945.110: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2013 (Beschlussdatum: 03.12.2012).
+- BR 947.200: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.10.2019 (Beschlussdatum: 27.08.2019).
+- BR 950.000: current text as a single-file act; In-force basis: Aktuelle Version in Kraft seit: 01.01.2020 (Beschlussdatum: 10.12.2019).
+- BR 217.300: the selected current version is in force since 01.06.2016, decision 17.05.2016. The source amendment table inserts Articles 39 and 40 on that day (AGS 2016-007), although its nominal 2012 XHTML already displays those later provisions. Remove only those inserted provisions before 2016-06-01; all retained law text is unchanged. This is a labelled correction of the earlier range followed by the dated current version.
 
 ## What AI did and did not do
 
@@ -378,3 +558,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
+- A model wrote extraction and validation code and classified listing exclusions; no model-generated or model-corrected law text.
+- A model wrote validation code and interpreted official amendment/date metadata; no law words were generated or corrected.
